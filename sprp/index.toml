@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "chisel.pw.toml"
+hash = "b9aa5b5b9b492c6b59c4ccc827bf9aaeda08c4c58dfea13daed61a8298e363fa"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
@@ -26,6 +31,11 @@ hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
 
 [[files]]
+file = "mods/better-builders-wands.pw.toml"
+hash = "f7c821287bcb460b7cd51438d4f08c818beb1070d687a0460ce5c5279941bad2"
+metafile = true
+
+[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "9816a742885cbb74ea91d333240bb1e658f72e757c16d6ebeb690c7f8f45a4a2"
 metafile = true
@@ -38,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/bonsai-trees.pw.toml"
 hash = "30c7e695c156b6e560d1c8db3a63d4446f73c89bfcb6bee5a6a819276b19614a"
+metafile = true
+
+[[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
+metafile = true
+
+[[files]]
+file = "mods/chameleon.pw.toml"
+hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
 metafile = true
 
 [[files]]
@@ -61,6 +81,16 @@ hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "2f032abefdc59f6946c9d1c5efd567d2c664c0c9ea4f427f62c6271bb25d66b4"
+metafile = true
+
+[[files]]
+file = "mods/colossal-chests.pw.toml"
+hash = "6dfc6d56dbe9234613c9efedbed372d3a990bf49f45ec9958d1e95518c31229c"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e8d1cfc13226f6633ebd7fef08e6818471969453778bb4d7e99c8ca09250831a"
 metafile = true
@@ -73,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "586a89f27eec933e166c5e1fb90f0909b9f2b219419a432aaad1e1c8865edd28"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
+metafile = true
+
+[[files]]
+file = "mods/dank-null.pw.toml"
+hash = "f8a9056b5e917ea46161f4e863eff542f92a33563caf7d72e74826a66be66868"
 metafile = true
 
 [[files]]
@@ -98,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "eafb0b5ea70aa40fd93e93331e0a4d59708b9a7502297a3ece67a3c83813f9a2"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
 metafile = true
 
 [[files]]
@@ -158,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/iron-backpacks.pw.toml"
 hash = "7ac16b8d705170e86b2f4a1216afe9f124bb859121f24d4e28f6d77c4b6dcf3f"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
 metafile = true
 
 [[files]]
@@ -226,13 +276,58 @@ hash = "c177030cdf99db98e1807a6803da85b12b4a5af7fcb65b83a7356aa37cafe691"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
+metafile = true
+
+[[files]]
+file = "mods/no-recipe-book.pw.toml"
+hash = "db9226f9b8d9f01104b89e51fec4783c4cbc2fe9fd57a8dcd4612c06d6e64ee0"
+metafile = true
+
+[[files]]
+file = "mods/openblocks.pw.toml"
+hash = "978ca201971ac81b047c0be1caeaa23df557610507c70f0a8c88ba6549caa624"
+metafile = true
+
+[[files]]
+file = "mods/openmodslib.pw.toml"
+hash = "c9b95c504f693a9f7e7b1a91ae7181a882fb79bab07304c216a1b18d3424b8c2"
+metafile = true
+
+[[files]]
+file = "mods/p455w0rds-library.pw.toml"
+hash = "f7e6f638078c6717ea9e2e76bac01d7680fb48634bf04bf7f1e9d430cd27e626"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "2e9648786a8cf14889eeac19283e7b534be2195d8c6f8de292d0af4071802f31"
 metafile = true
 
 [[files]]
+file = "mods/quickhomes.pw.toml"
+hash = "617fe08530e5ff5ff52d422c66ed0d89a7e765308addcd42b261d6cb628bd6ee"
+metafile = true
+
+[[files]]
+file = "mods/quickteleports.pw.toml"
+hash = "fa001617cc96f2f6168da9cd1e2f8e5d3791446099f921b222eb1fb2fac8df28"
+metafile = true
+
+[[files]]
 file = "mods/redstone-flux.pw.toml"
 hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
+
+[[files]]
+file = "mods/refined-avaritia.pw.toml"
+hash = "8d09ca78a807de246e7fd5a734008fb26801fe469452b38c282b7859baaf35b2"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "3d8916f266980c5865823128f66e8bac306e39e44ba95c9bb65330bff7b74115"
 metafile = true
 
 [[files]]
@@ -261,8 +356,23 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
+file = "mods/smaller-nether-portals.pw.toml"
+hash = "ba7a1aee413d0116047a858f03b769e7c7e64ffa7ac776b067414677f2b2bb5d"
+metafile = true
+
+[[files]]
 file = "mods/sonar-core.pw.toml"
 hash = "7a4e79ac0f156c4a700b05641286aeef8c6bf9770bf03729de534232e4185d1b"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers-extras.pw.toml"
+hash = "80fa2ed17b25168d5c599b9d54b30dd7fb7b6b3ef6c52d1b9eca5148504076c6"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "c7cc5deb2c40eab1824622a0d48a15e2aab18d967a935c8f4c0c5fc5fe80fa86"
 metafile = true
 
 [[files]]
@@ -298,6 +408,31 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "a3895abc87b7e4c9650ce4e7938953f22831d1f1e4e0fefc7a8c9dc65c0eb899"
+metafile = true
+
+[[files]]
+file = "mods/translocators-1-8.pw.toml"
+hash = "e20c672b807a489407d4a11c6a0767f554d6ae5c97afb265388311611219bdbd"
+metafile = true
+
+[[files]]
+file = "mods/unidict.pw.toml"
+hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
+metafile = true
+
+[[files]]
+file = "mods/unlimited-chisel-works.pw.toml"
+hash = "3a41f19e492630f2256f127fcc977a4e10839ac79bfb8e7cf382f1d25de04655"
+metafile = true
+
+[[files]]
+file = "mods/wanionlib.pw.toml"
+hash = "c7ccd04b86ab565a6728caed521d36346b312aeeb1055dfda5b1e379cb8a9565"
 metafile = true
 
 [[files]]

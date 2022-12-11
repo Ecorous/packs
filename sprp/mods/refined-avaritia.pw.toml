@@ -1,0 +1,13 @@
+name = "Refined Avaritia"
+filename = "refined_avaritia-1.12.2-2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "664327788e135808188e2d31ff6b2710f779f70e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2680357
+project-id = 269583

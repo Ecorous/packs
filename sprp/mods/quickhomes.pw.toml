@@ -1,0 +1,13 @@
+name = "QuickHomes"
+filename = "QuickHomes-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07308986abb65a560a62c2df2bce7545acbc252e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2600041
+project-id = 277625
