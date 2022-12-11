@@ -1,0 +1,13 @@
+name = "Refined Storage CRT"
+filename = "Refined+Storage+CRT.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "106221c0d77ff3a6f05cc1bdd6f161669633ca62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2737895
+project-id = 326617

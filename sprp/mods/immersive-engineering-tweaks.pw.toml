@@ -1,0 +1,13 @@
+name = "Immersive Engineering Tweaks"
+filename = "immersivetweaks-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "559927fb64f7e8c31f95d341b119921f2bad6018"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2824298
+project-id = 350801

@@ -1,0 +1,13 @@
+name = "SPRP Modded"
+author = "TirFarThoinn"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "69d0b93586a0468e84d5f1adb43889a5f117170721f4bce3cb5340101a3115be"
+
+[versions]
+forge = "14.23.5.2859"
+minecraft = "1.12.2"
