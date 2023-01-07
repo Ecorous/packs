@@ -1321,38 +1321,6 @@ file = "config/worldedit/worldedit.properties"
 hash = "54be3fad2a6f681d57197eaac67d5c100c1dbaf3e55c973650d39c26fe69196a"
 
 [[files]]
-file = "config/wwoo/banned_biomes.json5"
-hash = "fab15f5a6589315f3280ee239f086a125cde8ca7e9d1b4ea42706656382e7f71"
-
-[[files]]
-file = "config/wwoo/resources/1.19_base.zip"
-hash = "7f71ff6698de91f88029cd25a30908effdf718e091fd5d3c8835b142f1cee71d"
-
-[[files]]
-file = "config/wwoo/resources/1.19_compatible.zip"
-hash = "fe60f24ec68c9254d48781980b7db45a79277da0767b168e78cf0350a53adf96"
-
-[[files]]
-file = "config/wwoo/resources/1.19_default.zip"
-hash = "72d812dc3e5156c11d378a1b506c46bee19091fad89af70945412c20301ebcd4"
-
-[[files]]
-file = "config/wwoo/resources/biome_layout.json"
-hash = "3f3ad42164ed681779a9e6affbab18f8a2d137cddf10db32428bf31aecf3b79f"
-
-[[files]]
-file = "config/wwoo/resources/surface_rules.json"
-hash = "47ec1c69249314c2c4ab54414d3f814e37f1045cd2b56e7abb30a61dc84e553a"
-
-[[files]]
-file = "config/wwoo/wwoo.json"
-hash = "5aec6a932ac1af56c368c519336d4e48b36fdc3aa298c49b2b11810333bb0ac2"
-
-[[files]]
-file = "config/wwoo/wwoo.json5"
-hash = "57119a931b911205c5e288e9b85fe3e7e18f96d7e5f8662903973682cfaa9d83"
-
-[[files]]
 file = "config/xaerominimap.txt"
 hash = "4217a49f3e3b49fd92d62331d7410e5a449a1e81b120fe2281f5b8f03b19d7e3"
 
