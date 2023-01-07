@@ -1,0 +1,13 @@
+name = "Pigless Portals"
+filename = "piglessportals-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2072fdcfcc063e5bcf14724f2a149dd35c9d7c04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821359
+project-id = 402196

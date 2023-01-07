@@ -1,0 +1,13 @@
+name = "Bone Zone"
+filename = "BoneZone-Fabric-1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f972af936945d55560cc8f956cfae9c05b40955b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4057706
+project-id = 690176

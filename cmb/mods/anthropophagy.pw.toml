@@ -1,0 +1,13 @@
+name = "Anthropophagy"
+filename = "anthropophagy-1.19-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cebe3c4bbc0b294769e672cb5d9d11fdc6f78473"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3830807
+project-id = 351402

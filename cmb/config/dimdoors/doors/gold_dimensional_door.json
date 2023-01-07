@@ -1,0 +1,46 @@
+{
+  "id": "dimdoors:gold_dimensional_door",
+  "itemSettings": {
+    "parent": "dimdoors:gold_door",
+    "maxCount": 1,
+    "rarity": "uncommon",
+    "fireproof": false
+  },
+  "blockSettings": {
+    "parent": "dimdoors:gold_door",
+    "luminance": 10
+  },
+  "riftData": [
+    {
+      "data": {
+        "destination": {
+          "acceptedGroups": [
+            0
+          ],
+          "newRiftWeight": 1.0,
+          "weightMaximum": 100.0,
+          "coordFactor": 1.0,
+          "noLinkBack": 0,
+          "positiveDepthFactor": 80.0,
+          "type": "dimdoors:available_link",
+          "negativeDepthFactor": 10000.0,
+          "noLink": 0
+        },
+        "properties": {
+          "entranceWeight": 0.0,
+          "groups": [
+            0,
+            1
+          ],
+          "floatingWeight": 0.0,
+          "linksRemaining": 1,
+          "oneWay": 0
+        }
+      },
+      "condition": {
+        "type": "dimdoors:always_true"
+      }
+    }
+  ],
+  "hasToolTip": true
+}

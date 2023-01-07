@@ -1,0 +1,10 @@
+{
+	"resizeBoundsOnly": false,
+	"minScale": 0.015625,
+	"maxScale": 16.0,
+	"shrinkMultiplier": 0.5,
+	"growthMultiplier": 2.0,
+	"shrinkDelayTicks": 100,
+	"growthDelayTicks": 100,
+	"resizingEffectDuration": 30020
+}

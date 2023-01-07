@@ -1,0 +1,13 @@
+name = "Cammie's Wearable Backpacks"
+filename = "camsbackpacks-2.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7badc2a341822e49dd55d5c6043849191b0861cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4073156
+project-id = 443091

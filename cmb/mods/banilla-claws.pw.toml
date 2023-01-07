@@ -1,0 +1,13 @@
+name = "Banilla Claws"
+filename = "banilla-claws-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0cc5c5f602c239b1fdfc69fd05d8c07eae2b96af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3842403
+project-id = 629973

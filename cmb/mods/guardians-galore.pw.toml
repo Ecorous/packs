@@ -1,0 +1,13 @@
+name = "Guardians Galore"
+filename = "GuardiansGalore-1.19.2-3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1422055299664b828830ab8c3c473e67ef8122a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4095977
+project-id = 483073

@@ -1,0 +1,22 @@
+{
+  "protagonistAggressionThreshold": 700,
+  "yellowSerfPercentage": 0.25,
+  "subtlety": true,
+  "statueEffectChance": 0.4,
+  "modUpdateInterval": 20,
+  "maxStabilizers": 12,
+  "masksConcealNameplates": true,
+  "deadlyInsanityThreshold": 50,
+  "insanityEventAttempts": 3,
+  "insanityInterval": 2000,
+  "shockRemoveChance": 0.01,
+  "tranquilizedSanityBonus": 25,
+  "tranquilizedSanityCapRegainChance": 0.1,
+  "psychonautHouseWeight": 5,
+  "hasturShrineWeight": 60,
+  "infestedWheatChance": 0.05,
+  "useShaders": true,
+  "forceChunkColorUpdates": true,
+  "marginX": 32,
+  "marginY": 32
+}

@@ -1,0 +1,13 @@
+name = "Grillin' Galore"
+filename = "grillingalore-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "10c393b47821d08d84bfd377c9fd24e97f7cb890"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3947659
+project-id = 622685

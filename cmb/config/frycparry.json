@@ -1,0 +1,14 @@
+{
+  "shieldParryTicks": 5,
+  "enableBlockingWithSword": true,
+  "swordParryTicks": 5,
+  "enableBlockingWithAxe": true,
+  "axeParryTicks": 5,
+  "parryKnockbackStrength": 9,
+  "interruptSwordBlockActionAfterParryOrBlock": true,
+  "interruptAxeBlockActionAfterParryOrBlock": true,
+  "swordBlockMeleeDamageTaken": 50,
+  "swordBlockArrowDamageTaken": 90,
+  "axeBlockMeleeDamageTaken": 40,
+  "axeBlockArrowDamageTaken": 85
+}

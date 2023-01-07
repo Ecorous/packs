@@ -1,0 +1,61 @@
+{
+  "merc_biomes": [
+    "#forest",
+    "#plains",
+    "#icy",
+    "#taiga",
+    "#jungle",
+    "#desert",
+    "#mesa"
+  ],
+  "merc_spawn_weight": 5,
+  "merc_min_group": 1,
+  "merc_max_group": 2,
+  "spy_biomes": [
+    "#taiga",
+    "#jungle",
+    "#mesa"
+  ],
+  "spy_spawn_weight": 5,
+  "spy_min_group": 1,
+  "spy_max_group": 2,
+  "lesser_biomes": [
+    "#nether"
+  ],
+  "lesser_spawn_weight": 2,
+  "lesser_min_group": 1,
+  "lesser_max_group": 2,
+  "greater_biomes": [
+    "#nether"
+  ],
+  "greater_spawn_weight": 1,
+  "greater_min_group": 1,
+  "greater_max_group": 1,
+  "merc_health": 20.0,
+  "merc_exp": 4,
+  "spy_health": 20.0,
+  "spy_exp": 4,
+  "lesser_health": 48.0,
+  "lesser_exp": 8,
+  "greater_health": 100.0,
+  "greater_exp": 16,
+  "rocket_breaks": true,
+  "balrog_breaks": false,
+  "grenades_breaks": false,
+  "bullets_breakdripstone": false,
+  "pistol_damage": 13.0,
+  "golden_pistol_damage": 14.0,
+  "silenced_pistol_damage": 12.0,
+  "luger_damage": 13.5,
+  "ak47_damage": 14.0,
+  "sniper_damage": 33.0,
+  "sniper_scoped_damage": 45.0,
+  "minigun_damage": 10.0,
+  "smg_damage": 9.5,
+  "hellhorse_damage": 13.0,
+  "tommy_damage": 9.0,
+  "shotgun_damage": 23.0,
+  "meanie_damage": 14.0,
+  "balrog_damage": 17.0,
+  "brimstone_damage": 11.0
+}

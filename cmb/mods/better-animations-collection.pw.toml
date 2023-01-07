@@ -1,0 +1,13 @@
+name = "Better Animations Collection"
+filename = "BetterAnimationsCollection-v4.0.4-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35c56c8fba622f1088eebbd8f13d6987576f0e2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4034356
+project-id = 323976

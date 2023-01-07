@@ -1,0 +1,13 @@
+name = "Alchemistry (Fabric)"
+filename = "Alchemistry-1.19.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0817797e1f9c14bb3ee863f05e820265d0ec5572"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3929231
+project-id = 649860
