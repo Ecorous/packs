@@ -1833,6 +1833,11 @@ file = "config/yigd.toml"
 hash = "3fe32487221f8aa35e6f31647078a3484c3da586b76c20ee96dfef4d21d45dc3"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "8f730721a2764e9f264827f102696e5d589e5961674aeacc70d9db548b76be3b"
 metafile = true
@@ -2286,6 +2291,11 @@ hash = "63e4b1f7a01d000343d04ccd5fc5765b5912e827be6b3f2898ef306e7e0193dd"
 metafile = true
 
 [[files]]
+file = "mods/mobfilter.pw.toml"
+hash = "715925ba1827c1f7a7847574006d8ce540e47685dffece7efe27b63794b09f17"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "04466a6b17510266c4faa1963f08e295ea89e2148e4f707315040deddbe28f6c"
 metafile = true
@@ -2312,7 +2322,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "57c9b586d92581338dc9b7463074725f431b121db35cedaa7243d764afab68a8"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
