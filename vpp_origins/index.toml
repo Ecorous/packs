@@ -56,11 +56,6 @@ hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
-file = "mods/creates-delight.pw.toml"
-hash = "df6c3e73d936120f56f03bf3a637255168f9cb11388d9b844920a5187822610d"
-metafile = true
-
-[[files]]
 file = "mods/culinary-construct.pw.toml"
 hash = "36169fe1631c3a1d1f0971848d2479587d78f83a50c71d765e12abb37e81b6d1"
 metafile = true
