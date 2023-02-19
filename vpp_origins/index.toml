@@ -26,11 +26,6 @@ hash = "bb3238ceb56c13b0a37e89c8836e0a56c63159b74c2f4e0dbfb93018c06bcd81"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "188b1f6587b9bcdc3788ae404ad891e5c552b64d3397257cdeab43dd611232df"
-metafile = true
-
-[[files]]
 file = "mods/chefs-delight-fabric.pw.toml"
 hash = "f25a30bcadf84bf0d39ede821c371d4a2987c98f64990a38601b58ae58f7328c"
 metafile = true
