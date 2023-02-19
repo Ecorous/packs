@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
 
 [[files]]
@@ -273,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
+metafile = true
+
+[[files]]
+file = "mods/useless-reptile.pw.toml"
+hash = "0aca511e3e1f81c31c7bc2ae5d7ca151d80e86f3287bf8d3f11ad63c75ea545b"
 metafile = true
 
 [[files]]
