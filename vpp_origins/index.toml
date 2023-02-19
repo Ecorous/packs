@@ -299,3 +299,19 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
+
+[[files]]
+file = "out/output.html"
+hash = "b0525db26f4657fd019de66a54652d8d9d3497c1d59f0a50412b502439db33b2"
+
+[[files]]
+file = "out/output.md"
+hash = "6a4d236e0884e316d3ff12bf71069ad48f3eb5073b5f592c73611576d2402a55"
+
+[[files]]
+file = "output.html"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "output.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
