@@ -1,0 +1,13 @@
+name = "VPP Origins"
+author = "Ecorous"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dc0143b4d18be2ed27aebddf81d7c400563413f27e8524f9292e60fe2a5096d4"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.78"

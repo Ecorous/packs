@@ -1,0 +1,13 @@
+name = "TooManyOrigins"
+filename = "TooManyOrigins-0.7.1+1.19-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xDjN28OB/versions/ocND2fzS/TooManyOrigins-0.7.1%2B1.19-fabric.jar"
+hash-format = "sha1"
+hash = "b8d0a7f4a9d8184f7d118ac281e9f211b9145112"
+
+[update]
+[update.modrinth]
+mod-id = "xDjN28OB"
+version = "ocND2fzS"

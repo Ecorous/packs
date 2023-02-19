@@ -1,0 +1,13 @@
+name = "Chef's Delight [Fabric]"
+filename = "chefs-delight-1.0.2-fabric-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8336c38f8abf9792a658cfad9a6a35e8866266ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4388043
+project-id = 736986

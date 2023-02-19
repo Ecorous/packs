@@ -1,0 +1,13 @@
+name = "With Thursday"
+filename = "with_thursday-Fabric-1.18.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4d52a29866b50a21531e4bf4b87a5dad4c9a36d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4096188
+project-id = 643677

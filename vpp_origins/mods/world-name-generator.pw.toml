@@ -1,0 +1,13 @@
+name = "World Name Generator"
+filename = "world-name-gen-0.1.2+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iNOl2vfE/versions/yxYzkqil/world-name-gen-0.1.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "862300e1d883734803a5f8ccc452299d8a67f212"
+
+[update]
+[update.modrinth]
+mod-id = "iNOl2vfE"
+version = "yxYzkqil"
