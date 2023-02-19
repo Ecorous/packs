@@ -21,16 +21,6 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
-file = "mods/bewitchment-plus.pw.toml"
-hash = "b26e6787d3c454bb05a40aaba03312550be330034c61d6ff7dc9a18e9515d5bb"
-metafile = true
-
-[[files]]
-file = "mods/bewitchment.pw.toml"
-hash = "9d390f8378b38aa1ca9402721380827357552e12cff6c02cf272a9bfa8c39efa"
-metafile = true
-
-[[files]]
 file = "mods/blockus.pw.toml"
 hash = "bb3238ceb56c13b0a37e89c8836e0a56c63159b74c2f4e0dbfb93018c06bcd81"
 metafile = true
