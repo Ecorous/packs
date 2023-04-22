@@ -1,0 +1,13 @@
+name = "Macaw's Roofs - Biomes O' Plenty"
+filename = "macawsroofsbop-1.19.2-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "062cea1e8b5b18c5d9167d73ed423deddfbfd622"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4473785
+project-id = 558344

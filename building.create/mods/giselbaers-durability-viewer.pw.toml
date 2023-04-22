@@ -1,0 +1,13 @@
+name = "Giselbaer's Durability Viewer"
+filename = "durabilityviewer-1.19.1-forge42.0.1-1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3ae32dcb804e382390a57a7379f0d9eb18a6f14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907381
+project-id = 262146

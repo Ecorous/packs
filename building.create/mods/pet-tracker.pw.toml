@@ -1,0 +1,13 @@
+name = "Pet Tracker"
+filename = "pettracker-1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8634564e50139f49f7228ce6be347b3543347abf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4404062
+project-id = 700381

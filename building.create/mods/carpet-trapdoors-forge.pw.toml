@@ -1,0 +1,13 @@
+name = "Carpet Trapdoors [Forge]"
+filename = "CarptetTrapdoors [Forge] 1.19.2 - 1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3927d0cb8c17fae8a221ba13edeb9877e712dcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4162771
+project-id = 729542

@@ -1,0 +1,13 @@
+name = "Macaw's Furnitures - Biomes O' Plenty"
+filename = "mcwfurnituresbop-1.19.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff492865e33689a8cbf5692c0f07a7247b7a63a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4426255
+project-id = 683252

@@ -1,0 +1,13 @@
+name = "Magnesium/Rubidium Extras"
+filename = "rubidium_extras-1.19.2_v1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83507e2003064769a4923ac821d70cf79dfda47e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4285411
+project-id = 558905

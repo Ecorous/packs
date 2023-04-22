@@ -1,0 +1,13 @@
+name = "Building"
+author = "Ecorous"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "78ae5dd8860e8637e854fa57674f5a77cb67b8fb451f527ebb24d27b628a3daf"
+
+[versions]
+forge = "43.0.0"
+minecraft = "1.19.2"

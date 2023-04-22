@@ -1,0 +1,13 @@
+name = "Leptitchoups Random Things"
+filename = "Leptitchoups Mod 1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5d31023fa553527690db2ad06fc1953ea678656"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4495514
+project-id = 838878

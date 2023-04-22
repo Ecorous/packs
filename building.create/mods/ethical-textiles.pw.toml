@@ -1,0 +1,13 @@
+name = "Ethical Textiles"
+filename = "Ethical Textiles 1.19.2 Release v.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9318f55d0ac2a9deac3f9d8c6faf2fa0fdd37412"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4096735
+project-id = 705447

@@ -1,0 +1,13 @@
+name = "Macaw's Fences - Oh The Biomes You'll Go"
+filename = "mcwfencesbyg-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5cc457533cdc91a10c0219531c523142f56f6b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3956189
+project-id = 620582

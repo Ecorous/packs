@@ -1,0 +1,13 @@
+name = "Pet your cat"
+filename = "pet_your_cat_1.19.2_V1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a22e3198343e3f19ebda2cf25d89df43d7bae26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4059644
+project-id = 594115

@@ -1,0 +1,13 @@
+name = "Delightful"
+filename = "Delightful-1.19-3.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JtSnhtNJ/versions/Vg727Ked/Delightful-1.19-3.1.3.jar"
+hash-format = "sha1"
+hash = "7b1bc8b3871cae2e069eac08d0eb2d1ae7fe7dcf"
+
+[update]
+[update.modrinth]
+mod-id = "JtSnhtNJ"
+version = "Vg727Ked"
