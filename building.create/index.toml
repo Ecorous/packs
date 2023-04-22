@@ -156,6 +156,11 @@ hash = "192be9154d5220db362a7209d012df021adf7d8ffd25d73ea8c16e779704e7f3"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+metafile = true
+
+[[files]]
 file = "mods/giselbaers-durability-viewer.pw.toml"
 hash = "8f0cb241f7ad5ae340e4fd650f0350d306a165fe582d0990c6200d13a481bc47"
 metafile = true
