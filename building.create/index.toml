@@ -146,16 +146,6 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
-file = "mods/forbidden-arcanus.pw.toml"
-hash = "df46e5c00dcbeb98eaddaa5c4a62f81f10c1248b65bed8290b97725f1d3b7158"
-metafile = true
-
-[[files]]
-file = "mods/forbidden-crates.pw.toml"
-hash = "192be9154d5220db362a7209d012df021adf7d8ffd25d73ea8c16e779704e7f3"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
