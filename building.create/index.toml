@@ -106,11 +106,6 @@ hash = "3263538e83dbfcdfccbe8b278cf163894a992672f97db3efb551c7a47cdf8ff3"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.pw.toml"
-hash = "4cbfd87f66183210cc29fc3d9c033f8a5ce9763208cb12c8d48814f999b4ea8d"
-metafile = true
-
-[[files]]
 file = "mods/delightful.pw.toml"
 hash = "8efc269dee36af1fbcba2a0d29f697b710af95c11dcc466a1f4c514c24a2a47d"
 metafile = true
