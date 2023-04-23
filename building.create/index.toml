@@ -51,6 +51,16 @@ hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
 
 [[files]]
+file = "mods/create-alloyed.pw.toml"
+hash = "710fba5cc4183a0d1661132614e5acd08ee3c8105dea4695b640fafe6a6b14c0"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "777c6ccefe3cac8ee9bd509cadc75025f310c5926914175951ab2ba7f9d5392e"
+metafile = true
+
+[[files]]
 file = "mods/create-brass-coated.pw.toml"
 hash = "85c623db4611eefe1a8f38690f20f83db5f2b40f287435a5c6f1bae300c34c00"
 metafile = true
@@ -136,6 +146,11 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
+file = "mods/flywheel.pw.toml"
+hash = "3e9b9722da123b1d4120f0d9aba8de9968aba4aad6e9c7564423672171e00d9e"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
@@ -148,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/grass-slabs-carpets-stairs.pw.toml"
 hash = "881a3b1b451b2bc9df22431e5af73a5840da9df3d7da2c587002d87703e9edcf"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fde0369eaad4e6f507b0e1d238b131877b9a291deff0715c9f1b5fb397aa176a"
 metafile = true
 
 [[files]]
@@ -251,6 +271,11 @@ hash = "d93b24738d19f8c9611c05f30a74e615f9412a959bb3a4a16661d31be08a3493"
 metafile = true
 
 [[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "e2b156cb91eda07a7411222f7c23dfc4b996627b73061edefcc50a15b638a4f0"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ecaf5c678d92a4cfa57369fec17abd9e34c44bed705f1fcdd1eb1caa4a791a4d"
 metafile = true
@@ -268,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "4221758ee252138abac7d700738b72fe50baaa698b4e95d7ef5e35c71260ecd5"
+metafile = true
+
+[[files]]
+file = "mods/oreganized.pw.toml"
+hash = "97a796ab9ceaf7a5aad3e2336e03d8f8b3cdee20606c01b9d22898754fa86ae6"
 metafile = true
 
 [[files]]
@@ -303,6 +333,16 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "fccb42c96d1e638773ed58547bbcfa3925c282022bb65afbbaf904e17cd41f67"
+metafile = true
+
+[[files]]
+file = "mods/spelunkery.pw.toml"
+hash = "59f28a550f74fc26bbb87b3cfad01ff21fee8ca1f02d9b36eb876f9c92e996c0"
+metafile = true
+
+[[files]]
+file = "mods/sullysmod.pw.toml"
+hash = "944146b44905961c6e2bcac449fe34229057d0a18a96b8d98ba99ce5d2eb8f12"
 metafile = true
 
 [[files]]

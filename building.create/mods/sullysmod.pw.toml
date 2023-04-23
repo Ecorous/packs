@@ -1,0 +1,13 @@
+name = "Sully's Mod"
+filename = "sullysmod-2.3.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vOm0vWW8/versions/gYrcutsw/sullysmod-2.3.1-beta.jar"
+hash-format = "sha1"
+hash = "8c7d4ce5318b4a0979842fa42816a1cbf7bbe2a5"
+
+[update]
+[update.modrinth]
+mod-id = "vOm0vWW8"
+version = "gYrcutsw"
