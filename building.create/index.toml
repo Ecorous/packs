@@ -16,6 +16,11 @@ hash = "a6a1cdceb08834decd3ccdfb5751e46d13f4686cbcb1098120b47ee61476b060"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "542a647e3896384f3cd04c4ea2006bb927ab355cd85f8205af45f32f9e2aa13c"
 metafile = true
