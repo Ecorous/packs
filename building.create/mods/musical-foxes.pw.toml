@@ -1,0 +1,13 @@
+name = "Musical Foxes"
+filename = "musicalfoxes-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8db38c7ce3be259fabc3eaa77e96515e83bfaf00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4428498
+project-id = 714882

@@ -1,0 +1,13 @@
+name = "Foxxz Addons"
+filename = "foxxz-addons_release-1.17.2--[1.19.2].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3738ef9bb1a51e35e74eb2f329328a9c7aaa4db6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4420475
+project-id = 606821

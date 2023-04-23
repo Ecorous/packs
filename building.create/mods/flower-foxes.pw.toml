@@ -1,0 +1,13 @@
+name = "Flower Foxes!"
+filename = "Flowerfoxes1.12Withbugfixes.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "118ea8ef32d07de089317ec3dc9a88ce7d310412"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4451419
+project-id = 837178

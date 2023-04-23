@@ -1,0 +1,13 @@
+name = "Frozen Up"
+filename = "frozenup-1.19.2-2.1.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "59d29765871b753a889a6d0de158c6d3f4460326"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4365451
+project-id = 430652

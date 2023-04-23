@@ -1,0 +1,13 @@
+name = "Jester's Enchantments"
+filename = "jester_enchants-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "025a2e18e0deedbc93facfa9280a1a6180e9e9ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4427142
+project-id = 835034

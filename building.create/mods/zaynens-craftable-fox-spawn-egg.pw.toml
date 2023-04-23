@@ -1,0 +1,13 @@
+name = "Zaynen's Craftable Fox Spawn Egg"
+filename = "zaynens_craftable_fox_spawn_egg_mod_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc0bc6318a73ee3793a6e3e279d731e0127a321d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4377046
+project-id = 687997

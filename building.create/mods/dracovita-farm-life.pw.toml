@@ -1,0 +1,13 @@
+name = "Dracovita Farm Life"
+filename = "farmlife-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a69eefb193d0708badcd46cac1c6b5f671a31888"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4500369
+project-id = 585764
