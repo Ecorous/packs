@@ -356,6 +356,11 @@ hash = "2dd04c6dd644fffd92097bbf5c33dec6dac7492d5bde6a63283653e2c8a69eb8"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "7fa3e3a1dd8c27ea360de67cdb4db47c914df22fa91b2b5267f6ea44fb5d6e98"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "353a0690b8d091e3289060b1030bd75adf483981837ec553f04f83d76ce8218e"
 metafile = true
