@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "ac59167c4baa6a3701990bb9c41b3f724927f38efa6c3c67d73a8bec4ed67bc2"
+hash = "f921d56b873ebc4062461c5657222e26b659112313d78950a6db266bab8576ae"
 metafile = true
 
 [[files]]
@@ -492,17 +492,12 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "353a0690b8d091e3289060b1030bd75adf483981837ec553f04f83d76ce8218e"
+hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
 metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "99841912147fd4c0ce8097f7b653e60632deff2b79ce3aadff112319aff1baec"
-metafile = true
-
-[[files]]
-file = "mods/unbreakable-spawner.pw.toml"
-hash = "032b6024077337479e38ffba1f4d9b715765511f11829f476b966e3d23b9f13f"
 metafile = true
 
 [[files]]
