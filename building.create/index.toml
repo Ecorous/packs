@@ -126,11 +126,6 @@ hash = "c324a6791dbb090123f20d2d870e2beaa0d15df69ac3596b19422f3bedff7869"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "a52e9270056ae9bca8c548923cef6e23cc9152a9b888b659bb1ab8f8b8536bde"
-metafile = true
-
-[[files]]
 file = "mods/classic-hostiles.pw.toml"
 hash = "03a8cc3d33d6ccce7cdca14df60a71b714d668b765f63d2fecd77bd6c0963f14"
 metafile = true
@@ -238,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "2ea00e9b88163c76d3ab35f137bfaf425f67dc58b313dd6df8e3dc7e6347d062"
 metafile = true
 
 [[files]]
