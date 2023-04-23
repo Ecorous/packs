@@ -86,11 +86,6 @@ hash = "542a647e3896384f3cd04c4ea2006bb927ab355cd85f8205af45f32f9e2aa13c"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "f7e82243bf2ed1195204aed926e14c73a78e51d78d58528753c4ad6a3383fd6d"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "c8631f3fd8be077cf68e2223c121a058e559531e13746e562d1acaa3ec04b4ed"
 metafile = true
@@ -488,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "7fa3e3a1dd8c27ea360de67cdb4db47c914df22fa91b2b5267f6ea44fb5d6e98"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
 metafile = true
 
 [[files]]
