@@ -7,7 +7,7 @@ export async function load({ fetch, params }) {
         let packs_dirs = await (await fetch("/data.json")).json()
         var packs: any[] = []
         var paths: any[] = []
-        packs_dirs.files.forEach(async (element: any) => {
+        for (const element of packs_dirs.files) {
             let req = await fetch(`/data/${element}/pack.toml`)
             if (req.status != 200) {
                 throw error(500, "src/routes/+page.ts:req.status was: " + req.status)
@@ -18,12 +18,10 @@ export async function load({ fetch, params }) {
             console.log("nextToml: " + JSON.stringify(nextToml))
             paths.push(element)
             console.log("element: ", element)
-        });
-        setTimeout(() => {
-            console.log("+page.ts:packs: " + packs)
-            console.log("+page.ts:paths: " + paths)
-            return { packs, paths }
-        }, 2000)
+        }
+        console.log("+page.ts:packs: " + packs)
+        console.log("+page.ts:paths: " + paths)
+        return { packs, paths }
 
     }
     catch {
