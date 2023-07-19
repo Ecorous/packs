@@ -3,8 +3,8 @@ import * as toml_lib from 'toml';
 import { BASE_URL } from '$lib'
 /** @type {import('./$types').PageLoad} */
 
-export async function load({ params }) {
-    var req = await fetch(BASE_URL + "/data/" + params.pack + "/pack.toml")
+export async function load({ fetch, params }) {
+    var req = await fetch("/data/" + params.pack + "/pack.toml")
     if (req.status == 404) {
         throw error(404, 'Pack not found')
     }
