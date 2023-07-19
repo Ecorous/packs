@@ -1,6 +1,6 @@
 <script lang="ts">
-    ///** @type {import('./$types').PageData} */
-    //export let data: any;
+    /** @type {import('./$types').PageData} */
+    export let data: any;
 </script>
 <p>this is site is by ecorous</p>
 <p>it was very crappily made</p>
