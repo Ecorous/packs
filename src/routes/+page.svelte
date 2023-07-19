@@ -1,6 +1,7 @@
 <script lang="ts">
     /** @type {import('./$types').PageData} */
     export let data: any;
+    console.log("ohhhh myyyy dataaaa: " + data)
 </script>
 <p>this is site is by ecorous</p>
 <p>it was very crappily made</p>
