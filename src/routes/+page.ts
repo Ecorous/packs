@@ -7,7 +7,11 @@ export async function load({ fetch, params }) {
     var packs: any[] = []
     var paths: any[] = []
     packs_dirs.files.forEach(async (element: any) => {
-        let packToml = await (await fetch("/data/" + element + "/pack.toml")).text()
+        let req = await fetch(`/data/${element}/pack.toml`)
+        if (req.status != 200) {
+            throw error(500, "src/routes/+page.ts:req.status was: " + req.status)
+        }
+        let packToml = await req.text()
         console.log(packToml)
         packs.push(toml.parse(packToml))
         paths.push(element)
