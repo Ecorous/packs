@@ -3,7 +3,6 @@ import * as toml from 'toml';
 /** @type {import('./$types').PageLoad} */
 
 export async function load({ fetch, params }) {
-    try {
         let packs_dirs = await (await fetch("/data.json")).json()
         var packs: any[] = []
         var paths: any[] = []
@@ -22,9 +21,4 @@ export async function load({ fetch, params }) {
         console.log("+page.ts:packs: " + packs)
         console.log("+page.ts:paths: " + paths)
         return { packs, paths }
-
-    }
-    catch {
-        throw error(500, "you found me :P")
-    }
 }
