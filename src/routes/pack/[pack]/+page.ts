@@ -1,6 +1,5 @@
 import { error } from '@sveltejs/kit';
 import * as toml_lib from 'toml';
-import { BASE_URL } from '$lib'
 /** @type {import('./$types').PageLoad} */
 
 export async function load({ fetch, params }) {

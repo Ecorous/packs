@@ -1,4 +1,3 @@
-import { BASE_URL } from '$lib';
 import { error } from '@sveltejs/kit';
 import * as toml from 'toml';
 /** @type {import('./$types').PageLoad} */
