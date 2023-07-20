@@ -4,7 +4,7 @@ import os
 import shutil
 import tomli
 import tomli_w
-from zipfile import ZipFile
+import zipfile
 
 root_dir = os.path.abspath(sys.argv[0]).split("/build-scripts/mmc.py")[0]
 print("root_dir: " + str(root_dir))
@@ -29,7 +29,17 @@ def getPackDataFromDir(path):
     x = tomli.load(f)
     f.close()
     return x
-
+def zipdir(path, ziph):
+    # ziph is zipfile handle
+    for root, dirs, files in os.walk(path):
+        for file in files:
+            ziph.write(os.path.join(root, file))
+    icfg = open(f"{path}/instance.cfg", "r")
+    mmcpack = open(f"{path}/mmc-pack.json")
+    print("icfg:", icfg.read())
+    print("mmcpack:", mmcpack.read())
+    ziph.write(f"{path}/instance.cfg")
+    ziph.write(f"{path}/mmc-pack.json")
 if os.path.isdir(mmc_temp_dir):
     shutil.rmtree(mmc_temp_dir)
 os.mkdir(mmc_temp_dir)
@@ -46,17 +56,24 @@ for pack in os.listdir(data_dir):
     new_icfg = open(f"{pack_slug}/instance.cfg", "x")
     xold = old_icfg.read().replace("base-packwiz-pack", pack_slug)
     new_icfg.write(xold)
+    new_icfg.close()
     shutil.copytree(setup_persistent_dir + "/base/.minecraft", pack_slug + "/.minecraft")
     mmc_pack_json = getBaseJson()
     mmc_pack_json["components"][0]["version"] = pack_data["versions"]["minecraft"]
     new_mmcpack = open(f"{pack_slug}/mmc-pack.json", "x")
     json.dump(mmc_pack_json, new_mmcpack)
+    new_mmcpack.close()
+    
 
-    archived = shutil.make_archive(f"{mmc_dir}/{pack_slug}", "zip", f"{pack_slug}")
+    #archived = shutil.make_archive(f"{mmc_dir}/{pack_slug}", "zip", f"{pack_slug}")
     #with ZipFile(f"{mmc_dir}/{pack_slug}.zip", 'x') as zip:
     #    zip.write(f"{pack_slug}/instance.cfg")
     #    zip.write(f"{pack_slug}/mmc-pack.json")
     #    zip.write(f"{pack_slug}/.minecraft")
-shutil.rmtree(mmc_temp_dir)
+    zipf = zipfile.ZipFile(f"{mmc_dir}/{pack_slug}.zip", "x")
+    zipdir(pack_slug, zipf)
+    zipf.close()
+
+#shutil.rmtree(mmc_temp_dir)
 print("✨ Done creating mmc packs! ✨")
 #json.dump(x, ff, indent=4)
