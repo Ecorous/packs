@@ -52,10 +52,11 @@ for pack in os.listdir(data_dir):
     new_mmcpack = open(f"{pack_slug}/mmc-pack.json", "x")
     json.dump(mmc_pack_json, new_mmcpack)
 
-    with ZipFile(f"{mmc_dir}/{pack_slug}.zip", 'x') as zip:
-        zip.write(f"{pack_slug}/instance.cfg")
-        zip.write(f"{pack_slug}/mmc-pack.json")
-        zip.write(f"{pack_slug}/.minecraft")
+    archived = shutil.make_archive(f"{mmc_dir}/{pack_slug}", "zip", f"{pack_slug}")
+    #with ZipFile(f"{mmc_dir}/{pack_slug}.zip", 'x') as zip:
+    #    zip.write(f"{pack_slug}/instance.cfg")
+    #    zip.write(f"{pack_slug}/mmc-pack.json")
+    #    zip.write(f"{pack_slug}/.minecraft")
 shutil.rmtree(mmc_temp_dir)
 print("✨ Done creating mmc packs! ✨")
 #json.dump(x, ff, indent=4)
