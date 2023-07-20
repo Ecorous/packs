@@ -10,3 +10,5 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .mmc-temp
 static/mmc
+static/data.json
+static/data_mods

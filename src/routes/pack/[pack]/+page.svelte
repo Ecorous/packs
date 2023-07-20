@@ -1,7 +1,7 @@
 <script lang="ts">
     import { page } from "$app/stores";
     /** @type {import('./$types').PageData} */
-    export let data: { toml: { name: any, author: any, version: any, index: any, versions: any} };
+    export let data: { toml: { name: any, author: any, version: any, index: any, versions: any}, mods: string[] };
     import { getRelativeMMCPack } from "$lib";
     console.log(data)
     console.log($page.params.pack)
@@ -45,6 +45,20 @@
     Download MultiMC/PrismLauncher Pack
 </button>
 
+<details>
+    <summary>Mods (click to expand)</summary>
+    <div class="mods">
+        <details>
+            <summary>e</summary>
+            {data.mods}
+        </details>
+        {#each data.mods as mod}
+            
+            <p>{mod}</p>
+        {/each}
+    </div>
+</details>
+
 <style>
     button.download {
         border-color: transparent;
@@ -53,5 +67,12 @@
         cursor: pointer;
         color: var(--ctp-mocha-text);
         padding: 0.3rem
+    }
+
+    div.mods {
+        border-radius: 5px;
+        background-color: var(--ctp-mocha-surface0);
+        color: var(--ctp-mocha-text);
+        padding: 0.5rem;
     }
 </style>

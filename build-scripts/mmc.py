@@ -8,13 +8,13 @@ from zipfile import ZipFile
 
 root_dir = os.path.abspath(sys.argv[0]).split("/build-scripts/mmc.py")[0]
 print("root_dir: " + str(root_dir))
-setup_persistent_dir = root_dir + "/.setup-persistent"
-print("setup_persistent_dir: " + setup_persistent_dir)
-data_dir = root_dir + "/static/data"
+setup_persistent_dir = f"{root_dir}/.setup-persistent"
+print("setup_persistent_dir:", setup_persistent_dir)
+data_dir = f"{root_dir}/static/data"
 print("data_dir: " + data_dir)
-mmc_temp_dir = root_dir + "/.mmc-temp"
+mmc_temp_dir = f"{root_dir}/.mmc-temp"
 print("mmc_temp_dir: " + mmc_temp_dir)
-mmc_dir = root_dir + "/static/mmc"
+mmc_dir = f"{root_dir}/static/mmc"
 print("mmc_dir: " + mmc_dir)
 os.chdir(root_dir)
 def getJson(path):
@@ -23,9 +23,9 @@ def getJson(path):
     f.close()
     return x
 def getBaseJson():
-    return getJson(setup_persistent_dir + "/base/mmc-pack.json")
+    return getJson(f"{setup_persistent_dir}/base/mmc-pack.json")
 def getPackDataFromDir(path):
-    f = open(path + "/pack.toml", "rb")
+    f = open(f"{path}/pack.toml", "rb")
     x = tomli.load(f)
     f.close()
     return x

@@ -1,0 +1,12 @@
+name = "Temp"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4041d04dc9c925570390e02efb5f36e7d06411822433d8882a5286b7f4515dca"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.4"
