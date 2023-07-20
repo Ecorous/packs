@@ -1,0 +1,13 @@
+name = "Toast Control"
+filename = "Toast Control-1.12.2-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7365b5415d5f1a39997fe142ccc42ae732e31c01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2707353
+project-id = 271740

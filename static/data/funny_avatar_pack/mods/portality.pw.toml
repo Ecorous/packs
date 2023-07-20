@@ -1,0 +1,13 @@
+name = "Portality"
+filename = "portality-1.12.2-1.2.3-15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5cba62b21d486c30afcb4604c656c6cbfabf1d75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2718784
+project-id = 291493

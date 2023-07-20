@@ -1,0 +1,13 @@
+name = "Funny Avatar Pack"
+author = "Ecorous & Noodle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "44489e1326c8896c2b25c5356378257857ad6a67ec57a9307b8bf7db6ecaa18b"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

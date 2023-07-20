@@ -1,0 +1,13 @@
+name = "Immersive Vehicles"
+filename = "Immersive+Vehicles-1.12.2-22.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BCzBuhJ5/versions/imGY5gAF/Immersive%2BVehicles-1.12.2-22.8.0.jar"
+hash-format = "sha1"
+hash = "aaea14c0f18f735d77f7809e390fa294e120abde"
+
+[update]
+[update.modrinth]
+mod-id = "BCzBuhJ5"
+version = "imGY5gAF"

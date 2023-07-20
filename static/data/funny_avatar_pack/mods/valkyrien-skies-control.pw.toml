@@ -1,0 +1,13 @@
+name = "Valkyrien Skies Control"
+filename = "vs-control-1.12.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v0q0tugh/versions/1.1.6/vs-control-1.12.2-1.1.1.jar"
+hash-format = "sha1"
+hash = "cf9242726ad6707144886cc3849c0ead26648345"
+
+[update]
+[update.modrinth]
+mod-id = "v0q0tugh"
+version = "OpIScVf1"

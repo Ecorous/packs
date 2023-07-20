@@ -1,0 +1,13 @@
+name = "Item Borders"
+filename = "ItemBorders-1.12.2-forge-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/b1fMg6sH/versions/DtmGTm3s/ItemBorders-1.12.2-forge-1.2.0.jar"
+hash-format = "sha1"
+hash = "200188ff9b477a615ed556a11a386e3cf816ce5f"
+
+[update]
+[update.modrinth]
+mod-id = "b1fMg6sH"
+version = "DtmGTm3s"

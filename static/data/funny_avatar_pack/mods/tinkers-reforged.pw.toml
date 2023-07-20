@@ -1,0 +1,13 @@
+name = "Tinkers Reforged"
+filename = "tinkers_reforged-1.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cj8IZDhP/versions/1.5.4/tinkers_reforged-1.5.4.jar"
+hash-format = "sha1"
+hash = "c9ad2cb2bc445f4c360f6106e219f534e61119d9"
+
+[update]
+[update.modrinth]
+mod-id = "cj8IZDhP"
+version = "7gRkrGUX"

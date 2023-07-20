@@ -1,0 +1,13 @@
+name = "Valkyrien Skies World"
+filename = "vs-world-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sl9bmWno/versions/1.0.0/vs-world-1.12.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "e093919fc5c9deddb954aa4a580f9b6f5da164fa"
+
+[update]
+[update.modrinth]
+mod-id = "sl9bmWno"
+version = "VgyKhJgp"

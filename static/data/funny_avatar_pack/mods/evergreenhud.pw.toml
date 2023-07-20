@@ -1,0 +1,13 @@
+name = "EvergreenHUD"
+filename = "evergreenhud-1.12.2-forge-1.0.0-beta5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1yIQcc2b/versions/RZXVA2Kt/evergreenhud-1.12.2-forge-1.0.0-beta5.jar"
+hash-format = "sha1"
+hash = "8aed4573af017bb4699a577c6a6ae1149f5b2b3c"
+
+[update]
+[update.modrinth]
+mod-id = "1yIQcc2b"
+version = "RZXVA2Kt"

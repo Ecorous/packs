@@ -1,0 +1,13 @@
+name = "Immersive Vehicles - Official Content Pack"
+filename = "MTS+Official+Pack-1.12.2-V25.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7TiPPJz/versions/YdT4SBty/MTS%2BOfficial%2BPack-1.12.2-V25.jar"
+hash-format = "sha1"
+hash = "4495e6ea769570bc7d93b1efbbae6e7e56eee315"
+
+[update]
+[update.modrinth]
+mod-id = "C7TiPPJz"
+version = "YdT4SBty"

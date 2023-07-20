@@ -1,0 +1,13 @@
+name = "Furnace Overhaul"
+filename = "furnaceoverhaul-1.12.2-2.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7ab30ebf43ed3fbb15ebb4edc3296fd67250227"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2910813
+project-id = 262742

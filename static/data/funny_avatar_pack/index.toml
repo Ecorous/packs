@@ -1,0 +1,890 @@
+hash-format = "sha256"
+
+[[files]]
+file = "ambience_music/music/boat.mp3"
+hash = "f3bea2a890a39edb714252c4e5e0b44e4a5207567c7f6fd68c1b7fb4f96d508d"
+
+[[files]]
+file = "ambience_music/music/boss1.mp3"
+hash = "470931d9e4ffa93201ee47b9a78a8f664a29086a53e45cfcdf7238d2e785306c"
+
+[[files]]
+file = "ambience_music/music/boss2.mp3"
+hash = "27d340f932ad8cdd89b5aa7c81f9ab18375e4234a6cee77009a83ac99bad4c03"
+
+[[files]]
+file = "ambience_music/music/boss3.mp3"
+hash = "dd4aae1aa0c348cd06048da0b227b831d23b060814dd370b6a7ed84299e2b70c"
+
+[[files]]
+file = "ambience_music/music/boss4.mp3"
+hash = "26b447e164fd4216bf5462701b763055ec4435f23e089b14d78fda46bb879ee4"
+
+[[files]]
+file = "ambience_music/music/boss5.mp3"
+hash = "89e4b0ceaa13e94403b6542326848172255ac1d54993766c29b0de4ad8bb3eb9"
+
+[[files]]
+file = "ambience_music/music/boss6.mp3"
+hash = "d4384adcc51fff92b18206389868be0fb754530f7dcab7c9c080dc95a14e6670"
+
+[[files]]
+file = "ambience_music/music/boss7.mp3"
+hash = "b3329e02718b7cadae60177d0e1ae6b4e8523ef42c5a58b31af4607562cc5bf4"
+
+[[files]]
+file = "ambience_music/music/boss8.mp3"
+hash = "8a77c627150052b65d1de29bc975337741bb84769ebeedd1e161ffa5aecc0cbe"
+
+[[files]]
+file = "ambience_music/music/boss9.mp3"
+hash = "41ce81800c421bc31688264b832a47315be338ea61dc35f0e8242984f9883c98"
+
+[[files]]
+file = "ambience_music/music/dead1.mp3"
+hash = "88eba97d2d1459f76b96b14f5f9bedad99a74abee6117a8aa7fcfebe5753221a"
+
+[[files]]
+file = "ambience_music/music/dead2.mp3"
+hash = "8c934abeba7b8a20ab1dcd14e4fcd5437e439d755fb37f672ad4780c81e25e86"
+
+[[files]]
+file = "ambience_music/music/dead3.mp3"
+hash = "d73615443aec26be8de92d0de18c968322aea262a47126fda54543b811f3494b"
+
+[[files]]
+file = "ambience_music/music/deep1.mp3"
+hash = "beb7d5327b670612468518cddc7401e082bab5414eeb5e4e4c53066bcca54d34"
+
+[[files]]
+file = "ambience_music/music/deep2.mp3"
+hash = "36a0dea8c6bdfe1524d395180f6c963ab8335f5bfcd435fb3020b087a42a73cf"
+
+[[files]]
+file = "ambience_music/music/end1.mp3"
+hash = "7d3707dd749a0a619677959db249725ac63f5d73f7c353019089ba3b98d7be3a"
+
+[[files]]
+file = "ambience_music/music/end2.mp3"
+hash = "89c5e48c1ac3644fb13a53fe4b7f2315ae88603274a8a36a4309008b1e26344b"
+
+[[files]]
+file = "ambience_music/music/end3.mp3"
+hash = "e1507b07f89a74c7e87e100a34144ae8d380fc85ddc91c50dcc08b7d468dfea5"
+
+[[files]]
+file = "ambience_music/music/fish.mp3"
+hash = "77ee6861dd560cd0b077a689a63a19bc6dd48ace1f2e7b7c136ad1002a299228"
+
+[[files]]
+file = "ambience_music/music/forest1.mp3"
+hash = "13a77e77478423ac202bc2bb8625fa421315f0c94ff8fc8dc00ccdf5dac44252"
+
+[[files]]
+file = "ambience_music/music/forest2.mp3"
+hash = "6ef179de17db153c1ceb4dba8401a58b9b66aaf1b25bdbbfb076e92613222f5b"
+
+[[files]]
+file = "ambience_music/music/forest3.mp3"
+hash = "afc41d2cf9141ce9c73ff5aa094f5f5bfd09f713bf1deaf8a3eab841e44bb6e7"
+
+[[files]]
+file = "ambience_music/music/forest4.mp3"
+hash = "43548a6dc2fa0ebb080268cf7a9306c00d8f3c9e56d19a69e78eb0e2419084d4"
+
+[[files]]
+file = "ambience_music/music/forest5.mp3"
+hash = "bb2ec88ebe00af943acac71c437ba1a4ff7b4c125b92ffa612f54a9810bb5744"
+
+[[files]]
+file = "ambience_music/music/generic1.mp3"
+hash = "10f69feaa86cd04c339f217b94443a653f6106e378a03d1a5e292a87d667603c"
+
+[[files]]
+file = "ambience_music/music/generic2.mp3"
+hash = "414f12cccfa5344833f13a7934f3dd516a804ccbaaa960d2e5b77ad9a6305308"
+
+[[files]]
+file = "ambience_music/music/generic3.mp3"
+hash = "ac6f9b6578f22e44aeaea2a05525dc158e9ee42db94975922fa8d2a49068171f"
+
+[[files]]
+file = "ambience_music/music/generic4.mp3"
+hash = "808f280216a75e7753da89f078d4726b866161883bd2dcdfc98efbd1c6077862"
+
+[[files]]
+file = "ambience_music/music/generic5.mp3"
+hash = "3d09a94df940a676fb047166cedac38a6ab11fdd08c48f72ae7f40af57a3b501"
+
+[[files]]
+file = "ambience_music/music/high1.mp3"
+hash = "7abbd769f04981bd919d4c960b29ebf8a9c79b5928484f5713581d22b323abb5"
+
+[[files]]
+file = "ambience_music/music/high2.mp3"
+hash = "22d68c85310789af36c03120b272a0889dedeb639f86aadbf8e80e154e88e504"
+
+[[files]]
+file = "ambience_music/music/hills1.mp3"
+hash = "43e1488cec17f7f30f9eaa7ae7ce321007915c6f22917246ff3d13d38b574d04"
+
+[[files]]
+file = "ambience_music/music/hills2.mp3"
+hash = "6a43e0c904950408c700a6329dff416ddc22c50c8ffc1e408d1ba7cadb839dd7"
+
+[[files]]
+file = "ambience_music/music/horse.mp3"
+hash = "4d10b464f113eea00935e89975d5baf5894a31c4f7df54f2ff39aa41cc7208a1"
+
+[[files]]
+file = "ambience_music/music/lush1.mp3"
+hash = "17b34811539e37411164becf9ec0924c1f9c6984a160364dda699364a3d0197e"
+
+[[files]]
+file = "ambience_music/music/lush2.mp3"
+hash = "77241f9a3812958cff9320744ef5baf80473067881e71ecb8d014a1ad32833ce"
+
+[[files]]
+file = "ambience_music/music/lush3.mp3"
+hash = "da4ce625974b2c10b7d38d7b73f453454b7abb7d78ce934e8354a8c7d793af49"
+
+[[files]]
+file = "ambience_music/music/main1.mp3"
+hash = "7c35e5f457660aac18c760c66fc90105aa8b0a5ea3e28cf9b889b6b46435ce66"
+
+[[files]]
+file = "ambience_music/music/main2.mp3"
+hash = "8bbbac6052c5f3fdac6e8b8edcad8642a8d1c77f2f070ab2d3ec739f9f3eda3e"
+
+[[files]]
+file = "ambience_music/music/mesa1.mp3"
+hash = "2fba3831ff1160a64c5cd94932c2472fdf5a70526867116daffdf39bb702acf2"
+
+[[files]]
+file = "ambience_music/music/mesa2.mp3"
+hash = "0796613361e8eb5a41cfd397c12d8d354a58f4fc08378d0af75dbc4474a2edd4"
+
+[[files]]
+file = "ambience_music/music/minecart.mp3"
+hash = "833b38b5ec2597a2a45868676175f2caa8c71d80e2c9fe0f8b02b815507e7f87"
+
+[[files]]
+file = "ambience_music/music/mountain1.mp3"
+hash = "22d68c85310789af36c03120b272a0889dedeb639f86aadbf8e80e154e88e504"
+
+[[files]]
+file = "ambience_music/music/mountain2.mp3"
+hash = "7abbd769f04981bd919d4c960b29ebf8a9c79b5928484f5713581d22b323abb5"
+
+[[files]]
+file = "ambience_music/music/mountain3.mp3"
+hash = "833b38b5ec2597a2a45868676175f2caa8c71d80e2c9fe0f8b02b815507e7f87"
+
+[[files]]
+file = "ambience_music/music/mythical1.mp3"
+hash = "926fd227e81b972a3294cfcc782a0338d8588abb0981bdd58cb1276294c02a3b"
+
+[[files]]
+file = "ambience_music/music/mythical2.mp3"
+hash = "8bbbac6052c5f3fdac6e8b8edcad8642a8d1c77f2f070ab2d3ec739f9f3eda3e"
+
+[[files]]
+file = "ambience_music/music/mythical3.mp3"
+hash = "3f1f2326fa397ae147851a9f43e5dcc20b761d32751caacd9d1ec86aa4935b08"
+
+[[files]]
+file = "ambience_music/music/nether1.mp3"
+hash = "b9c7f94d2d8f9ae00af14462d9e698a5ff9ebc590430a9b1a8fb655430a11a38"
+
+[[files]]
+file = "ambience_music/music/nether2.mp3"
+hash = "f6c3deb8501964e353f9e13d9eda5e235ecff70f52f86192159e3c47bb8d4939"
+
+[[files]]
+file = "ambience_music/music/night1.mp3"
+hash = "69ce3b226960c717c25b90b8303a4c1d05291c987b22f1220260971c27c03eca"
+
+[[files]]
+file = "ambience_music/music/night2.mp3"
+hash = "5bb2e85a0e6f93d80cb5c6a901d279315257f13f9f5c843eee9b568a0470881f"
+
+[[files]]
+file = "ambience_music/music/night3.mp3"
+hash = "09ddf2a7064c5388eeaade85c6da390428a991714e6654af884a5e96c8f7edc5"
+
+[[files]]
+file = "ambience_music/music/night4.mp3"
+hash = "60fde7cd676a7b7ebf8f5d08c53b7f99e6d50db3209c327f5ac4d404f69bb788"
+
+[[files]]
+file = "ambience_music/music/ocean1.mp3"
+hash = "4ec6f21a2a7530211044b959669b4a12b61a94af833d659b2393d84963609c8e"
+
+[[files]]
+file = "ambience_music/music/ocean2.mp3"
+hash = "85bc91eeffa3a30c23a309beb19cc97618b81c01cd02fd32e4b30ac2e80d7e41"
+
+[[files]]
+file = "ambience_music/music/ocean3.mp3"
+hash = "133914a63b458f05f8e2f3bc704fe23cc1dfa0f96f43f7a7e9329b8648d89893"
+
+[[files]]
+file = "ambience_music/music/pig.mp3"
+hash = "b9caa65fb25c89e1c6c43bbf952f5a8b6dbf930da9fa1c91181c9c0d742d59fd"
+
+[[files]]
+file = "ambience_music/music/plains1.mp3"
+hash = "2ddc29225ca45c2acb85ee082ab22137348ab2e2337059f092403f7e999fa1fd"
+
+[[files]]
+file = "ambience_music/music/plains2.mp3"
+hash = "198fd6e21413b2dcc018247eea0bdc82a418f7186d68c1e52611ba7b9fbad7ba"
+
+[[files]]
+file = "ambience_music/music/plains3.mp3"
+hash = "3d09a94df940a676fb047166cedac38a6ab11fdd08c48f72ae7f40af57a3b501"
+
+[[files]]
+file = "ambience_music/music/rain1.mp3"
+hash = "1f23dc836d9050f209936e48b2c0871e9d5e1514dc18af2acc631796e40e48df"
+
+[[files]]
+file = "ambience_music/music/rain2.mp3"
+hash = "10698ab031d1422669684f3a8c044015080594b4f56aa0afbf6fbdebb15b6f81"
+
+[[files]]
+file = "ambience_music/music/rain3.mp3"
+hash = "a05fb6bd0caac244d2c232a8ff4db5e593253553b53d20d94e7b988ea6f22c8a"
+
+[[files]]
+file = "ambience_music/music/rain4.mp3"
+hash = "af76b320802c86ca54e359c71647c0d1bea2af1346adc98c6b12ff1e0f5a3310"
+
+[[files]]
+file = "ambience_music/music/rain5.mp3"
+hash = "d7d7492805c04dd8b8f08887dab6c8ae96ef1f065fd40d5b8db6c9f88c94bb9f"
+
+[[files]]
+file = "ambience_music/music/rain6.mp3"
+hash = "921e2dab32bb7f7e51221a46dc37e1380d31083c0f0fc6cb6c47f8d506cd73d0"
+
+[[files]]
+file = "ambience_music/music/river1.mp3"
+hash = "e4844d11f3f00e9e165be8dfcc3fe660073670cf638b144e9cc141015f7bd837"
+
+[[files]]
+file = "ambience_music/music/river2.mp3"
+hash = "bc999d0c566fa08ec401ac007bfadf3edc4c13567f050dd8bfb2587c981d2d92"
+
+[[files]]
+file = "ambience_music/music/sandy1.mp3"
+hash = "8dede00cef2b737f0d1567cd36e1448e0d29f2be0385920b232c73475296b0da"
+
+[[files]]
+file = "ambience_music/music/sandy2.mp3"
+hash = "96457001667db07a0aebbbc38a1237df90add9c840f2fbe60d9bcb5d3e017f0c"
+
+[[files]]
+file = "ambience_music/music/snowy1.mp3"
+hash = "8a36a53a5f6905190bfdce333fa61233b2785d2b79d9cd9a495fd9ef8fc92ee8"
+
+[[files]]
+file = "ambience_music/music/spooky1.mp3"
+hash = "df65c354d70f728b57de46ab2a3390ecf6fc66d817095bf2a9f5238882c3e220"
+
+[[files]]
+file = "ambience_music/music/spooky2.mp3"
+hash = "097f89d649525e173ae5b22cb2e46dae71cd3ae454105eb351143d394e3e9314"
+
+[[files]]
+file = "ambience_music/music/spooky3.mp3"
+hash = "c34b719562533941253ec7d67a8393931cd00f41e26384526c354bc48efab7e1"
+
+[[files]]
+file = "ambience_music/music/spooky4.mp3"
+hash = "e5bbee74cce77edcd48f48ddc87b21bd08c57908264ac691a517dad4c1e8394a"
+
+[[files]]
+file = "ambience_music/music/spooky5.mp3"
+hash = "998510046bb826e372a88f1662e9ead56b553716622e48411ec0059dfa4a5ae4"
+
+[[files]]
+file = "ambience_music/music/swamp1.mp3"
+hash = "0143dda97346483ead91963bf5fbbbae041d90a1312c9d4b79568ae5f84ad86f"
+
+[[files]]
+file = "ambience_music/music/swamp2.mp3"
+hash = "c803bd6b22dd4175edab17deeaeae7006dd9b0d4674a769112bfff775c80ca10"
+
+[[files]]
+file = "ambience_music/music/underground1.mp3"
+hash = "568730a1976b5ff5d4e7e358246bc22dd04940196142c82377512ec62a599738"
+
+[[files]]
+file = "ambience_music/music/underground2.mp3"
+hash = "02d9b81e341cadf54df9939721b01a05fcd0b7ef9c04eee02d066b8cf96282a4"
+
+[[files]]
+file = "ambience_music/music/underground3.mp3"
+hash = "df39d38ec81a1aabfd9366454b53625fb1818b7954d3c427d597198538894eea"
+
+[[files]]
+file = "ambience_music/music/underwater.mp3"
+hash = "d7e7d83c798c4f9f50fe77bb8daa80615424200d2fc9ab7e5217d262e9b064b5"
+
+[[files]]
+file = "ambience_music/music/village1.mp3"
+hash = "b9caa65fb25c89e1c6c43bbf952f5a8b6dbf930da9fa1c91181c9c0d742d59fd"
+
+[[files]]
+file = "ambience_music/music/village2.mp3"
+hash = "f3bea2a890a39edb714252c4e5e0b44e4a5207567c7f6fd68c1b7fb4f96d508d"
+
+[[files]]
+file = "ambience_music/music/village3.mp3"
+hash = "bb1ff1cba65897fda9c843b1f48bb4df00edc1e8213cfb71837a54baa133b63b"
+
+[[files]]
+file = "ambience_music/music/village4.mp3"
+hash = "b68724063cbbb1fae3d4d955f42fd48bf12036d176c94f473abcc1acb17e9d3e"
+
+[[files]]
+file = "ambience_music/music/wasteland1.mp3"
+hash = "2c3246a3e524065811924f53ad3f024c5a215b7a43381b0cd2305bb940263819"
+
+[[files]]
+file = "ambience_music/music/wasteland2.mp3"
+hash = "8afd30df7de88556bd422bd336f87e8a412ae6ef0db173475ff22758d6c9f953"
+
+[[files]]
+file = "config/ambience.properties"
+hash = "8f381f5cb7c68d0475f3cd948b50a51c33923f7acc4f100aeb88ede56e21ee98"
+
+[[files]]
+file = "config/openblocks.cfg"
+hash = "6a7cacfec5ebe42fcef5f1f8f969405443408598729456c562ed316545c6d243"
+
+[[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
+metafile = true
+
+[[files]]
+file = "mods/actually-baubles.pw.toml"
+hash = "8df645f1128ee834c25cf67045411cba8c4a8631d77ec93b231beea06fc1744a"
+metafile = true
+
+[[files]]
+file = "mods/ambience-music-mod.pw.toml"
+hash = "a5aad68b85fc808dba7e4f569d2999ac03fb12289c470c8866a3e23be9102f9b"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "cab514b6b6236a357fde4ef97e2f4ffefa039a4735c315a43558d111aa2fe799"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "46dd4a3995f52240b7e5f614860eb2522125f86b135f3407cdc3ce6b8cb39621"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "2b21defe55c00e45d68f58812614a342d8a890677ea201d7daa5ecc6b6deb72d"
+metafile = true
+
+[[files]]
+file = "mods/avatar-armory-addonmod.pw.toml"
+hash = "544e4c800aa2710ae26c3ffaf42f2b26b0242e594985411607b211f042d0efd6"
+metafile = true
+
+[[files]]
+file = "mods/avatar-mod-2-out-of-the-iceberg.pw.toml"
+hash = "db8f372fa00318ea6c38512d0e4ea4950ebcc65b6532cfddf0d76923622a4b6b"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/baubley-elytra.pw.toml"
+hash = "36244694d3af803f9d29b2181514d0c3679b3af19ae2c9c21476eb55d4874760"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "9816a742885cbb74ea91d333240bb1e658f72e757c16d6ebeb690c7f8f45a4a2"
+metafile = true
+
+[[files]]
+file = "mods/bio-library.pw.toml"
+hash = "cfc549d7b6933d97eb81361854e86d157972b168a882de86b313f5540bdb5b3f"
+metafile = true
+
+[[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "4898ca84a5742f1e99ba9774c64e739323c21dad5e750961613000986317b4fe"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "883ba8032db25b483d8a908db8b584af27623897c6b23df5062cb35298e6f884"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "9f63b0e2e436f6aa75764fffff1e8cb233062240ad5b999a51a936da927e578b"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "be62c3108c996dbd1e971903441926e3d85cfa0ae4839666fea9e0c653de92b5"
+metafile = true
+
+[[files]]
+file = "mods/endercore.pw.toml"
+hash = "403f0f039f586d905de911e18b3f63730d25e1143cf4a43916162997fefb6cd6"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
+hash = "dd373934589a5dce66108c99d75e09444fe84fc470efa8f97587d1115131c8a1"
+metafile = true
+
+[[files]]
+file = "mods/evergreenhud.pw.toml"
+hash = "f476b89ab9f0b5829d538b509933426163d66c0a61797d92bef9e2906c377c07"
+metafile = true
+
+[[files]]
+file = "mods/extra-utilities.pw.toml"
+hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
+metafile = true
+
+[[files]]
+file = "mods/flying-lemur-avatar-addon-mod.pw.toml"
+hash = "5d74d52111125fb24a17a54e42e945c4102011a1c87d5e246b4d07ea0a4514ce"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-legacy-forge.pw.toml"
+hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "98ce0745c39570074e48d503da5fd3f97952ac3f7fcccc363365f08295c41e6e"
+metafile = true
+
+[[files]]
+file = "mods/furnace-overhaul.pw.toml"
+hash = "db352d6ebb9d747fa1ca12a7ede86559293d537d7014dd0c21653c1fa7f585a2"
+metafile = true
+
+[[files]]
+file = "mods/futuristic-weapons-ii.pw.toml"
+hash = "890e492c0d906e1530d8c73f7a0772bc134777d7c8127701df637933bc0ceed5"
+metafile = true
+
+[[files]]
+file = "mods/glassential.pw.toml"
+hash = "2630afc565a784e974325624ea8405c2e70f50d19cb4fe8a157cd674cb9efbdd"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "146ccb001ec0a8e7964ebdf4934c239672360bcd00acdf03c6c81d73b0d65248"
+metafile = true
+
+[[files]]
+file = "mods/hwyla.pw.toml"
+hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-official-content-pack.pw.toml"
+hash = "2002f2e29d99b1c00be4595102edff60e0fb7d11112e591ec596508a3b688c4c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles.pw.toml"
+hash = "227c9b5de0e6ded24df400ec3e40cd0803637f2f87d9092cbc611699f5fee8e7"
+metafile = true
+
+[[files]]
+file = "mods/in-game-account-switcher.pw.toml"
+hash = "ec3101b6a4957b910a57988b934bf973bdec9bd66c92620ef9acfbca00f41f6e"
+metafile = true
+
+[[files]]
+file = "mods/infinity-with-mending.pw.toml"
+hash = "764f9f9affda2cd02b2a11a9071840166121ce455a242cc9aeb0b92aa02e5eb0"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.pw.toml"
+hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
+metafile = true
+
+[[files]]
+file = "mods/iron-backpacks.pw.toml"
+hash = "7ac16b8d705170e86b2f4a1216afe9f124bb859121f24d4e28f6d77c4b6dcf3f"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "b947ee2ed66177ece6897c549a5f525b94d20f16b354d9539d8d13f0fd480b10"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fc1f17adc1ca1dc160e053b4f6026b9c5d72dbfd3426987035670fa54afd26ba"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "b45723f984aa3fefed48b5c578acab57978f3c7f387f6e4eff6693cdfbd86b7e"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "ef537cb1d0d915de948eb10deb97ba00aff247f70b55a7efd74e53bdc7fab21c"
+metafile = true
+
+[[files]]
+file = "mods/llibrary.pw.toml"
+hash = "780f849666ae2b08a782a5d9571a3fe17d0ede5b65ffb3d2622419e8dd6b35ab"
+metafile = true
+
+[[files]]
+file = "mods/lootbags.pw.toml"
+hash = "13e4399764d572c621859050ccc4fbea88df7865abc981abef17072cb5c82041"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "ef11de8a6f1e71a963470c4dff53cc0593ff9e33b8aa6c64e7578a7492b79bbb"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "8250824432e551833c8ebb5862b6043489a9142e4b22635bc6e2384dad3c5130"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "33c1876e295d9043c0c9dcf144203a10ec8d41554c5f9da5c19bd4994bd60f52"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "ad1cbcb45a295913115227ab17d09460cd86ddde624d3ecf04cee7b5d07a2c03"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "a9534d73df10ac0b2a91ef645ca7ad7ca2d7f51de82c276123cc364236cd0d65"
+metafile = true
+
+[[files]]
+file = "mods/minerva-library.pw.toml"
+hash = "72ed5ec43345fbca2bc488ee220ac6366b19707a292bf58994b817c8a205da52"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "4b4b6e0241af3357ddab7998432199b82ef0c2a8b3dc0567e28c9a83cbfbc1fe"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "0076482df8cc8fad4533a7b173a1dc09e20259fd1a7e3283920a7a000a923e37"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "60d45619268b6dbe13ede0e9475442f0e42753dcc00f1c5d2cfa45140c4ad60f"
+metafile = true
+
+[[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "33797f106d7f44073865b9c54e8f62c50162e9415bc66b4dd9305d947527f39e"
+metafile = true
+
+[[files]]
+file = "mods/modern-splash.pw.toml"
+hash = "beb47d632db8583091245d924289bb3a6e17edd6c683c4bee3afc3dee0d8f72f"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "248ba26a604bb6bdb651388ad6e850672658d196632b71c685571befb5dd1c4e"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "b4815a6bd24ab674c6acdeb36d4e6e368edd22755451cab27faa3f9a81344ab9"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-gun-mod.pw.toml"
+hash = "6d36d42c202c6ad223bcf09f626eca0bbfed8fba21a8ead594bdb50e5023d209"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-vehicle-mod.pw.toml"
+hash = "ffeda295c954232dac21fd0e04562e97cdbc9f59f8d125a0062de7138c78511c"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "3f2f0bcf939bf6b455a51a8bf383885acf75aa19e2fe2fa2760192e7d027b815"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "6946b292f2f689e505e35135c43f6d2db9430929b473c30b569698c99cb266fd"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "a6468296d7e2e8853508616c5c4cac43512c641ab928a2bb4b790f2abd0fe93f"
+metafile = true
+
+[[files]]
+file = "mods/notenoughids.pw.toml"
+hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.pw.toml"
+hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
+metafile = true
+
+[[files]]
+file = "mods/openblocks.pw.toml"
+hash = "978ca201971ac81b047c0be1caeaa23df557610507c70f0a8c88ba6549caa624"
+metafile = true
+
+[[files]]
+file = "mods/openmodslib.pw.toml"
+hash = "c9b95c504f693a9f7e7b1a91ae7181a882fb79bab07304c216a1b18d3424b8c2"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
+metafile = true
+
+[[files]]
+file = "mods/plusticminusbad.pw.toml"
+hash = "11bd5348b38df958e1ee9394827a48d8501be5da545f4c7c9a1f487784039765"
+metafile = true
+
+[[files]]
+file = "mods/portality.pw.toml"
+hash = "53c4fb76a0dbe1076805319899657db17eed3210ec0ca340a7aefe54b64f0146"
+metafile = true
+
+[[files]]
+file = "mods/ptrlib.pw.toml"
+hash = "d3481a0c1e01ccb06ec6b7b1d3b52aca5de0de803f6d827b2b8074304829cd01"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "d4f62de4381221575e13c1826de2a3b8752daf5282e8fe24f1b6e651aa7e24a0"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.pw.toml"
+hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.pw.toml"
+hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "3d8916f266980c5865823128f66e8bac306e39e44ba95c9bb65330bff7b74115"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "cd7b43d7b333457e6460ebfb29a33a22339c9dc396abfc59f0b13702ae6b5577"
+metafile = true
+
+[[files]]
+file = "mods/rftools.pw.toml"
+hash = "ee00147e77931f8688308c192196092f9a2715b7111ba890cbf0c6b0f27bfea9"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "54df7faf586c0139288021bbb2c1c7e1d7330186e706b8647c8171af5a363ae4"
+metafile = true
+
+[[files]]
+file = "mods/set-home-waypoints.pw.toml"
+hash = "f37b02110ba60af17273cb0066bcc47d536a3d8739b97d8821b5131d1392194f"
+metafile = true
+
+[[files]]
+file = "mods/sonar-core.pw.toml"
+hash = "7a4e79ac0f156c4a700b05641286aeef8c6bf9770bf03729de534232e4185d1b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "bfecbdf1acfe526882341e6dfc75201bd2213a99274c29ca4390c0e9c03e26b8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8c3ff7a87c6f185b57dac792fe790b51d18eb8f19f1704085ba8590b19c82b4c"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/thermal-tinkering.pw.toml"
+hash = "f8d2fd09cc595766a37f00b47c6d9ca065aaec86b6d0b043aec61b207a487fe0"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-complement.pw.toml"
+hash = "11f9e72bfd74eb4386e5eeab4b533501125949d48f05cdc7b536c73cff9a24ac"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "c3930febcc29d9e80c9c222755465f03c2dfb71c9613356a550b693533f4a9c7"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-reforged.pw.toml"
+hash = "ddf3f2e4478feaddeb022a9ba7ebf030cf6e86eec3a4a7291e8e0c5d7af43c68"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-tool-leveling.pw.toml"
+hash = "7ae6b403a7e1f09b7b707d1c7153a5f0e85308e34ffc4a58a4de906ef880a061"
+metafile = true
+
+[[files]]
+file = "mods/tipthescales.pw.toml"
+hash = "696f61d1ed9678c21774cbd08fa23e632620b147b364e05dc0134b050f82a570"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "c954e9326d0752cb6d742b2fb4810389ce84fb226fd3f654489fbc1e91f6f67e"
+metafile = true
+
+[[files]]
+file = "mods/tomb-many-graves-2.pw.toml"
+hash = "4aadc797a9cef1e2d93d7c7ffa1d015379f93bd3e68f8aa66991cc45a089d207"
+metafile = true
+
+[[files]]
+file = "mods/translocators-1-8.pw.toml"
+hash = "e20c672b807a489407d4a11c6a0767f554d6ae5c97afb265388311611219bdbd"
+metafile = true
+
+[[files]]
+file = "mods/unlimited-chisel-works.pw.toml"
+hash = "f16408310e21444165c6640727d3d88bec84626dfa17f00c386ab8c053e3d220"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies-control.pw.toml"
+hash = "2f36b3f15401f112a7d02eb16e0e4bf11df6aff8a926dd1bfd52f6c212fe3ee3"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies-world.pw.toml"
+hash = "68e25bbed9add3d9300d9996279aa64eec74c1265c637c67a6aec7e651a39b3b"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "29e5f31939a17d0448d9eb53260b84b93252b405ad46ccaf55c09024a23400a8"
+metafile = true
+
+[[files]]
+file = "mods/wawla.pw.toml"
+hash = "25ad3bdca669132498794ee2e33c0d4d2cd753f36dd58409873d550338bfa903"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mr-crayfish-furniture-model-backport.pw.toml"
+hash = "10079854a818f663f26b3bfffb9c2fc2c4c7ba7b237efeab6af266c55634c2c7"
+metafile = true

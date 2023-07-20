@@ -1,0 +1,13 @@
+name = "Wawla - What Are We Looking At"
+filename = "Wawla-1.12.2-2.6.275.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wxWOoXgy/versions/eJ3Yfksn/Wawla-1.12.2-2.6.275.jar"
+hash-format = "sha1"
+hash = "783157c607149875de1e045d72382d370256257c"
+
+[update]
+[update.modrinth]
+mod-id = "wxWOoXgy"
+version = "eJ3Yfksn"

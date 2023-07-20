@@ -1,0 +1,13 @@
+name = "Grappling Hook Mod"
+filename = "grappling_hook_mod-1.12.2-v13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hGWjTxOA/versions/v13-1.12.2/grappling_hook_mod-1.12.2-v13.jar"
+hash-format = "sha1"
+hash = "6e19255da276ab2a3a4adbc30652169adf6901d3"
+
+[update]
+[update.modrinth]
+mod-id = "hGWjTxOA"
+version = "Dc4PzRD9"

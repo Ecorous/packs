@@ -1,0 +1,13 @@
+name = "Bio Library"
+filename = "biolib-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ycmc3H8T/versions/1.1.2/biolib-1.1.2.jar"
+hash-format = "sha1"
+hash = "198738c4fd17081042e3380f9fee35cc57794879"
+
+[update]
+[update.modrinth]
+mod-id = "Ycmc3H8T"
+version = "61rodE0m"

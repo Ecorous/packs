@@ -1,0 +1,13 @@
+name = "Futuristic Weapons II"
+filename = "futuristicweapons-1.0.0_0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d14cbc37c88b9ef5043a04ae5d029812b1c9b2ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4563885
+project-id = 869326

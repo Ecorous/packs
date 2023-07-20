@@ -1,0 +1,13 @@
+name = "Avatar Mod 2: Out of the Iceberg"
+filename = "avatarmod-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68699b94c18713926034bfb86a42760e22494545"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3929906
+project-id = 254565

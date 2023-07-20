@@ -1,0 +1,13 @@
+name = "Flying Lemur [Avatar Addon - Mod]"
+filename = "AvatarFlyingLemur-1.12.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ad597c1127886d70d07e6c61858a55ecc62813c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3012981
+project-id = 396829
