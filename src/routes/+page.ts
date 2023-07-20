@@ -40,5 +40,7 @@ export async function load({ fetch }) {
         packs.push(outToml)
         paths.push(pack)
     }
+    console.log("packs:", packs)
+    console.log("paths:", paths)
     return {packs, paths}
 }
