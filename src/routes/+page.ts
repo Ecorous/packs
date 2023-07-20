@@ -2,7 +2,7 @@ import { error } from '@sveltejs/kit';
 import * as toml from 'toml';
 /** @type {import('./$types').PageLoad} */
 
-export async function load({ fetch, params }) {
+/*export async function load({ fetch, params }) {
         console.log("zz")
         let packs_dirs = await (await fetch("/data.json")).json()
         var packs: any[] = []
@@ -27,4 +27,16 @@ export async function load({ fetch, params }) {
         console.log("+page.ts:packs: " + packs)
         console.log("+page.ts:paths: " + paths)
         return { packs, paths }
+}*/
+export async function load({ fetch }) {
+    let packsData = await (await fetch("/data.json")).json()
+    var packs: any[] = []
+    var paths: any[] = []
+    for (const pack in packsData.files) {
+        let packToml = await (await fetch(`/data/${pack}/pack.toml`)).text()
+        let outToml = toml.parse(packToml)
+        packs.push(outToml)
+        paths.push(pack)
+    }
+    return {packs, paths}
 }
