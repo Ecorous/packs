@@ -32,6 +32,8 @@ export async function load({ fetch }) {
     let packsData = await (await fetch("/data.json")).json()
     var packs: any[] = []
     var paths: any[] = []
+    console.log(packsData)
+    console.log(JSON.stringify(packsData))
     for (const pack in packsData.files) {
         let packToml = await (await fetch(`/data/${pack}/pack.toml`)).text()
         let outToml = toml.parse(packToml)
