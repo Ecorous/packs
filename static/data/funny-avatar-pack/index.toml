@@ -840,6 +840,11 @@ hash = "7ae6b403a7e1f09b7b707d1c7153a5f0e85308e34ffc4a58a4de906ef880a061"
 metafile = true
 
 [[files]]
+file = "mods/tiny-progressions.pw.toml"
+hash = "f5b41a0e152341ea33f0aa6e036b7c2d1663fa9603ff170941affad97db61511"
+metafile = true
+
+[[files]]
 file = "mods/tipthescales.pw.toml"
 hash = "696f61d1ed9678c21774cbd08fa23e632620b147b364e05dc0134b050f82a570"
 metafile = true
