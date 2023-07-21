@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "8cacfddf1fba2b0254a13cd0c10c3ea06ca8bede720d728b1369f47bd91f7589"
+metafile = true
