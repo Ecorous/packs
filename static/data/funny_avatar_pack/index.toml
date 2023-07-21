@@ -883,8 +883,3 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
-
-[[files]]
-file = "resourcepacks/mr-crayfish-furniture-model-backport.pw.toml"
-hash = "10079854a818f663f26b3bfffb9c2fc2c4c7ba7b237efeab6af266c55634c2c7"
-metafile = true
