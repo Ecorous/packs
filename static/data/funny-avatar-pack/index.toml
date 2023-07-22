@@ -460,6 +460,11 @@ hash = "883ba8032db25b483d8a908db8b584af27623897c6b23df5062cb35298e6f884"
 metafile = true
 
 [[files]]
+file = "mods/constructs-armory.pw.toml"
+hash = "29da2f11889d325de6b9d702f7e9813fab7b48d0ecf1b5cf4a95dca438867519"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "89e83ab7b9a0bf5de988cd7ee9448e64fb9682e80cb1d514c05783f7ec47ff91"
 metafile = true
