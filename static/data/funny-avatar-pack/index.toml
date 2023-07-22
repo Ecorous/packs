@@ -665,6 +665,11 @@ hash = "beb47d632db8583091245d924289bb3a6e17edd6c683c4bee3afc3dee0d8f72f"
 metafile = true
 
 [[files]]
+file = "mods/morpheus.pw.toml"
+hash = "3800d2d04ee10b3455a7f8527672086440269ba7a5993f31f1b85edf886f787f"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "248ba26a604bb6bdb651388ad6e850672658d196632b71c685571befb5dd1c4e"
 metafile = true
