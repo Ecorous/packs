@@ -550,6 +550,11 @@ hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
+metafile = true
+
+[[files]]
 file = "mods/immersive-vehicles-official-content-pack.pw.toml"
 hash = "2002f2e29d99b1c00be4595102edff60e0fb7d11112e591ec596508a3b688c4c"
 metafile = true
@@ -727,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/openmodslib.pw.toml"
 hash = "c9b95c504f693a9f7e7b1a91ae7181a882fb79bab07304c216a1b18d3424b8c2"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft.pw.toml"
+hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
