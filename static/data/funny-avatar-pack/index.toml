@@ -425,6 +425,11 @@ hash = "cfc549d7b6933d97eb81361854e86d157972b168a882de86b313f5540bdb5b3f"
 metafile = true
 
 [[files]]
+file = "mods/bonsai-trees.pw.toml"
+hash = "30c7e695c156b6e560d1c8db3a63d4446f73c89bfcb6bee5a6a819276b19614a"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
 metafile = true
