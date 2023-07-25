@@ -530,11 +530,6 @@ hash = "db352d6ebb9d747fa1ca12a7ede86559293d537d7014dd0c21653c1fa7f585a2"
 metafile = true
 
 [[files]]
-file = "mods/futuristic-weapons-ii.pw.toml"
-hash = "890e492c0d906e1530d8c73f7a0772bc134777d7c8127701df637933bc0ceed5"
-metafile = true
-
-[[files]]
 file = "mods/glassential.pw.toml"
 hash = "2630afc565a784e974325624ea8405c2e70f50d19cb4fe8a157cd674cb9efbdd"
 metafile = true
