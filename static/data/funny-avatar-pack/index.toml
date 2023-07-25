@@ -385,6 +385,11 @@ hash = "cab514b6b6236a357fde4ef97e2f4ffefa039a4735c315a43558d111aa2fe799"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "46dd4a3995f52240b7e5f614860eb2522125f86b135f3407cdc3ce6b8cb39621"
 metafile = true
@@ -607,6 +612,26 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "b45723f984aa3fefed48b5c578acab57978f3c7f387f6e4eff6693cdfbd86b7e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-drags.pw.toml"
+hash = "c0d6f20e14a17eb261ab098a8a1a00488bc0f4414896b58e2707cab9e6cb908d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-harvestcraft.pw.toml"
+hash = "06e3b67ee33614ed6a0563cd6a69fdac69d5190398995707dcc9eb74d1956033"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-vehicles.pw.toml"
+hash = "d1e8a9290ea208b06b9e765c1781aade410e599a39d68993bac1153aa4b47a9c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Just Enough Vehicles"
+filename = "jev-1.12.2-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff922f245b040adfb5da27887dfafed8a3b1b651"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3119496
+project-id = 327775
