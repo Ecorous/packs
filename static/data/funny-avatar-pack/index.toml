@@ -430,6 +430,11 @@ hash = "cfc549d7b6933d97eb81361854e86d157972b168a882de86b313f5540bdb5b3f"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "632549542eb039887281a603cf4141f2dde6522d4c547d6ba7ea3fd2d88fbac1"
+metafile = true
+
+[[files]]
 file = "mods/bonsai-trees.pw.toml"
 hash = "30c7e695c156b6e560d1c8db3a63d4446f73c89bfcb6bee5a6a819276b19614a"
 metafile = true
@@ -547,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/grappling-hook-mod.pw.toml"
 hash = "146ccb001ec0a8e7964ebdf4934c239672360bcd00acdf03c6c81d73b0d65248"
+metafile = true
+
+[[files]]
+file = "mods/guide-api.pw.toml"
+hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
 metafile = true
 
 [[files]]
