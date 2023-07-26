@@ -385,6 +385,11 @@ hash = "cab514b6b6236a357fde4ef97e2f4ffefa039a4735c315a43558d111aa2fe799"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "46dd4a3995f52240b7e5f614860eb2522125f86b135f3407cdc3ce6b8cb39621"
 metafile = true
@@ -425,13 +430,18 @@ hash = "cfc549d7b6933d97eb81361854e86d157972b168a882de86b313f5540bdb5b3f"
 metafile = true
 
 [[files]]
-file = "mods/blood-magic.pw.toml"
-hash = "632549542eb039887281a603cf4141f2dde6522d4c547d6ba7ea3fd2d88fbac1"
+file = "mods/bonsai-trees.pw.toml"
+hash = "30c7e695c156b6e560d1c8db3a63d4446f73c89bfcb6bee5a6a819276b19614a"
 metafile = true
 
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
+metafile = true
+
+[[files]]
+file = "mods/chameleon.pw.toml"
+hash = "305815006195c0647af38ea5d8c03cd6c652c77bf975e3e967b754bc3b9ac569"
 metafile = true
 
 [[files]]
@@ -530,11 +540,6 @@ hash = "db352d6ebb9d747fa1ca12a7ede86559293d537d7014dd0c21653c1fa7f585a2"
 metafile = true
 
 [[files]]
-file = "mods/futuristic-weapons-ii.pw.toml"
-hash = "890e492c0d906e1530d8c73f7a0772bc134777d7c8127701df637933bc0ceed5"
-metafile = true
-
-[[files]]
 file = "mods/glassential.pw.toml"
 hash = "2630afc565a784e974325624ea8405c2e70f50d19cb4fe8a157cd674cb9efbdd"
 metafile = true
@@ -545,11 +550,6 @@ hash = "146ccb001ec0a8e7964ebdf4934c239672360bcd00acdf03c6c81d73b0d65248"
 metafile = true
 
 [[files]]
-file = "mods/guide-api.pw.toml"
-hash = "84a12cab793e2dd8eeec5971365bc25b4a0ba26a4f6489d908a31f30162c9fdc"
-metafile = true
-
-[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
@@ -557,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "0764bde575aca6b60f2e211552e354ec5c7db203e678aedc9b7c1b411690b9d8"
 metafile = true
 
 [[files]]
@@ -607,6 +612,26 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "b45723f984aa3fefed48b5c578acab57978f3c7f387f6e4eff6693cdfbd86b7e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-drags.pw.toml"
+hash = "c0d6f20e14a17eb261ab098a8a1a00488bc0f4414896b58e2707cab9e6cb908d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-harvestcraft.pw.toml"
+hash = "06e3b67ee33614ed6a0563cd6a69fdac69d5190398995707dcc9eb74d1956033"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "80d3649857b9a454a12348abdb6fcc45a1d09d4ed7ce40d8034db113e91d7020"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-vehicles.pw.toml"
+hash = "d1e8a9290ea208b06b9e765c1781aade410e599a39d68993bac1153aa4b47a9c"
 metafile = true
 
 [[files]]
@@ -740,6 +765,11 @@ hash = "c9b95c504f693a9f7e7b1a91ae7181a882fb79bab07304c216a1b18d3424b8c2"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft.pw.toml"
+hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
@@ -807,6 +837,16 @@ metafile = true
 [[files]]
 file = "mods/sonar-core.pw.toml"
 hash = "7a4e79ac0f156c4a700b05641286aeef8c6bf9770bf03729de534232e4185d1b"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers-unlimited-fixed.pw.toml"
+hash = "344a5bb2674e241380b72692677ef499540b379b5280778f55bcf16093d4cc9a"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "b9d564847fd7fabd6f9d65f001d1da9c2d1c03e5df5d9d258db713b4f145d1d0"
 metafile = true
 
 [[files]]
