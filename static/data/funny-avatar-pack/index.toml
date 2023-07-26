@@ -963,3 +963,7 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
+
+[[files]]
+file = "resourcepacks/backport_textures.zip"
+hash = "8f381f0e99aabb28fe4dd3ea3d02e79438ab4bdf95e6b7c754aeb1f9013b4fdc"
