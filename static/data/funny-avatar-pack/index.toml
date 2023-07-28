@@ -390,6 +390,21 @@ hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
 metafile = true
 
 [[files]]
+file = "mods/aroma1997core.pw.toml"
+hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
+metafile = true
+
+[[files]]
+file = "mods/aroma1997s-dimensional-world.pw.toml"
+hash = "8271e3d47842a5318c7b080a1cc155fc32e3c38bf917cab6a76baef8c15f81c0"
+metafile = true
+
+[[files]]
+file = "mods/aromabackup.pw.toml"
+hash = "7e2c5d0cf480bf53156085e3036ae07f1506ab39e771afa3dc95bf4b8d7df763"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "46dd4a3995f52240b7e5f614860eb2522125f86b135f3407cdc3ce6b8cb39621"
 metafile = true
