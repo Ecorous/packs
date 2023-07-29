@@ -800,6 +800,11 @@ hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
+file = "mods/pipeblocker.pw.toml"
+hash = "5504693516e23b3aa62f372f8d6248c553cfb3cda1adb21384a93a451326850f"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
