@@ -470,6 +470,11 @@ hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "453760e9147ba0f9eb259e9dcf6533e6ee7f58398272a1cd15506df45e13a260"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "4898ca84a5742f1e99ba9774c64e739323c21dad5e750961613000986317b4fe"
 metafile = true
