@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/endercore.pw.toml"
-hash = "403f0f039f586d905de911e18b3f63730d25e1143cf4a43916162997fefb6cd6"
+hash = "95a18eb1874edc1f94b93ac730249be28db12f0a643d360e29bd8ce9135bc42c"
 metafile = true
 
 [[files]]
@@ -800,11 +800,6 @@ hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
 
 [[files]]
-file = "mods/pipeblocker.pw.toml"
-hash = "5504693516e23b3aa62f372f8d6248c553cfb3cda1adb21384a93a451326850f"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
@@ -891,7 +886,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "8c3ff7a87c6f185b57dac792fe790b51d18eb8f19f1704085ba8590b19c82b4c"
+hash = "0bbceec59e13d6842fa55ae9b7a03eeaec09feda1f432f27934e83df664c45e8"
 metafile = true
 
 [[files]]
