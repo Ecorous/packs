@@ -435,6 +435,11 @@ hash = "36244694d3af803f9d29b2181514d0c3679b3af19ae2c9c21476eb55d4874760"
 metafile = true
 
 [[files]]
+file = "mods/better-builders-wands.pw.toml"
+hash = "f7c821287bcb460b7cd51438d4f08c818beb1070d687a0460ce5c5279941bad2"
+metafile = true
+
+[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "9816a742885cbb74ea91d333240bb1e658f72e757c16d6ebeb690c7f8f45a4a2"
 metafile = true
