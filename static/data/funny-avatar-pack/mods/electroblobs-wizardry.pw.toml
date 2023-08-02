@@ -1,0 +1,13 @@
+name = "Electroblob's Wizardry"
+filename = "ElectroblobsWizardry-4.3.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "972883940a4c3a2b6d17cd78f2cb53f5d67834c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4617771
+project-id = 265642

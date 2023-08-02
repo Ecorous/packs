@@ -1,0 +1,13 @@
+name = "Origins Minus w/ Climbing"
+filename = "origins-minus-w-climbing-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2Rk09hzH/versions/xPCkh9fU/origins-minus-w-climbing-1.0.0.jar"
+hash-format = "sha1"
+hash = "06b15cd15ddc15850e25df50243c5e30c1da4895"
+
+[update]
+[update.modrinth]
+mod-id = "2Rk09hzH"
+version = "xPCkh9fU"

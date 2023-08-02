@@ -1,0 +1,13 @@
+name = "Quirky"
+filename = "quirkyadditions-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e142ec1f2ea0475c756c085ce73f442bb0ae2823"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2787783
+project-id = 340426

@@ -1,0 +1,13 @@
+name = "The Abyss: Legacy"
+filename = "TheAbyss 3.5.0LV 1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42cfe4169b1d48d110c29b3977d8872cfb3acd84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3159924
+project-id = 378262

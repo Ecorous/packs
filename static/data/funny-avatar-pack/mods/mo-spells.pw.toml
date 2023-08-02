@@ -1,0 +1,13 @@
+name = "Mo' Spells (Electroblob's Wizardry)"
+filename = "MoSpells-1.12.2-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05cef8c6ae565f2c983dcc94809edf7537486988"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4240757
+project-id = 522529

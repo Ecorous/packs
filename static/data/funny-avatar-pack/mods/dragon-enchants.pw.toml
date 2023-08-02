@@ -1,0 +1,13 @@
+name = "Dragon Enchants"
+filename = "dragonenchantments-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43c2bbde1e35d76b32558cf381aad7e16dce1767"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3109162
+project-id = 324769

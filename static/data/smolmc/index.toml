@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/origins-minus-w-climbing.pw.toml"
+hash = "d0459d46fa86f0c99df5e5a36dbbd43fefa4f2ebbc4fc57c81c1cff706a48fb3"
+metafile = true
+
+[[files]]
+file = "mods/origins-minus.pw.toml"
+hash = "13c96ed14229bc8b81f8dca99685a1aba1325f3206c12d147ac7760fb0ff2097"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "8ff2c0cd469473f6a59d917d548c8b32cf0d0f7692964878186e3474689c9b04"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "8cacfddf1fba2b0254a13cd0c10c3ea06ca8bede720d728b1369f47bd91f7589"
 metafile = true

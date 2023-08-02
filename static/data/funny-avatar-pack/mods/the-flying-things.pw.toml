@@ -1,0 +1,13 @@
+name = "The Flying Things"
+filename = "flying_things-1.5.3-1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e975a8f1116322b9c586a187aab49154854212c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2941961
+project-id = 298581

@@ -1,0 +1,13 @@
+name = "Beast Slayer"
+filename = "beastslayer-2.0.test_1.01.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "325c5717a230096d8479ba7890e4903debaccde5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4582333
+project-id = 518157

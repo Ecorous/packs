@@ -1,0 +1,13 @@
+name = "Arcane Essentials (Electroblob's Wizardry)"
+filename = "arcane_essentials-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd1fe0037b8700d9db0fe2abe58f9e1b30806441"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4293856
+project-id = 312318

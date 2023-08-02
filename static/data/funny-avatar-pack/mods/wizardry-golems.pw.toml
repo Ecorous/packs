@@ -1,0 +1,13 @@
+name = "Wizardry Golems"
+filename = "WizardryGolems-1.12.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aba3e809a84ecb5c480586e44fdf2f7679858264"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4368436
+project-id = 422363

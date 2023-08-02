@@ -1,0 +1,13 @@
+name = "LemonLib"
+filename = "lemonlib-1.12.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b4fa22bcbb1b2c97718c11626f31a229ae9b282"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2639879
+project-id = 306926

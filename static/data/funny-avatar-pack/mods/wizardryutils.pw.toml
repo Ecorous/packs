@@ -1,0 +1,13 @@
+name = "WizardryUtils"
+filename = "WizardryUtils-1.12.2-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1d5eb9cdf5e4e1a5af3296fc8bc3fa6312bc30a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4284269
+project-id = 608287

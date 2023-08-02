@@ -1,0 +1,13 @@
+name = "The Mighty Architect"
+filename = "mightyarchitect-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4715fc5a8a68cf48583032b02999178a45900968"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2704451
+project-id = 317792
