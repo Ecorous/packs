@@ -375,11 +375,6 @@ hash = "8df645f1128ee834c25cf67045411cba8c4a8631d77ec93b231beea06fc1744a"
 metafile = true
 
 [[files]]
-file = "mods/alternate-artifice.pw.toml"
-hash = "df43cd6c9a1d9d6879e008539c1abf96e89f7752542ae9d5c71c6e4943af89fb"
-metafile = true
-
-[[files]]
 file = "mods/ambience-music-mod.pw.toml"
 hash = "a5aad68b85fc808dba7e4f569d2999ac03fb12289c470c8866a3e23be9102f9b"
 metafile = true
@@ -537,11 +532,6 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "883ba8032db25b483d8a908db8b584af27623897c6b23df5062cb35298e6f884"
-metafile = true
-
-[[files]]
-file = "mods/complex-teas.pw.toml"
-hash = "2156b59f1535b637a9672d83dccb1a32cfca5f41adf21bc4e4649e6cde0f9aad"
 metafile = true
 
 [[files]]
