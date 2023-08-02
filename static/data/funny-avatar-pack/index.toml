@@ -795,11 +795,6 @@ hash = "ef11de8a6f1e71a963470c4dff53cc0593ff9e33b8aa6c64e7578a7492b79bbb"
 metafile = true
 
 [[files]]
-file = "mods/mahou-tsukai.pw.toml"
-hash = "023838858c4cb91580c6b701ef5c5faf19ce2949848d706f2a8b744d42f30dfd"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "8250824432e551833c8ebb5862b6043489a9142e4b22635bc6e2384dad3c5130"
 metafile = true
