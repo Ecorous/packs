@@ -620,11 +620,6 @@ hash = "f476b89ab9f0b5829d538b509933426163d66c0a61797d92bef9e2906c377c07"
 metafile = true
 
 [[files]]
-file = "mods/evilcraft.pw.toml"
-hash = "ec69ddc616ac8fb57cc1d45da5e6b8326071946d69b38e41250768d9779dfe32"
-metafile = true
-
-[[files]]
 file = "mods/extra-golems.pw.toml"
 hash = "8b4a1b23100d14443e7a9bd5bb909fc591402e21e7e2b0ec4f3c44d0819d37e9"
 metafile = true
