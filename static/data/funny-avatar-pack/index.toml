@@ -405,11 +405,6 @@ hash = "eda5813f97577e9934999d8eb3c7819384072a746bdf6b9d226f21906394c1f5"
 metafile = true
 
 [[files]]
-file = "mods/arcane-world.pw.toml"
-hash = "ee059e18d379102a47e336f6a3b6b2e7e13315241ad9ccb25f417aed28cec226"
-metafile = true
-
-[[files]]
 file = "mods/aroma1997core.pw.toml"
 hash = "e111fd8717b5a9143d41d53e50c7c16f80ab074d76e256094229070b942b4cd3"
 metafile = true
@@ -570,16 +565,6 @@ hash = "da33ce9b0a942dce4bfeef5f615d434ef191063b1c602fe236447c641122105b"
 metafile = true
 
 [[files]]
-file = "mods/dragon-enchants.pw.toml"
-hash = "c49a255fc19ad6772c53cf1fd6eb11b07dd8f94b9d9457981b6a173d066a2640"
-metafile = true
-
-[[files]]
-file = "mods/electroblobs-wizardry-twilight-forest-spell-pack.pw.toml"
-hash = "0e15e6c821efacbc28d05312138369117e24093dee6068e03803140527201adf"
-metafile = true
-
-[[files]]
 file = "mods/electroblobs-wizardry.pw.toml"
 hash = "dd5fd8776762ca16d6122989443487014391ddb849bbed98d22dd0a6697b976c"
 metafile = true
@@ -607,11 +592,6 @@ metafile = true
 [[files]]
 file = "mods/evergreenhud.pw.toml"
 hash = "f476b89ab9f0b5829d538b509933426163d66c0a61797d92bef9e2906c377c07"
-metafile = true
-
-[[files]]
-file = "mods/extra-golems.pw.toml"
-hash = "8b4a1b23100d14443e7a9bd5bb909fc591402e21e7e2b0ec4f3c44d0819d37e9"
 metafile = true
 
 [[files]]
@@ -662,11 +642,6 @@ metafile = true
 [[files]]
 file = "mods/hwyla.pw.toml"
 hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
-metafile = true
-
-[[files]]
-file = "mods/ice-and-fire-dragons.pw.toml"
-hash = "c02a635932d30d1b3f07073d472e3127ee771675781cc05f6e66a696b1372526"
 metafile = true
 
 [[files]]
@@ -900,11 +875,6 @@ hash = "c9b95c504f693a9f7e7b1a91ae7181a882fb79bab07304c216a1b18d3424b8c2"
 metafile = true
 
 [[files]]
-file = "mods/overlord.pw.toml"
-hash = "a15baa8773dda2a1ea3846ba1cd23a4f5f46bb299ba5a66286774f1b22cb1fb4"
-metafile = true
-
-[[files]]
 file = "mods/pams-harvestcraft.pw.toml"
 hash = "58e364c18441b784d48f1bda8e4717dd93efd03eba136e454a90504690dfad93"
 metafile = true
@@ -990,11 +960,6 @@ hash = "54df7faf586c0139288021bbb2c1c7e1d7330186e706b8647c8171af5a363ae4"
 metafile = true
 
 [[files]]
-file = "mods/set-home-waypoints.pw.toml"
-hash = "f37b02110ba60af17273cb0066bcc47d536a3d8739b97d8821b5131d1392194f"
-metafile = true
-
-[[files]]
 file = "mods/sonar-core.pw.toml"
 hash = "7a4e79ac0f156c4a700b05641286aeef8c6bf9770bf03729de534232e4185d1b"
 metafile = true
@@ -1037,11 +1002,6 @@ metafile = true
 [[files]]
 file = "mods/the-mighty-architect.pw.toml"
 hash = "14a3ac93b098f68803e6ec9deaca6ad5288f414d31018af9ec912d2e4122c2f1"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "7af0b8a8e634eab7ecd9e6401ce3c71d6ec1c2c5dae078dee5a526898f88c72c"
 metafile = true
 
 [[files]]
@@ -1105,11 +1065,6 @@ hash = "4aadc797a9cef1e2d93d7c7ffa1d015379f93bd3e68f8aa66991cc45a089d207"
 metafile = true
 
 [[files]]
-file = "mods/translocators-1-8.pw.toml"
-hash = "e20c672b807a489407d4a11c6a0767f554d6ae5c97afb265388311611219bdbd"
-metafile = true
-
-[[files]]
 file = "mods/unlimited-chisel-works.pw.toml"
 hash = "f16408310e21444165c6640727d3d88bec84626dfa17f00c386ab8c053e3d220"
 metafile = true
@@ -1135,11 +1090,6 @@ hash = "29e5f31939a17d0448d9eb53260b84b93252b405ad46ccaf55c09024a23400a8"
 metafile = true
 
 [[files]]
-file = "mods/wanesoul-wizardy.pw.toml"
-hash = "5c2566200d09035b48bb19a138626ffb67d8171f3fbe340a17764767cdae9010"
-metafile = true
-
-[[files]]
 file = "mods/wawla.pw.toml"
 hash = "25ad3bdca669132498794ee2e33c0d4d2cd753f36dd58409873d550338bfa903"
 metafile = true
@@ -1147,11 +1097,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
-metafile = true
-
-[[files]]
-file = "mods/wizardry-golems.pw.toml"
-hash = "9239d68a78add8b3352d9249055c38c080089f0b243430ba5c9ece1c4712c77a"
 metafile = true
 
 [[files]]
