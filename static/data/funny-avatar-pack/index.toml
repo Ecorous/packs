@@ -375,11 +375,6 @@ hash = "8df645f1128ee834c25cf67045411cba8c4a8631d77ec93b231beea06fc1744a"
 metafile = true
 
 [[files]]
-file = "mods/ambience-music-mod.pw.toml"
-hash = "a5aad68b85fc808dba7e4f569d2999ac03fb12289c470c8866a3e23be9102f9b"
-metafile = true
-
-[[files]]
 file = "mods/ancient-spellcraft.pw.toml"
 hash = "55e7e8b08a10d4fc22e060ab14620d0caada07038eeac4ae708fa1d542ee0009"
 metafile = true
@@ -597,11 +592,6 @@ metafile = true
 [[files]]
 file = "mods/extra-utilities.pw.toml"
 hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
-metafile = true
-
-[[files]]
-file = "mods/flying-lemur-avatar-addon-mod.pw.toml"
-hash = "5d74d52111125fb24a17a54e42e945c4102011a1c87d5e246b4d07ea0a4514ce"
 metafile = true
 
 [[files]]
@@ -990,11 +980,6 @@ hash = "0bbceec59e13d6842fa55ae9b7a03eeaec09feda1f432f27934e83df664c45e8"
 metafile = true
 
 [[files]]
-file = "mods/the-abyss.pw.toml"
-hash = "748d48e915c6a6d377ebfd1a4a25afe32acb30d3ffcb6b246758d729e27855da"
-metafile = true
-
-[[files]]
 file = "mods/the-flying-things.pw.toml"
 hash = "86064e2d37896d7368ce20ab6622a67bf19aae4312804433defb7ec5715abe44"
 metafile = true
@@ -1072,21 +1057,6 @@ metafile = true
 [[files]]
 file = "mods/valkyrielib.pw.toml"
 hash = "bbaf264bc4c3ee6462ca143251b6e0e08dd5c6fd7556256da31c3641a5ae14cb"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies-control.pw.toml"
-hash = "2f36b3f15401f112a7d02eb16e0e4bf11df6aff8a926dd1bfd52f6c212fe3ee3"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies-world.pw.toml"
-hash = "68e25bbed9add3d9300d9996279aa64eec74c1265c637c67a6aec7e651a39b3b"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "29e5f31939a17d0448d9eb53260b84b93252b405ad46ccaf55c09024a23400a8"
 metafile = true
 
 [[files]]
