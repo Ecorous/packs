@@ -1001,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-mighty-architect.pw.toml"
-hash = "14a3ac93b098f68803e6ec9deaca6ad5288f414d31018af9ec912d2e4122c2f1"
+hash = "c35c43587280fb152118ec816ddfa8f4d7a412ae08b3e5560631053102b6ee69"
 metafile = true
 
 [[files]]
