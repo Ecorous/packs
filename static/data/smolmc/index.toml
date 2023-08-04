@@ -26,6 +26,11 @@ hash = "107ce2dcc0e76edcbea1fe5333cca7743452768b7667bed9acd13257009742a5"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "7f8f5be667b8fb33c6b4ab56af32e63748d482a70b0b60af869022c5ce18800f"
+metafile = true
+
+[[files]]
 file = "mods/intricarpet.pw.toml"
 hash = "4ca5b34efd4ee14b2b776a1c861ea46ef631470f7396edfba142a5085e5dedf0"
 metafile = true
