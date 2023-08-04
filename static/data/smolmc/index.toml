@@ -21,8 +21,18 @@ hash = "9f787016e772d10343a5d1ffcc30019a722659e6e7c9f658407d354283b24286"
 metafile = true
 
 [[files]]
+file = "mods/hookshot.pw.toml"
+hash = "107ce2dcc0e76edcbea1fe5333cca7743452768b7667bed9acd13257009742a5"
+metafile = true
+
+[[files]]
 file = "mods/intricarpet.pw.toml"
 hash = "4ca5b34efd4ee14b2b776a1c861ea46ef631470f7396edfba142a5085e5dedf0"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "859b1f9c9774c432724260e340d83299eed517753c14aec26bf520192909ede3"
 metafile = true
 
 [[files]]

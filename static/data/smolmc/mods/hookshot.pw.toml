@@ -1,0 +1,13 @@
+name = "Hookshot"
+filename = "hookshot-1.27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Llu0xJGi/versions/cRVRq282/hookshot-1.27.jar"
+hash-format = "sha1"
+hash = "b9033624866ab69092563d3e9a79f14eec68ba4c"
+
+[update]
+[update.modrinth]
+mod-id = "Llu0xJGi"
+version = "cRVRq282"
