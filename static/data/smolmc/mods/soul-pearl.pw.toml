@@ -1,0 +1,13 @@
+name = "Soul Pearl"
+filename = "soul-pearl-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KtTLYkG6/versions/LfIjglyM/soul-pearl-0.2.1.jar"
+hash-format = "sha1"
+hash = "07ac76526bfe18fa3bf6e941a8dcd2b6fcd851d3"
+
+[update]
+[update.modrinth]
+mod-id = "KtTLYkG6"
+version = "LfIjglyM"

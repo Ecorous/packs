@@ -1,6 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "56c08a19b9257a481269b77cd630c7396a4ce471f0a4f434df41a49a0623a95a"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "78440a830f7db12b84b52f21a3a539ae6ea3b164167e90514cf3b3e0f837fa35"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "696967b36e6770e6d17ad986013775fa5dd2491ed005766baaf82c23f4b40757"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "9f787016e772d10343a5d1ffcc30019a722659e6e7c9f658407d354283b24286"
+metafile = true
+
+[[files]]
+file = "mods/intricarpet.pw.toml"
+hash = "4ca5b34efd4ee14b2b776a1c861ea46ef631470f7396edfba142a5085e5dedf0"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "9751fac0f672b632c9d249528c2749769b8edb3e3e880ac82c583723a7e11937"
+metafile = true
+
+[[files]]
+file = "mods/moborigins.pw.toml"
+hash = "2671121ae1181bac9a50257bb06777488e581743784411d0e3d453f0e1b22b02"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "ba5d04e1c613925e99877a5c61327c72294972c8cc0cdb6e20fddc349a11346a"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator-fabric.pw.toml"
+hash = "963e3c3ceef5048a637a4ab6f082035aa174b55f62e79a0bfef2ce3ddb1a5906"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "cd7d73502d0887fdb4e3673e0a2612c34971e36c79bcbe1cf77f2ff30e5af69c"
+metafile = true
+
+[[files]]
 file = "mods/origins-minus-w-climbing.pw.toml"
 hash = "d0459d46fa86f0c99df5e5a36dbbd43fefa4f2ebbc4fc57c81c1cff706a48fb3"
 metafile = true
@@ -11,11 +61,61 @@ hash = "13c96ed14229bc8b81f8dca99685a1aba1325f3206c12d147ac7760fb0ff2097"
 metafile = true
 
 [[files]]
+file = "mods/origins-player-scale.pw.toml"
+hash = "4f28d01e96426ce4d5f94f2833a3fcbc949532bb70bde60b0ea8798d3a3c3ef7"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "8ff2c0cd469473f6a59d917d548c8b32cf0d0f7692964878186e3474689c9b04"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
+metafile = true
+
+[[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "f8cf03215c15278f0e30174c505672d2fd70e63cd9dff1777c241afe2c6c0cb8"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "8cacfddf1fba2b0254a13cd0c10c3ea06ca8bede720d728b1369f47bd91f7589"
+metafile = true
+
+[[files]]
+file = "mods/soul-pearl.pw.toml"
+hash = "80821f1c32c68145d9ed061a118c64c67205851ba9c48c3a57699b49ba300433"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "c843b306eb159ceaafb0243d26be9607444da0b59fd787ae5cfb8c8597c90bed"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "9204ff16e4314cf2e9e1b7e8281dd6f15a7b886f9a5f2172ca4e0e0d23b8ed88"
+metafile = true
+
+[[files]]
+file = "mods/talon-coins.pw.toml"
+hash = "cbc78cc0dd4b4ea9a0b0ba82d0eda611b75cc5b3c71573fb34a053d12399dd48"
+metafile = true
+
+[[files]]
+file = "mods/the-mighty-architectury.pw.toml"
+hash = "7a3dbc154f21bcce82ad8a148269f75d44e6c1c217a6a4b54324d07194b22640"
+metafile = true
+
+[[files]]
+file = "mods/useless-compressed-blocks.pw.toml"
+hash = "597bf9acd5b2beb714d51f2584e8564ddf5198e17951349d10e337c2c3c905f9"
+metafile = true
+
+[[files]]
+file = "mods/wormhole.pw.toml"
+hash = "7ef7c92388aca00e2dd01eba590b05fa792f53f7f0ce69d607763959de992458"
 metafile = true

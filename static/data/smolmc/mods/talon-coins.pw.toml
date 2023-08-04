@@ -1,0 +1,13 @@
+name = "Talon Coins"
+filename = "talon-coins-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pBk8TigL/versions/P3V70yLJ/talon-coins-1.0.0-fabric.jar"
+hash-format = "sha1"
+hash = "2677a16abf7b6f5fb6c8f03b4af2659f0070d875"
+
+[update]
+[update.modrinth]
+mod-id = "pBk8TigL"
+version = "P3V70yLJ"
