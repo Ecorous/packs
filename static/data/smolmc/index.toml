@@ -25,11 +25,6 @@ hash = "9f787016e772d10343a5d1ffcc30019a722659e6e7c9f658407d354283b24286"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "8c2f025206a96b2537a83f2d1fc10461e2a511e9cdbb8a120024299f88b046f5"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "a29a6474aff0264882b7e6e010d8beadfb3291e361d171aebb0cb158f4892812"
 metafile = true
@@ -52,11 +47,6 @@ metafile = true
 [[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "7f8f5be667b8fb33c6b4ab56af32e63748d482a70b0b60af869022c5ce18800f"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
 metafile = true
 
 [[files]]
