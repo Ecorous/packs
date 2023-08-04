@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "28eea94832a1aea502180a3f829e3eae0ce8de3b00513874a185ce8062b964c3"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "56c08a19b9257a481269b77cd630c7396a4ce471f0a4f434df41a49a0623a95a"
 metafile = true
@@ -21,6 +25,26 @@ hash = "9f787016e772d10343a5d1ffcc30019a722659e6e7c9f658407d354283b24286"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "8c2f025206a96b2537a83f2d1fc10461e2a511e9cdbb8a120024299f88b046f5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a29a6474aff0264882b7e6e010d8beadfb3291e361d171aebb0cb158f4892812"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "266f703fec64430450f484b4e65216baf9094fc4a0ce5e62fdd4aff21ad8679e"
+metafile = true
+
+[[files]]
 file = "mods/hookshot.pw.toml"
 hash = "107ce2dcc0e76edcbea1fe5333cca7743452768b7667bed9acd13257009742a5"
 metafile = true
@@ -31,8 +55,23 @@ hash = "7f8f5be667b8fb33c6b4ab56af32e63748d482a70b0b60af869022c5ce18800f"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
+metafile = true
+
+[[files]]
 file = "mods/intricarpet.pw.toml"
 hash = "4ca5b34efd4ee14b2b776a1c861ea46ef631470f7396edfba142a5085e5dedf0"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
 
 [[files]]
@@ -101,6 +140,21 @@ hash = "8cacfddf1fba2b0254a13cd0c10c3ea06ca8bede720d728b1369f47bd91f7589"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "405de59ee1b659cce44f57af5e836307d2f6b29d6597baefbf3d95e77c582d9e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
 file = "mods/soul-pearl.pw.toml"
 hash = "80821f1c32c68145d9ed061a118c64c67205851ba9c48c3a57699b49ba300433"
 metafile = true
@@ -112,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "9204ff16e4314cf2e9e1b7e8281dd6f15a7b886f9a5f2172ca4e0e0d23b8ed88"
+hash = "133fb336202ef6efc43f96b779b3265ead5901451c3153d9ef01a5155a094594"
 metafile = true
 
 [[files]]
