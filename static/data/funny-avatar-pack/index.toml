@@ -1077,3 +1077,8 @@ metafile = true
 [[files]]
 file = "resourcepacks/backport_textures.zip"
 hash = "8f381f0e99aabb28fe4dd3ea3d02e79438ab4bdf95e6b7c754aeb1f9013b4fdc"
+
+[[files]]
+file = "resourcepacks/jappa-backport.pw.toml"
+hash = "4b30b12db6efa3eca7f232e0e3af2739025322251f831fa4ee8f8983c153104c"
+metafile = true

@@ -1,0 +1,13 @@
+name = "JAPPA Backport"
+filename = "jappabp-1.2-mc1.12.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mWmuC2TQ/versions/CTR3graC/jappabp-1.2-mc1.12.zip"
+hash-format = "sha1"
+hash = "961eb0452b956afb3130ca89d184da0d818f331b"
+
+[update]
+[update.modrinth]
+mod-id = "mWmuC2TQ"
+version = "CTR3graC"
