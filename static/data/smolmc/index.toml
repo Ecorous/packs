@@ -10,6 +10,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+metafile = true
+
+[[files]]
 file = "mods/blahaj.pw.toml"
 hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
@@ -100,6 +105,11 @@ hash = "c3d87c3d2b1dd5ef6758e7329bc3feb5090dba1a56134a9103de46a52c8a8a9b"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "fc62c8ca609288aae3ab5368a40f29bf18f21df923158b8e5a008b45356a33a8"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "0afa1d2acbb35888bef596fa85de0cac881c881ee6cdd60940d711190f6a181a"
 metafile = true
@@ -127,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/moborigins.pw.toml"
 hash = "8686717834b2c99c73a0224befd70389e2a0183cbbc61850c901aa5aad19d96c"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "09aae0a58af9c1d1b9aa467263163427b3fe1b20ee7141c2a446205e34adc727"
 metafile = true
 
 [[files]]
@@ -205,6 +220,11 @@ hash = "785a9317dde69152877bd175024e7207508b56da6e003094e115f925fe1fbcda"
 metafile = true
 
 [[files]]
+file = "mods/smolcoins.pw.toml"
+hash = "0dee1e378601d4e41edbb8df6e97161f23ae752d7c7b3c7aea67d2454b358fb7"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7f8fc135366b83aa4021b9a7fe3e13e1449d3dff81dd16e82af06405498f42b8"
 metafile = true
@@ -267,4 +287,9 @@ metafile = true
 [[files]]
 file = "mods/wormhole.pw.toml"
 hash = "c4c6a5fed91357f2572de5b8301852b7f0225b4b39ea156f76379a0130089184"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "ec6da3883ac37b7ae50d1eaea4d18af2964843017cf79c058c1c05178ed746ad"
 metafile = true
