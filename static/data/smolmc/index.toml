@@ -45,6 +45,11 @@ hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
 
 [[files]]
+file = "mods/gravity-api.pw.toml"
+hash = "7614f94faf853bed3c4794bca2eef34a18d16f9c0082818ebe0e5e8441366e3a"
+metafile = true
+
+[[files]]
 file = "mods/immersiveportals.pw.toml"
 hash = "1b269107a2b1a91317add950a21c4168786c880b0d01b57ae3a3cca51126f20f"
 metafile = true
