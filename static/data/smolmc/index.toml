@@ -45,8 +45,8 @@ hash = "9bc3716ec5b59e42a827b08b34ec1f1fe3b4791a920c9408e58afdefeda9fc20"
 metafile = true
 
 [[files]]
-file = "mods/gravity-api.pw.toml"
-hash = "7614f94faf853bed3c4794bca2eef34a18d16f9c0082818ebe0e5e8441366e3a"
+file = "mods/gravity-api-fork.pw.toml"
+hash = "8f8cdc925eb47b9813de51e5a5fdccd288973327c991addabc34909ed5edf8e5"
 metafile = true
 
 [[files]]
