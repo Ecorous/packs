@@ -120,11 +120,6 @@ hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "3963e273246b1e6fda4639298de6275fbb4ee6d9fe4bcfa502afc4ad680b9129"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
 metafile = true
@@ -217,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
-metafile = true
-
-[[files]]
-file = "mods/portal-gun.pw.toml"
-hash = "9fa891cc57f57b3d4f7b81afebc162746cfcc864d558a8bda31c52372576ab7e"
 metafile = true
 
 [[files]]
