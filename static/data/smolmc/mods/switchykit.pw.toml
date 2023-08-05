@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qETWTIDe/versions/6fHTilqA/switchykit-1.2.0.jar"
-hash-format = "sha512"
-hash = "bd496706535ebec2654cd32c96672ee76b99e4a71e049c00a87e6f353231a799f35225abc06a75ad2381d101ca636823431c518356ab2c6fcd2d5e5070b3acef"
+hash-format = "sha1"
+hash = "5136db2a706c0d0369ba3b69a7abfaa91bc65b6c"
 
 [update]
 [update.modrinth]
