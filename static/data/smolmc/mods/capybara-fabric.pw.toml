@@ -1,0 +1,13 @@
+name = "[FABRIC] Capybara"
+filename = "capymod-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TVSdsuq1/versions/FOBewQdU/capymod-1.2.jar"
+hash-format = "sha1"
+hash = "019a1f8164755d80455c09a4279bfbef69738720"
+
+[update]
+[update.modrinth]
+mod-id = "TVSdsuq1"
+version = "FOBewQdU"
