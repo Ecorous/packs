@@ -5,6 +5,11 @@ file = "config/quilt-loader-overrides.json"
 hash = "28eea94832a1aea502180a3f829e3eae0ce8de3b00513874a185ce8062b964c3"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "7d3e3759802a8804a91078723cee2db7bd817f928af5270db0afc7e34009c6b3"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -12,6 +17,21 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+metafile = true
+
+[[files]]
+file = "mods/better-furnaces-reforged.pw.toml"
+hash = "3843f65418bb0ee6682bd25f5cb58b3cc362902d503f2eede1785e421f051103"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "c65fb7a6459404783860340cf31a4b20fa7b37f0f031a85372eb1bb509f27b3f"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
 metafile = true
 
 [[files]]
@@ -67,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+metafile = true
+
+[[files]]
+file = "mods/factory-api.pw.toml"
+hash = "ff9053820032e23248f699bc27c4be6737375f76e2e4e6318912c039ac65e83d"
 metafile = true
 
 [[files]]
@@ -150,6 +175,11 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "71ff2d5d0fd0ba6669591130d0b6e6582fc90c0dd07aa7fd49cb1b2769ddb7bd"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "ce489ec10a2a6d848d391452aa87d60bab75e9b657ae31ed5d4112269005a7d9"
 metafile = true
@@ -192,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/portal-gun.pw.toml"
 hash = "9fa891cc57f57b3d4f7b81afebc162746cfcc864d558a8bda31c52372576ab7e"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "f63f57d7be997a078288ed8d147c8991b69c9a2c527f24f438383db5234ead6b"
 metafile = true
 
 [[files]]

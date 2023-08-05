@@ -1,0 +1,13 @@
+name = "Better Furnaces Reforged"
+filename = "BetterFurnaces-1.20.1-1.0.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZXOYCX2A/versions/HGgePuRo/BetterFurnaces-1.20.1-1.0.1-fabric.jar"
+hash-format = "sha1"
+hash = "dc4873929a3b5ef8f13280480c5f61e47d77667d"
+
+[update]
+[update.modrinth]
+mod-id = "ZXOYCX2A"
+version = "HGgePuRo"
