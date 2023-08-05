@@ -1,13 +1,13 @@
 name = "Origins"
-filename = "Origins-1.19.4-1.9.0.jar"
+filename = "Origins-1.20.1-1.10.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/3rGbH9xO/Origins-1.19.4-1.9.0.jar"
+url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/OdNHB7Bh/Origins-1.20.1-1.10.0.jar"
 hash-format = "sha1"
-hash = "4cfdd5d77616b695ac92278d497d15cdead934d4"
+hash = "e85bbe9554283840ca1d05b09181be29f3a623c0"
 
 [update]
 [update.modrinth]
 mod-id = "3BeIrqZR"
-version = "3rGbH9xO"
+version = "OdNHB7Bh"

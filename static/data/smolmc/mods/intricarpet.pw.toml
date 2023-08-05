@@ -1,13 +1,13 @@
 name = "Intricarpet"
-filename = "intricarpet-mc1.19.4-v2.0.0.jar"
+filename = "intricarpet-mc1.19.3-v2.0.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/6e6IWRZq/versions/OD9kowjP/intricarpet-mc1.19.4-v2.0.0.jar"
+url = "https://cdn.modrinth.com/data/6e6IWRZq/versions/N7DNRGjJ/intricarpet-mc1.19.3-v2.0.0.jar"
 hash-format = "sha1"
-hash = "8e839f9cbcd15a25ae4302871c3916c4b58dbe01"
+hash = "ab5fdd6d200dd287ed6af99eba1fab50e3ef4d0d"
 
 [update]
 [update.modrinth]
 mod-id = "6e6IWRZq"
-version = "OD9kowjP"
+version = "N7DNRGjJ"

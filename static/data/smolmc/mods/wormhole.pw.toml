@@ -1,13 +1,13 @@
 name = "Wormhole (Portals)"
-filename = "wormhole-1.1.13a-fabric-mc1.19.4.jar"
+filename = "wormhole-1.1.13a-fabric-mc1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6nHZTTjQ/versions/fknrhTOu/wormhole-1.1.13a-fabric-mc1.19.4.jar"
+url = "https://cdn.modrinth.com/data/6nHZTTjQ/versions/kq4Zws7w/wormhole-1.1.13a-fabric-mc1.20.jar"
 hash-format = "sha1"
-hash = "d3d58bb0aa81bf5bfbeaf67b11ec892e93478e85"
+hash = "53f8db9d5fac528890865a5106f4cb3ab13cbe88"
 
 [update]
 [update.modrinth]
 mod-id = "6nHZTTjQ"
-version = "fknrhTOu"
+version = "kq4Zws7w"
