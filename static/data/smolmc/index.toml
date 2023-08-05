@@ -100,11 +100,6 @@ hash = "ce489ec10a2a6d848d391452aa87d60bab75e9b657ae31ed5d4112269005a7d9"
 metafile = true
 
 [[files]]
-file = "mods/openblocks-elevator-fabric.pw.toml"
-hash = "317fbff836679a1b10adefa4e9b841d7904dfd23cf132995eabcb2679786bd1d"
-metafile = true
-
-[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
 metafile = true
@@ -207,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/the-mighty-architectury.pw.toml"
 hash = "f3167bb94707d44321e0c850ec758272c7ae700e48c7d7588f2926dedd966064"
-metafile = true
-
-[[files]]
-file = "mods/useless-compressed-blocks.pw.toml"
-hash = "597bf9acd5b2beb714d51f2584e8564ddf5198e17951349d10e337c2c3c905f9"
 metafile = true
 
 [[files]]
