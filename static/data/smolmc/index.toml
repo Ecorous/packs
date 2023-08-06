@@ -313,8 +313,3 @@ metafile = true
 file = "mods/wormhole.pw.toml"
 hash = "c4c6a5fed91357f2572de5b8301852b7f0225b4b39ea156f76379a0130089184"
 metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "ec6da3883ac37b7ae50d1eaea4d18af2964843017cf79c058c1c05178ed746ad"
-metafile = true
