@@ -33,7 +33,7 @@
 	}
 	console.log(getModLoader(), getModLoaderVersion());
 
-	let mods = data.mods.sort();
+	let mods = data.mods.sort((a, b) => a.localeCompare(b));
 	let title_part2: String;
 	if (browser) {
 		title_part2 = window.location.host;
