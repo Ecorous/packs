@@ -50,10 +50,6 @@
 <details>
     <summary>Mods (click to expand)</summary>
     <div class="mods">
-        <details>
-            <summary>e</summary>
-            {data.mods}
-        </details>
         {#each mods as mod}
             <p>{mod}</p>
         {/each}
