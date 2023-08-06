@@ -34,12 +34,6 @@ def zipdir(path, ziph):
     for root, dirs, files in os.walk(path):
         for file in files:
             ziph.write(os.path.join(root, file))
-    icfg = open(f"{path}/instance.cfg", "r")
-    mmcpack = open(f"{path}/mmc-pack.json")
-    print("icfg:", icfg.read())
-    print("mmcpack:", mmcpack.read())
-    ziph.write(f"{path}/instance.cfg")
-    ziph.write(f"{path}/mmc-pack.json")
 if os.path.isdir(mmc_temp_dir):
     shutil.rmtree(mmc_temp_dir)
 os.mkdir(mmc_temp_dir)
