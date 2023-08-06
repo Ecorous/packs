@@ -28,6 +28,8 @@
         }
     }
     console.log(getModLoader(), getModLoaderVersion())
+
+    let mods = data.mods.sort()
 </script>
 
 <h1>
@@ -52,8 +54,7 @@
             <summary>e</summary>
             {data.mods}
         </details>
-        {#each data.mods as mod}
-            
+        {#each mods as mod}
             <p>{mod}</p>
         {/each}
     </div>
