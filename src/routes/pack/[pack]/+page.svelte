@@ -46,7 +46,7 @@
 <button class="download" on:click={() => window.open(mmc_pack_url, "_blank")}>
     Download MultiMC/PrismLauncher Pack
 </button>
-
+<br/>
 <details>
     <summary>Mods (click to expand)</summary>
     <div class="mods">
