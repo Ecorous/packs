@@ -6,6 +6,11 @@ hash = "7d3e3759802a8804a91078723cee2db7bd817f928af5270db0afc7e34009c6b3"
 metafile = true
 
 [[files]]
+file = "mods/affectionate.pw.toml"
+hash = "3d5e29b2ecbc3ebe4ed4e9b5c1d731e760556bab29a293be8972ef134d3a3b72"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
