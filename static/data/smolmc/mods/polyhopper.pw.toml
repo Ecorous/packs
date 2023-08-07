@@ -1,5 +1,6 @@
 name = "polyhopper"
 filename = "polyhopper-0.1.2.jar"
+side = "server"
 
 [download]
 url = "https://github.com/PolyHopper/PolyHopper/releases/download/0.1.2/polyhopper-0.1.2.jar"
