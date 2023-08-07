@@ -135,11 +135,6 @@ hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-transit-railway.pw.toml"
-hash = "c5689e1648103088ba9f040b41a6345742079860119a946b69c5d24a2530a3b6"
-metafile = true
-
-[[files]]
 file = "mods/moborigins.pw.toml"
 hash = "8686717834b2c99c73a0224befd70389e2a0183cbbc61850c901aa5aad19d96c"
 metafile = true
