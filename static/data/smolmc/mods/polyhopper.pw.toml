@@ -1,7 +1,7 @@
 name = "polyhopper"
-filename = "polyhopper-0.1.1.jar"
+filename = "polyhopper-0.1.2.jar"
 
 [download]
-url = "https://github.com/PolyHopper/PolyHopper/releases/download/0.1.1/polyhopper-0.1.1.jar"
+url = "https://github.com/PolyHopper/PolyHopper/releases/download/0.1.2/polyhopper-0.1.2.jar"
 hash-format = "sha256"
-hash = "733964abea29b89510aa010ef408b6b045210fce8a435f1f4535919235aa8eda"
+hash = "924c68f1779c2fd592e1ca016c1408a71c3183d0eb7a5bff64a62f1fc8fefd80"
