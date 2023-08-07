@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/quilt-loader-overrides.json"
-hash = "28eea94832a1aea502180a3f829e3eae0ce8de3b00513874a185ce8062b964c3"
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "7d3e3759802a8804a91078723cee2db7bd817f928af5270db0afc7e34009c6b3"
 metafile = true
@@ -182,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
+metafile = true
+
+[[files]]
+file = "mods/polyhopper.pw.toml"
+hash = "a758309593e48564d39373a07f1c959130ae788983bbab8e80808909da3b876a"
 metafile = true
 
 [[files]]

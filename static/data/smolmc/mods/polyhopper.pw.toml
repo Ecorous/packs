@@ -1,0 +1,8 @@
+name = "polyhopper"
+filename = "polyhopper-0.1.0.jar"
+side = "server"
+
+[download]
+url = "https://github.com/PolyHopper/PolyHopper/releases/download/0.1.0/polyhopper-0.1.0.jar"
+hash-format = "sha256"
+hash = "139800cbc752baf4ef3fc0e0e7f5c06d359c19a2bd74d9df0adc8e0a2ef9fd03"
