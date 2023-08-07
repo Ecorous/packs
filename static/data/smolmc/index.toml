@@ -150,11 +150,6 @@ hash = "71ff2d5d0fd0ba6669591130d0b6e6582fc90c0dd07aa7fd49cb1b2769ddb7bd"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.pw.toml"
-hash = "ce489ec10a2a6d848d391452aa87d60bab75e9b657ae31ed5d4112269005a7d9"
-metafile = true
-
-[[files]]
 file = "mods/origins-classes.pw.toml"
 hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
 metafile = true
