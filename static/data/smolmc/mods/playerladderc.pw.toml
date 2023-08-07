@@ -1,0 +1,13 @@
+name = "PlayerLadderC"
+filename = "playerladderc-fabric-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZBSt4CNB/versions/4oy0X3KS/playerladderc-fabric-0.4.0.jar"
+hash-format = "sha1"
+hash = "3d2d0ff4538887ccd4aa8e4d358038cdd2209580"
+
+[update]
+[update.modrinth]
+mod-id = "ZBSt4CNB"
+version = "4oy0X3KS"
