@@ -196,11 +196,6 @@ hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
 
 [[files]]
-file = "mods/playerladderc.pw.toml"
-hash = "25a0423ca0493a909f5e629837d0960d2740d6ea70b0516cfee37064404a189c"
-metafile = true
-
-[[files]]
 file = "mods/polyhopper.pw.toml"
 hash = "588d2faa79693546ec22a7271e05bcb6ff2cb0fbbca414733deea47054c75154"
 metafile = true
