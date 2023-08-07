@@ -245,6 +245,11 @@ hash = "785a9317dde69152877bd175024e7207508b56da6e003094e115f925fe1fbcda"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "0f65b64253d3d258b8087e4543fab8b5a4cbe2738c388e45bf666220180285a3"
+metafile = true
+
+[[files]]
 file = "mods/smolcoins.pw.toml"
 hash = "10812476bfa7d9a72230f0d7dc44de16df00058c214918acd0d2fabebaa99d5b"
 metafile = true
