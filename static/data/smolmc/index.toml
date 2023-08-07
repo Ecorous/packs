@@ -50,21 +50,6 @@ hash = "4a1243b738b202878337f1e8739e605c358ee8d55ba3cffea15fb55aef24a968"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
-metafile = true
-
-[[files]]
-file = "mods/carpet-tis-addition.pw.toml"
-hash = "0f67402e8edd973bcc4e5f514ddfc8d7a42acc7a38d72cec2da291f1035fcc38"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
-hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -122,11 +107,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
-metafile = true
-
-[[files]]
-file = "mods/intricarpet.pw.toml"
-hash = "c3d87c3d2b1dd5ef6758e7329bc3feb5090dba1a56134a9103de46a52c8a8a9b"
 metafile = true
 
 [[files]]
