@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/altorigingui.pw.toml"
-hash = "fa36bed67c8b5609df8d5b3d5db183ae9ddaa6a868ccf585c41467d6756e941f"
+hash = "0ec5f2843f92e0168960ab096cb9903dc86d5ba2643dae0a845e4164335322d4"
 metafile = true
 
 [[files]]
