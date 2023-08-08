@@ -296,6 +296,11 @@ hash = "be6df0675d9aa6ba25b569bd6986a0457ce08631b157e3ca718b2cbf89cd2da2"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "bd44703697ccd9264c990d027fe7c4f6c97045840eb4f34bc71144fc7d159e27"
+metafile = true
+
+[[files]]
 file = "mods/the-mighty-architectury.pw.toml"
 hash = "f3167bb94707d44321e0c850ec758272c7ae700e48c7d7588f2926dedd966064"
 metafile = true
