@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyhopper.pw.toml"
-hash = "588d2faa79693546ec22a7271e05bcb6ff2cb0fbbca414733deea47054c75154"
+hash = "5ba6fd534cecd372929a55e25e134a29df6fe376350ec9afa37fb6b741f71102"
 metafile = true
 
 [[files]]
