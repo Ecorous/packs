@@ -91,6 +91,11 @@ hash = "4948614479a784c815feb0eb7781512310e81ff9c197afdce8ca4191dcebe796"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "557361b486bf7c1f7f8e170218c09b38fd21d09236221e244fab11fe74303b80"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
