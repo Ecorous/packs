@@ -86,11 +86,6 @@ hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "4948614479a784c815feb0eb7781512310e81ff9c197afdce8ca4191dcebe796"
-metafile = true
-
-[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "557361b486bf7c1f7f8e170218c09b38fd21d09236221e244fab11fe74303b80"
 metafile = true
@@ -338,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "615c4d880d5d5d34be5b88ecff4b0bf00f1df24b71edf26a98ed0c772b946b34"
 metafile = true
 
 [[files]]
