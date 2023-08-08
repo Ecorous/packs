@@ -126,6 +126,11 @@ hash = "fc62c8ca609288aae3ab5368a40f29bf18f21df923158b8e5a008b45356a33a8"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "0afa1d2acbb35888bef596fa85de0cac881c881ee6cdd60940d711190f6a181a"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/mealapi.pw.toml"
+hash = "adb920b48728998e86f1994a1b6fe3d9a522e0a586d22f3fc24f6d25faef874b"
 metafile = true
 
 [[files]]
@@ -228,6 +238,16 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "325aa4698929a3cbc486e956d77411dd5912928cc34c35e7ea63e5590c759053"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
 metafile = true
 
 [[files]]
