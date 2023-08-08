@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/smolcoins.pw.toml"
-hash = "901bb58b704862f1b41f18ef36b70d1b06e665c0532b53a47479c2db8a785fbf"
+hash = "e5d3817349f539057427e360c6e121068a252b4cab4ff3eb22ae630094874018"
 metafile = true
 
 [[files]]

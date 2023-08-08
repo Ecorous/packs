@@ -1,7 +1,7 @@
 name = "smolcoins"
-filename = "smolcoins-0.1.2.jar"
+filename = "smolcoins-0.2.0.jar"
 
 [download]
-url = "https://github.com/Ecorous/smolcoins/releases/download/0.1.2/smolcoins-0.1.2.jar"
+url = "https://github.com/Ecorous/smolcoins/releases/download/0.2.0/smolcoins-0.2.0.jar"
 hash-format = "sha256"
-hash = "e36311e368c609f5c46e5b9121e36e2d824fca416e43bcc30e0fb0fdf9f5594e"
+hash = "c84f184f152e5965fd57e02cbc1e30ef450881361e966fe56d61015c9591663e"
