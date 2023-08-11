@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "14514ffbe1756644d050a2c257164628a9dade82fc482b3d9b9d7e6463f171f3"
+hash = "56192ced91551943340dfc8fc9a4ebc9eb870e3b52e119b2454cd2872ae91c7e"
 metafile = true
 
 [[files]]
@@ -338,4 +338,9 @@ metafile = true
 [[files]]
 file = "mods/wormhole.pw.toml"
 hash = "c4c6a5fed91357f2572de5b8301852b7f0225b4b39ea156f76379a0130089184"
+metafile = true
+
+[[files]]
+file = "mods/wwizardry.pw.toml"
+hash = "0fdbde33fbfb394cd697ab641c4ea1f6325a11bbcd865f515b860c9015a23d96"
 metafile = true
