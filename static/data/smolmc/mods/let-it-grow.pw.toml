@@ -1,0 +1,13 @@
+name = "Let It Grow"
+filename = "letitgrow-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7xYa4MVn/versions/yfWa7ebp/letitgrow-1.1.0.jar"
+hash-format = "sha1"
+hash = "fdefc2d00ae9471664dcfe861a5534df0459fcd8"
+
+[update]
+[update.modrinth]
+mod-id = "7xYa4MVn"
+version = "yfWa7ebp"
