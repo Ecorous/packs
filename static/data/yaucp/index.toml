@@ -341,6 +341,11 @@ hash = "ef537cb1d0d915de948eb10deb97ba00aff247f70b55a7efd74e53bdc7fab21c"
 metafile = true
 
 [[files]]
+file = "mods/llibrary.pw.toml"
+hash = "780f849666ae2b08a782a5d9571a3fe17d0ede5b65ffb3d2622419e8dd6b35ab"
+metafile = true
+
+[[files]]
 file = "mods/login-shield.pw.toml"
 hash = "99950677447b3316eaea7779e8aaada49f0b6edfe7ab71f95036f69cd9ee245b"
 metafile = true
