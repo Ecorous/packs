@@ -351,6 +351,11 @@ hash = "99950677447b3316eaea7779e8aaada49f0b6edfe7ab71f95036f69cd9ee245b"
 metafile = true
 
 [[files]]
+file = "mods/lootbags.pw.toml"
+hash = "13e4399764d572c621859050ccc4fbea88df7865abc981abef17072cb5c82041"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "b331cd5abf26c16e9a3f2504534e2bb6f8527506fc5b8e9cfad96c7c779c74c6"
 metafile = true
