@@ -1,0 +1,13 @@
+name = "Blood Magic"
+filename = "BloodMagic-1.12.2-2.4.3-105.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PbNc6qBY/versions/GtMIuGOR/BloodMagic-1.12.2-2.4.3-105.jar"
+hash-format = "sha1"
+hash = "541b63338663dbeb5fc818608a70ad3fff129177"
+
+[update]
+[update.modrinth]
+mod-id = "PbNc6qBY"
+version = "GtMIuGOR"

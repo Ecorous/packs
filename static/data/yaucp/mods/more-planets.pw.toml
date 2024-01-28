@@ -1,0 +1,13 @@
+name = "More Planets"
+filename = "more_planets-mc1.12.2-v4.0.5-gc4.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fogahytq/versions/2JgLZvRU/more_planets-mc1.12.2-v4.0.5-gc4.0.5.jar"
+hash-format = "sha1"
+hash = "6b42305d8e7ba68b9156e775cb442b75a9da2537"
+
+[update]
+[update.modrinth]
+mod-id = "fogahytq"
+version = "2JgLZvRU"

@@ -1,0 +1,13 @@
+name = "Chickens"
+filename = "chickens-6.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a5a336c4a7c32fcb89a79c39b27d392e74cff92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2545467
+project-id = 241941

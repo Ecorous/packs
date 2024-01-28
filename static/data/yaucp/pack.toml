@@ -1,0 +1,13 @@
+name = "YAUCP"
+author = "Ecorous"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b79b9263b0737059f09d5024c8a0f8aa64c6ecc7028d7c33f52b4539dccedb73"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

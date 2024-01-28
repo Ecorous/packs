@@ -1,0 +1,13 @@
+name = "Login Shield"
+filename = "Login_Shield-1.12.2-6-g5654706.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f5c4f94b01749648f9916093c3b46ce48148a26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3022076
+project-id = 233255

@@ -1,0 +1,13 @@
+name = "ElevatorMod"
+filename = "ElevatorMod-1.12.2-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/sqiXnhC5/ElevatorMod-1.12.2-1.4.2.jar"
+hash-format = "sha1"
+hash = "2aef30c410cecc38be91c822d1b37ca74bcce57e"
+
+[update]
+[update.modrinth]
+mod-id = "hi2dSXTu"
+version = "sqiXnhC5"

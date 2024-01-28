@@ -1,0 +1,13 @@
+name = "Patchouli"
+filename = "Patchouli-1.0-23.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/1.0-23.6/Patchouli-1.0-23.6.jar"
+hash-format = "sha1"
+hash = "0febe14bdd007b13f6089a16a57d90e44646f041"
+
+[update]
+[update.modrinth]
+mod-id = "nU0bVIaL"
+version = "rgxH3b9S"

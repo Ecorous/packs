@@ -1,0 +1,13 @@
+name = "XNet"
+filename = "xnet-1.12-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iu1jkWqa/versions/bcioOzsw/xnet-1.12-1.8.2.jar"
+hash-format = "sha1"
+hash = "085f5aef1d407f815028e5ecc87265cc5d8142e6"
+
+[update]
+[update.modrinth]
+mod-id = "iu1jkWqa"
+version = "bcioOzsw"

@@ -1,0 +1,13 @@
+name = "Tinkers' Construct"
+filename = "TConstruct-1.12.2-2.13.0.183.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rxIIYO6c/versions/mNZUIBbe/TConstruct-1.12.2-2.13.0.183.jar"
+hash-format = "sha1"
+hash = "e37e1f05ad0eaf567497ce655bc877dc1778bd0f"
+
+[update]
+[update.modrinth]
+mod-id = "rxIIYO6c"
+version = "mNZUIBbe"

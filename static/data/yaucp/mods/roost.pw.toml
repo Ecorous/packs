@@ -1,0 +1,13 @@
+name = "Roost"
+filename = "roost-1.12.2-2.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b297968dea20a9353105123a877c5203ef6d739"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2702080
+project-id = 277711

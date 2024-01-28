@@ -1,0 +1,13 @@
+name = "Chance Cubes"
+filename = "ChanceCubes-1.12.2-5.0.2.385.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ur82ldLX/versions/2sBrNcVV/ChanceCubes-1.12.2-5.0.2.385.jar"
+hash-format = "sha1"
+hash = "5a6355db124c8f8d82a2a26a5545b4cc41543a0b"
+
+[update]
+[update.modrinth]
+mod-id = "ur82ldLX"
+version = "2sBrNcVV"

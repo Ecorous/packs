@@ -1,0 +1,13 @@
+name = "MixinBooter"
+filename = "!mixinbooter-8.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G1ckZuWK/versions/j0MLRW9m/%21mixinbooter-8.9.jar"
+hash-format = "sha1"
+hash = "dfa664921d299a4e06a3cd65222a30fce2675e49"
+
+[update]
+[update.modrinth]
+mod-id = "G1ckZuWK"
+version = "j0MLRW9m"

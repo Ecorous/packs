@@ -1,0 +1,13 @@
+name = "Titles"
+filename = "Titles-1.12.2-3.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08b065639bfa87ac2ac2cd6e539b35ad992b9bb3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3200728
+project-id = 304675

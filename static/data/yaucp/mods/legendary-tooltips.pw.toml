@@ -1,0 +1,13 @@
+name = "Legendary Tooltips"
+filename = "LegendaryTooltips-1.12.2-1.1.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/atHH8NyV/versions/WN77B9Es/LegendaryTooltips-1.12.2-1.1.9.jar"
+hash-format = "sha1"
+hash = "1cc72b39e0975979548d78c69c8efc188c512c18"
+
+[update]
+[update.modrinth]
+mod-id = "atHH8NyV"
+version = "WN77B9Es"

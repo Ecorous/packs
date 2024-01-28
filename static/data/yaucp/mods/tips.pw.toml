@@ -1,0 +1,13 @@
+name = "Tips"
+filename = "Tips-1.12.2-1.0.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AMCbgyVw/versions/pPMwq1zD/Tips-1.12.2-1.0.9.jar"
+hash-format = "sha1"
+hash = "9790e6083bbeab78e045c027c964495133507efa"
+
+[update]
+[update.modrinth]
+mod-id = "AMCbgyVw"
+version = "pPMwq1zD"

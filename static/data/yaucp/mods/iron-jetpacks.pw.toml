@@ -1,0 +1,13 @@
+name = "Iron Jetpacks"
+filename = "IronJetpacks-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DWIEOniQ/versions/jynCCqg7/IronJetpacks-1.12.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "0cd6350d3b42166ce941f78d8a8a58f687a1c1cd"
+
+[update]
+[update.modrinth]
+mod-id = "DWIEOniQ"
+version = "jynCCqg7"

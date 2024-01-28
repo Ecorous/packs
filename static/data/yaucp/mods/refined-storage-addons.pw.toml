@@ -1,0 +1,13 @@
+name = "Refined Storage Addons"
+filename = "refinedstorageaddons-0.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z4Z5ccuT/versions/axJp9gRi/refinedstorageaddons-0.4.5.jar"
+hash-format = "sha1"
+hash = "61cd5c8a76ab157cb4f4633e9de9ddfa68366948"
+
+[update]
+[update.modrinth]
+mod-id = "Z4Z5ccuT"
+version = "axJp9gRi"

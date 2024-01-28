@@ -1,0 +1,13 @@
+name = "McJtyLib"
+filename = "mcjtylib-1.12-3.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Zu0uTEE/versions/KOV8fkZb/mcjtylib-1.12-3.5.4.jar"
+hash-format = "sha1"
+hash = "8f3e381c4aea651f55ed1cd35fd69613fcd7f9da"
+
+[update]
+[update.modrinth]
+mod-id = "1Zu0uTEE"
+version = "KOV8fkZb"

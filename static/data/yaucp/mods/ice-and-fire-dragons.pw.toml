@@ -1,0 +1,13 @@
+name = "Ice and Fire"
+filename = "iceandfire-1.9.1-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LVnvHVBp/versions/737XMmok/iceandfire-1.9.1-1.12.2.jar"
+hash-format = "sha1"
+hash = "4bf427fe3dcf8b7c30ce64ca1b61550037ff60ec"
+
+[update]
+[update.modrinth]
+mod-id = "LVnvHVBp"
+version = "737XMmok"

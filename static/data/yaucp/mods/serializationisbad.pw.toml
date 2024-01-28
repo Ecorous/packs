@@ -1,0 +1,13 @@
+name = "SerializationIsBad"
+filename = "serializationisbad-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TTZtsNrf/versions/VP2av9A3/serializationisbad-1.5.jar"
+hash-format = "sha1"
+hash = "38a2714ddaf8b2a844ba4007a665371039db2bac"
+
+[update]
+[update.modrinth]
+mod-id = "TTZtsNrf"
+version = "VP2av9A3"
