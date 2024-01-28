@@ -421,11 +421,6 @@ hash = "a6468296d7e2e8853508616c5c4cac43512c641ab928a2bb4b790f2abd0fe93f"
 metafile = true
 
 [[files]]
-file = "mods/normalasm.pw.toml"
-hash = "6ad28bfca96f3340a0b6eb588235711cb77d72a12f8ca1e076c50bb6a2968371"
-metafile = true
-
-[[files]]
 file = "mods/notenoughids.pw.toml"
 hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
 metafile = true
@@ -473,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/red-core.pw.toml"
 hash = "9c87a8cd7428ef3335099db83ddb288a581f7e1ab8ce57f7078230a1104945cf"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.pw.toml"
+hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
 metafile = true
 
 [[files]]
@@ -528,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/spark-unforged.pw.toml"
 hash = "c6f0cdeb3f2d0fe29042b7fec519be332cb0ac71cc6ef70e4c153f3797f3f7b9"
+metafile = true
+
+[[files]]
+file = "mods/stevekungs-lib.pw.toml"
+hash = "9ac9157e7544ffdc6af3cdc93ca71d9ae2a8c00148736a5a40daf719cb3d84f2"
 metafile = true
 
 [[files]]
@@ -613,11 +618,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "ff02f5a17f2da6689c52d21cccddc577e4329a35bd1f17bb2b8cb7989fc1165a"
-metafile = true
-
-[[files]]
-file = "mods/vintagefix.pw.toml"
-hash = "779eb237cb1046a0de9a4c01eca5fb82114c628903a74ef15894870bb9c794f9"
 metafile = true
 
 [[files]]
