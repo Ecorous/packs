@@ -416,6 +416,11 @@ hash = "ffa132921b9f9c8f16a4c5325e8efc43e745e3775ffc04e6f2e785ccfe53d83c"
 metafile = true
 
 [[files]]
+file = "mods/morpheus.pw.toml"
+hash = "3800d2d04ee10b3455a7f8527672086440269ba7a5993f31f1b85edf886f787f"
+metafile = true
+
+[[files]]
 file = "mods/moving-elevators.pw.toml"
 hash = "723de96ee5b43a47b200de4a7f9f5a8aff46348e4ee7aeb07ccb5b7fb8dce450"
 metafile = true
@@ -646,8 +651,18 @@ hash = "ff02f5a17f2da6689c52d21cccddc577e4329a35bd1f17bb2b8cb7989fc1165a"
 metafile = true
 
 [[files]]
+file = "mods/twerk-sim-2k16.pw.toml"
+hash = "dac99cd74f96f375b9cef9b5ca84eabfa467f0b4c088a46f8e668fe311d891c1"
+metafile = true
+
+[[files]]
 file = "mods/wawla.pw.toml"
 hash = "25ad3bdca669132498794ee2e33c0d4d2cd753f36dd58409873d550338bfa903"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
 
 [[files]]
