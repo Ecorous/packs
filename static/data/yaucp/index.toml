@@ -271,6 +271,11 @@ hash = "0298f84555f81d568454da7a0353504c9428ead50265f8ca73f17b4d16f333f5"
 metafile = true
 
 [[files]]
+file = "mods/inventory-pets.pw.toml"
+hash = "170be9e382304e721d86ac7a420aeb7d0ea64512ada6150bac3ee532e79af1aa"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks.pw.toml"
 hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
 metafile = true
@@ -603,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-jei.pw.toml"
 hash = "583e16d43279e1392b17be30bc4e72294e908e9f96c9b0d59b3ecbd510f505ec"
+metafile = true
+
+[[files]]
+file = "mods/tiny-progressions.pw.toml"
+hash = "f5b41a0e152341ea33f0aa6e036b7c2d1663fa9603ff170941affad97db61511"
 metafile = true
 
 [[files]]
