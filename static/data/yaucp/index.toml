@@ -616,6 +616,11 @@ hash = "7dab730a6c6da25659b955b62d251fcecda6cd10c22872abfe5d88ec005411b4"
 metafile = true
 
 [[files]]
+file = "mods/tomb-many-graves-2.pw.toml"
+hash = "4aadc797a9cef1e2d93d7c7ffa1d015379f93bd3e68f8aa66991cc45a089d207"
+metafile = true
+
+[[files]]
 file = "mods/translocators-1-8.pw.toml"
 hash = "e20c672b807a489407d4a11c6a0767f554d6ae5c97afb265388311611219bdbd"
 metafile = true
