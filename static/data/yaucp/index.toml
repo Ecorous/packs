@@ -51,6 +51,11 @@ hash = "3508bee8f8e7bf63e5d9c4cd541a1951418ebceacaae42b2659d2d32390ab766"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "63610dec3fcf39e94cb68bee601ecc06098b64e9c41f497c95e6a6c31aee2991"
+metafile = true
+
+[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "becb1b9245ac00ec80124a837735fbeb5a3e41efb4901aa863f2a585ad179e57"
 metafile = true
@@ -426,6 +431,21 @@ hash = "723de96ee5b43a47b200de4a7f9f5a8aff46348e4ee7aeb07ccb5b7fb8dce450"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "b4815a6bd24ab674c6acdeb36d4e6e368edd22755451cab27faa3f9a81344ab9"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-gun-mod.pw.toml"
+hash = "6d36d42c202c6ad223bcf09f626eca0bbfed8fba21a8ead594bdb50e5023d209"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-vehicle-mod.pw.toml"
+hash = "ffeda295c954232dac21fd0e04562e97cdbc9f59f8d125a0062de7138c78511c"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agradditions.pw.toml"
 hash = "d9a9dc92e584140a7d151432d7caacaec0e771fd1213cb74426e1deddd95d032"
 metafile = true
@@ -443,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughids.pw.toml"
 hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.pw.toml"
+hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
 metafile = true
 
 [[files]]
