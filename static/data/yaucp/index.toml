@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "33c1876e295d9043c0c9dcf144203a10ec8d41554c5f9da5c19bd4994bd60f52"
+hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
 
 [[files]]
@@ -536,8 +536,28 @@ hash = "1b4a0a19615a8b8ed0d78ddfd05fa3ee59f7050a8a4490de0e800115c0b66885"
 metafile = true
 
 [[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "8c586fcd3065d5353d8b0e36a0eed8c739efdf2cb2a719f978e8bd48f6b50c8d"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimension-tweaker.pw.toml"
+hash = "4344f0acaa87b4bb6f1f9e88a4bf3226f2980bd44a27d26268b1ccd00df2293b"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "f89cd58ca1fbbc85ecf3648bec2af4a3bc395b9e312c3c158ae5e1411da71d9b"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "ad41047f4fad8051631817a283bfa956cc1c96ca2ae9d03dda28724005779756"
+metafile = true
+
+[[files]]
 file = "mods/rftools.pw.toml"
-hash = "ee00147e77931f8688308c192196092f9a2715b7111ba890cbf0c6b0f27bfea9"
+hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
 metafile = true
 
 [[files]]
