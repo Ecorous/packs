@@ -1,0 +1,13 @@
+name = "MalisisSwitches"
+filename = "malisisswitches-1.12.2-5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2813ac945aa715038a0d46268bd1c5611557f880"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2526682
+project-id = 240828

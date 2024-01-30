@@ -371,6 +371,26 @@ hash = "b331cd5abf26c16e9a3f2504534e2bb6f8527506fc5b8e9cfad96c7c779c74c6"
 metafile = true
 
 [[files]]
+file = "mods/malisisblocks.pw.toml"
+hash = "42419f6532190ceaad8f17e15c95c81ccabce40c6c7015d8ac2679d1468c58cd"
+metafile = true
+
+[[files]]
+file = "mods/malisiscore.pw.toml"
+hash = "30c772d502232b689f11c6cb4740238a4db1e656a21291c307a08f346ca1bd6c"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "186416dfcddfb41fe0ecd15bfafc67aec937c36e5dbac496386c9a480d2eb294"
+metafile = true
+
+[[files]]
+file = "mods/malisisswitches.pw.toml"
+hash = "903ddd6b06d657984e62e12940b578af812c191601d1b930128cc4ccaa76762f"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "8250824432e551833c8ebb5862b6043489a9142e4b22635bc6e2384dad3c5130"
 metafile = true

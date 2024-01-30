@@ -1,0 +1,13 @@
+name = "MalisisBlocks"
+filename = "malisisblocks-1.12.2-6.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a3b4f9efd30c72d0cfe440f3ce669d163ed20bb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2526679
+project-id = 237862
