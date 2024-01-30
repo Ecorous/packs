@@ -1,0 +1,13 @@
+name = "RFTools Dimension Tweaker"
+filename = "RFTDimTweak-1.12.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fa6c113cb95653d96dea4261f2d2f024f24c1d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3850537
+project-id = 394079

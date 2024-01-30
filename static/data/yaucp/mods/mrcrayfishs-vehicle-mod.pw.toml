@@ -1,0 +1,13 @@
+name = "MrCrayfish's Vehicle Mod"
+filename = "vehicle-mod-0.44.1-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67d58525bf858bbce303343c22bec62af38d4a84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2967287
+project-id = 286660

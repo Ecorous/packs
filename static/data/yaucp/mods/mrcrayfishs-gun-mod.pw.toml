@@ -1,0 +1,13 @@
+name = "MrCrayfish's Gun Mod"
+filename = "guns-0.15.3-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b52ae06c251073ef046e9528ccb1ccfb3168e68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2854400
+project-id = 289479
