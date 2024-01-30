@@ -31,6 +31,11 @@ hash = "2b21defe55c00e45d68f58812614a342d8a890677ea201d7daa5ecc6b6deb72d"
 metafile = true
 
 [[files]]
+file = "mods/avaritia-1-10.pw.toml"
+hash = "6f23d45fe071155dd4f3014e7b9f4af7b1336bfbe1c34f8aa23343cc80be3cf2"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -171,6 +176,11 @@ hash = "a1026af48a53ef8abe2446a994d6f13db4e8cc73097dd508781ac2d99771ed19"
 metafile = true
 
 [[files]]
+file = "mods/dank-null.pw.toml"
+hash = "f8a9056b5e917ea46161f4e863eff542f92a33563caf7d72e74826a66be66868"
+metafile = true
+
+[[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "74edea62a5734b16264b2be443828a78fcc736f706c77b69c4056e1ac86d7af0"
 metafile = true
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/ding.pw.toml"
 hash = "c292e0b7025aef514405d08d52ba07dbe0754698b5475893fc44011cfc12ea05"
+metafile = true
+
+[[files]]
+file = "mods/dragon-mounts-legacy-continued.pw.toml"
+hash = "4ad26ead1df6b6fcc354cdfd0483651a1c241646ec550b3dd444440738f701ce"
 metafile = true
 
 [[files]]
@@ -203,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/enderio.pw.toml"
 hash = "dd373934589a5dce66108c99d75e09444fe84fc470efa8f97587d1115131c8a1"
+metafile = true
+
+[[files]]
+file = "mods/environmental-tech.pw.toml"
+hash = "a057c8c510a82aa8fc9471e708e931d847c40f99ace906a838a54af4733f1c5f"
 metafile = true
 
 [[files]]
@@ -266,8 +286,8 @@ hash = "4188eaa213563473d8709077da903f96da6973841c97ad97cf8625da6f54bfbf"
 metafile = true
 
 [[files]]
-file = "mods/ice-and-fire-dragons.pw.toml"
-hash = "1746dfc6c36381ddb18644e3a16fdbdf24d9271f238113341045147c855a606e"
+file = "mods/industrial-foregoing.pw.toml"
+hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
 metafile = true
 
 [[files]]
@@ -486,8 +506,18 @@ hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
 metafile = true
 
 [[files]]
+file = "mods/nuclearcraft.pw.toml"
+hash = "73f07e505c2ed5a99508422cc507f4f92479c4f12b953127e2c5a9ad322e74d1"
+metafile = true
+
+[[files]]
 file = "mods/obfuscate.pw.toml"
 hash = "056799cc0aa43fa412f48cc524a7f83336bfb0e2f1c0e5084a4b6ca6b1fe0454"
+metafile = true
+
+[[files]]
+file = "mods/p455w0rds-library.pw.toml"
+hash = "f7e6f638078c6717ea9e2e76bac01d7680fb48634bf04bf7f1e9d430cd27e626"
 metafile = true
 
 [[files]]
@@ -516,8 +546,18 @@ hash = "53c4fb76a0dbe1076805319899657db17eed3210ec0ca340a7aefe54b64f0146"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "d4f62de4381221575e13c1826de2a3b8752daf5282e8fe24f1b6e651aa7e24a0"
+metafile = true
+
+[[files]]
 file = "mods/random-things.pw.toml"
 hash = "568fdad52f685a4b155371508db94667f9a198168cfd602d806409313d0276cb"
+metafile = true
+
+[[files]]
+file = "mods/ranged-pumps.pw.toml"
+hash = "d7d8f36ae80bbfe28c6fc8a65d567812c2d8ef388b88eeac10e5bc5c80826784"
 metafile = true
 
 [[files]]
@@ -606,6 +646,11 @@ hash = "52f15ab08d2c34a1580506865063a3da66f012b4b95b88573efd41240cb68be4"
 metafile = true
 
 [[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
 file = "mods/snad.pw.toml"
 hash = "e8f83a1b718ec25b337dc0fa7fe39e4ff4b562777bad9a062830f8ee6d8ef3db"
 metafile = true
@@ -648,6 +693,16 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "f63f49ae6ef722cca4ce27fec8fdfe3c76bb1529645a38af411ba3fae049b574"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.pw.toml"
+hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "cf51122f1ba28196ca99af541a32be0e7954df5fc0640323d27c5a7fc3a44268"
 metafile = true
 
 [[files]]
@@ -721,8 +776,18 @@ hash = "ff02f5a17f2da6689c52d21cccddc577e4329a35bd1f17bb2b8cb7989fc1165a"
 metafile = true
 
 [[files]]
+file = "mods/tropicraft.pw.toml"
+hash = "00efba18ad9fbb2e43c85690932402e3d2a342fd8d3f15df505cdf2b476dd7de"
+metafile = true
+
+[[files]]
 file = "mods/twerk-sim-2k16.pw.toml"
 hash = "dac99cd74f96f375b9cef9b5ca84eabfa467f0b4c088a46f8e668fe311d891c1"
+metafile = true
+
+[[files]]
+file = "mods/valkyrielib.pw.toml"
+hash = "bbaf264bc4c3ee6462ca143251b6e0e08dd5c6fd7556256da31c3641a5ae14cb"
 metafile = true
 
 [[files]]

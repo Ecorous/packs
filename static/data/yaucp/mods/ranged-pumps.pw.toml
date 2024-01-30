@@ -1,0 +1,13 @@
+name = "Ranged Pumps"
+filename = "rangedpumps-0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ceOkTRlU/versions/OM1ewzNX/rangedpumps-0.5.jar"
+hash-format = "sha1"
+hash = "839d16b7fffaf5d3de561ca4356f08fb916b403a"
+
+[update]
+[update.modrinth]
+mod-id = "ceOkTRlU"
+version = "OM1ewzNX"

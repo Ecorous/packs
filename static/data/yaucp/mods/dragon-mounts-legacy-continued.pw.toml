@@ -1,0 +1,13 @@
+name = "Dragon Mounts Legacy Continued"
+filename = "DragonMounts-r49-sunfork.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D2l6Eoka/versions/EMoyIDPa/DragonMounts-r49-sunfork.jar"
+hash-format = "sha1"
+hash = "84e4fd3a2619045f36e50c1e8a94147f8c98475a"
+
+[update]
+[update.modrinth]
+mod-id = "D2l6Eoka"
+version = "EMoyIDPa"
