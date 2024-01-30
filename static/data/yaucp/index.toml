@@ -226,11 +226,6 @@ hash = "a057c8c510a82aa8fc9471e708e931d847c40f99ace906a838a54af4733f1c5f"
 metafile = true
 
 [[files]]
-file = "mods/evergreenhud.pw.toml"
-hash = "b8da8cd55ac01c0389ad9fa2af9122f409e07efde12ce032c7542820d6f4c29f"
-metafile = true
-
-[[files]]
 file = "mods/extra-utilities.pw.toml"
 hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
