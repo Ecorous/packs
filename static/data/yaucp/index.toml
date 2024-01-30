@@ -106,11 +106,6 @@ hash = "f51cb52aefc0ac0ad5cdda11d38a973d0c9b01c3675e6f37dd5e44f3b0b25c25"
 metafile = true
 
 [[files]]
-file = "mods/chickens.pw.toml"
-hash = "1fac80eb79f56430822266aebff796c415247a8ff2d499d5860494286bfec9aa"
-metafile = true
-
-[[files]]
 file = "mods/chisel.pw.toml"
 hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
@@ -201,11 +196,6 @@ hash = "9440613786d7320d4f2c00696a6701aa4c518bc4564c9da879f1357861ec65b2"
 metafile = true
 
 [[files]]
-file = "mods/emojiful.pw.toml"
-hash = "8e3380995b7ebe2116284cca32bd49c9110e5804a209b5144b2673aa72c78542"
-metafile = true
-
-[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "bf089669a08776c6c3019cc2ed786ee1583fcb297784427b21cff7f9564d3c92"
 metafile = true
@@ -271,11 +261,6 @@ hash = "6d95ba4c2c6cb8177ecba222853ca9c4cf794753b7c0b1083e7c9298fc470317"
 metafile = true
 
 [[files]]
-file = "mods/hatchery.pw.toml"
-hash = "0bfa5c2ecd22e725cd8180a13c52fea1cda256aa4c8d8d7d924f3e1974efaef1"
-metafile = true
-
-[[files]]
 file = "mods/hwyla.pw.toml"
 hash = "4188eaa213563473d8709077da903f96da6973841c97ad97cf8625da6f54bfbf"
 metafile = true
@@ -323,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/itemphysic-lite.pw.toml"
 hash = "0059c1dc7a9dfcf047dbea7f645e0736f2404fa5c59db7e65d7163420bd059c2"
-metafile = true
-
-[[files]]
-file = "mods/jdawg3636s-bleach-mod.pw.toml"
-hash = "e658175c523f39b53264ac2127ec5749b55948890b5c9fba8ad367479f510901"
 metafile = true
 
 [[files]]
@@ -471,11 +451,6 @@ hash = "b4815a6bd24ab674c6acdeb36d4e6e368edd22755451cab27faa3f9a81344ab9"
 metafile = true
 
 [[files]]
-file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "6d36d42c202c6ad223bcf09f626eca0bbfed8fba21a8ead594bdb50e5023d209"
-metafile = true
-
-[[files]]
 file = "mods/mrcrayfishs-vehicle-mod.pw.toml"
 hash = "ffeda295c954232dac21fd0e04562e97cdbc9f59f8d125a0062de7138c78511c"
 metafile = true
@@ -498,11 +473,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughids.pw.toml"
 hash = "2b0fdda6a16cf58c3b1ec4e77bc7b6acb9c605d2ff6a9d502aa6df81069df92a"
-metafile = true
-
-[[files]]
-file = "mods/nuclearcraft.pw.toml"
-hash = "73f07e505c2ed5a99508422cc507f4f92479c4f12b953127e2c5a9ad322e74d1"
 metafile = true
 
 [[files]]
@@ -538,11 +508,6 @@ metafile = true
 [[files]]
 file = "mods/portality.pw.toml"
 hash = "53c4fb76a0dbe1076805319899657db17eed3210ec0ca340a7aefe54b64f0146"
-metafile = true
-
-[[files]]
-file = "mods/quark.pw.toml"
-hash = "d4f62de4381221575e13c1826de2a3b8752daf5282e8fe24f1b6e651aa7e24a0"
 metafile = true
 
 [[files]]
@@ -601,11 +566,6 @@ hash = "8c586fcd3065d5353d8b0e36a0eed8c739efdf2cb2a719f978e8bd48f6b50c8d"
 metafile = true
 
 [[files]]
-file = "mods/rftools-dimension-tweaker.pw.toml"
-hash = "4344f0acaa87b4bb6f1f9e88a4bf3226f2980bd44a27d26268b1ccd00df2293b"
-metafile = true
-
-[[files]]
 file = "mods/rftools-dimensions.pw.toml"
 hash = "f89cd58ca1fbbc85ecf3648bec2af4a3bc395b9e312c3c158ae5e1411da71d9b"
 metafile = true
@@ -618,16 +578,6 @@ metafile = true
 [[files]]
 file = "mods/rftools.pw.toml"
 hash = "57b7614b66288b49d00c60b29f3997676353229262a60bbb3a0ae5f60ab34f2b"
-metafile = true
-
-[[files]]
-file = "mods/roost.pw.toml"
-hash = "705459b0f775f7e840b5910576ff959c3b3991b5a20de8913160ee1bc021c9ec"
-metafile = true
-
-[[files]]
-file = "mods/rustic.pw.toml"
-hash = "183173e77c1218a84e37a06ce2eccc3cda67771e067bfa07ba9e434b728f4207"
 metafile = true
 
 [[files]]
@@ -716,11 +666,6 @@ hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
 metafile = true
 
 [[files]]
-file = "mods/thermal-innovation.pw.toml"
-hash = "c2f83774a9967453865917241dc982e1aabba10f5aeba4389244e2d77fc2d04d"
-metafile = true
-
-[[files]]
 file = "mods/thermal-tinkering.pw.toml"
 hash = "f8d2fd09cc595766a37f00b47c6d9ca065aaec86b6d0b043aec61b207a487fe0"
 metafile = true
@@ -771,11 +716,6 @@ hash = "ff02f5a17f2da6689c52d21cccddc577e4329a35bd1f17bb2b8cb7989fc1165a"
 metafile = true
 
 [[files]]
-file = "mods/tropicraft.pw.toml"
-hash = "00efba18ad9fbb2e43c85690932402e3d2a342fd8d3f15df505cdf2b476dd7de"
-metafile = true
-
-[[files]]
 file = "mods/twerk-sim-2k16.pw.toml"
 hash = "dac99cd74f96f375b9cef9b5ca84eabfa467f0b4c088a46f8e668fe311d891c1"
 metafile = true
@@ -793,11 +733,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
-metafile = true
-
-[[files]]
-file = "mods/wormhole.pw.toml"
-hash = "d2329a0e63e7ba04a86ac8bedf940593e95184250db110c4c17258545312af55"
 metafile = true
 
 [[files]]
