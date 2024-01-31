@@ -506,6 +506,11 @@ hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
 
 [[files]]
+file = "mods/plusticminusbad.pw.toml"
+hash = "846c977b2d255defc39a07c12ca33b48b884bb2b96f5846ad0339c6178763376"
+metafile = true
+
+[[files]]
 file = "mods/portality.pw.toml"
 hash = "53c4fb76a0dbe1076805319899657db17eed3210ec0ca340a7aefe54b64f0146"
 metafile = true
