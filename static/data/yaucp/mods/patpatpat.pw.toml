@@ -1,6 +1,6 @@
 name = "PatPatPat"
 filename = "PatPatPat-Forge-1.12.2-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BErx9tPq/versions/mQEBfTaE/PatPatPat-Forge-1.12.2-1.0.0.jar"
