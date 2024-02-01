@@ -1,6 +1,6 @@
 name = "Pams HarvestCraft"
 filename = "Pam's+HarvestCraft+1.12.2zg.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FK1iFY2x/versions/b6ju2GsH/Pam%27s%2BHarvestCraft%2B1.12.2zg.jar"
