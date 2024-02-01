@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/pams-harvestcraft.pw.toml"
-hash = "9b0e131952f7a05106aff4f6f22b4da154e14415d780ceb9d3cb437c2bfaafc9"
+hash = "b2096a278437a56576f8f019199700729041d6c5b16b7c2151be252053353d4d"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/patpatpat.pw.toml"
-hash = "6ef56d910096de50bb33102e296a6f1af645a0da5ce3a19aeb034f2f96d691f3"
+hash = "338d79a615e854ede405fb427302f5a8ef4d2625b9f2c7bb2e35970877935bce"
 metafile = true
 
 [[files]]
