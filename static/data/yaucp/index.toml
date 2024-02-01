@@ -116,6 +116,11 @@ hash = "6eaae670a89bbce111d3eb0a1508faf58a1ee9a767e29251cc3517a51f2c32d4"
 metafile = true
 
 [[files]]
+file = "mods/clipboard.pw.toml"
+hash = "caeb9f8341f298f576c0b443dde51302ed347aedcc1aa60d2509667d68bbcc11"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
 metafile = true
@@ -598,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/shadowfacts-forgelin.pw.toml"
 hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "mods/shadowmc.pw.toml"
+hash = "19a2d18171e56ec3710c33375150817aaac62701c3369311517a42e4b03726a3"
 metafile = true
 
 [[files]]
