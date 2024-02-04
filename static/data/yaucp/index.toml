@@ -766,6 +766,11 @@ hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
 metafile = true
 
 [[files]]
+file = "mods/yarcf.pw.toml"
+hash = "729d0fb37a03b6244aad48f06c0048c7f4bc569592bc0bde256908e06a52a737"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "9f8b0bb3d434af1967d0f78b11e73465c1de5f4d386c2e6d5dc5e9da2ea09049"
 metafile = true
