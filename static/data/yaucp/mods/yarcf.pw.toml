@@ -1,0 +1,8 @@
+name = "YARCF (Yet-Another-Recipe-Confict-Fixer)"
+filename = "mods/YARCF-0.14-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://packs.ecorous.org/YARCF-0.14-1.12.2.jar"
+hash-format = "sha1"
+hash = "d713d03e45b2f4d0b7521727d6496b6aa67908d1"

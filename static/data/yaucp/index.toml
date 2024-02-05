@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/YARCF-0.14-1.12.2.jar"
-hash = "3ed2869d6a0acc0454dd04d4e0aacad4a5ac764ef2dc0a331ffd35f8e61600b6"
-
-[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
 metafile = true
@@ -767,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/xtones.pw.toml"
 hash = "6c0516b9ed7436ab1b5a3c79709bb0d508e8586abdc0ef3fbfffb33601b20a96"
+metafile = true
+
+[[files]]
+file = "mods/yarcf.pw.toml"
+hash = "5dbe8d77cf69d1f267c204c9122dda091e66232302844cb4c5061992950c5d72"
 metafile = true
 
 [[files]]
