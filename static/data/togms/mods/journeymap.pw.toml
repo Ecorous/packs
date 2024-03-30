@@ -1,0 +1,18 @@
+name = "JourneyMap"
+filename = "journeymap-1.20.1-5.9.18-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/gQvJhjQf/journeymap-1.20.1-5.9.18-neoforge.jar"
+hash-format = "sha1"
+hash = "cccc91a8ab88e145b6358419ae8e52c7ce302d36"
+
+[option]
+optional = true
+default = true
+description = "Only disable this if you want to use Xaero's instead"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "gQvJhjQf"

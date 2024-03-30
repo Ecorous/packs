@@ -1,0 +1,13 @@
+name = "Grass Overhaul"
+filename = "Grass_Overhaul-Forge-23.06.09_MC1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eeb4VkF6/versions/OIfgPmaY/Grass_Overhaul-Forge-23.06.09_MC1.20.jar"
+hash-format = "sha1"
+hash = "cc0f9080fc637e52aa4919baa2a0e3e2d5d1dd8d"
+
+[update]
+[update.modrinth]
+mod-id = "Eeb4VkF6"
+version = "OIfgPmaY"

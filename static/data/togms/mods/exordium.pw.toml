@@ -1,0 +1,13 @@
+name = "Exordium"
+filename = "exordium-forge-1.2.1-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DynYZEae/versions/FINmaZaw/exordium-forge-1.2.1-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "e14424baf18665b404e5c52eb5f7c19eb5ef828a"
+
+[update]
+[update.modrinth]
+mod-id = "DynYZEae"
+version = "FINmaZaw"

@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-forge-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/UhRAdyzr/midnightlib-forge-1.4.2.jar"
+hash-format = "sha1"
+hash = "9c99369a5b703f428dc31f8e4a1a83fc892bba48"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "UhRAdyzr"

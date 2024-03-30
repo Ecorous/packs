@@ -1,0 +1,13 @@
+name = "Neat"
+filename = "Neat-1.20-35-FORGE.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/8pwOuctj/Neat-1.20-35-FORGE.jar"
+hash-format = "sha1"
+hash = "64a1e156a84e79db35312b33f84ba6b7f8064f1a"
+
+[update]
+[update.modrinth]
+mod-id = "Ins7SzzR"
+version = "8pwOuctj"
