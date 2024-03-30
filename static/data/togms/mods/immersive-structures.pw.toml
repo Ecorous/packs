@@ -1,6 +1,6 @@
 name = "Immersive structures"
 filename = "imst-2.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CVBAErky/versions/C1fCIQSh/imst-2.1.0.jar"

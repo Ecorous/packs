@@ -1,6 +1,6 @@
 name = "Repurposed Structures - Neoforge/Forge"
 filename = "repurposed_structures-7.1.13+1.20.1-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QDNS5oAT/versions/gYwLp8OL/repurposed_structures-7.1.13%2B1.20.1-forge.jar"
