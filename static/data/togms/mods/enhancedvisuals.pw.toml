@@ -1,6 +1,6 @@
 name = "EnhancedVisuals"
 filename = "EnhancedVisuals_FORGE_v1.6.9_mc1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/KjL0jE2w/versions/n3CzY6Cf/EnhancedVisuals_FORGE_v1.6.9_mc1.20.1.jar"
