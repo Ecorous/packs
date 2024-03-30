@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "0700d17f36cd6b256bc65d30c79068d2627faacc7d6a601140445740c8960743"
+hash = "2b4cfd92bfb151ebc3fa50713be9111a9467c67635786ff0afc68ccb2a6960e8"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "89b83a171841fbe236a853110653cba96017beb2b15318cc165909b226527a57"
+hash = "11181dee7fff9f174dfd2635c70d5422776be61119bb214dc8782076fb064138"
 metafile = true
 
 [[files]]
@@ -187,12 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5fe2b73d33efd03a5b487b10d98415318a89faf63d74965e0402b82b464c0f24"
+hash = "dd6a1bc770d0d32d11439457b8cf69a0fd3fb91316b9d01ce50daee672632b53"
 metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
-hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
+hash = "4d56498d822f43503545ce5f80318a61e1479403b5b2b178c50dd4afadd879c6"
 metafile = true
 
 [[files]]
