@@ -441,11 +441,6 @@ hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "b53b7e21c4bff864dcdedddce48d2e3566074e51d64ea4d9bf98446bee3ec9fb"
 metafile = true
