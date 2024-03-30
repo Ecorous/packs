@@ -96,6 +96,11 @@ hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "0c7c61055551d9e018a1f25716151a0e5778ce5964394ce30508282d696ac91c"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -443,11 +448,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "b53b7e21c4bff864dcdedddce48d2e3566074e51d64ea4d9bf98446bee3ec9fb"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps-forge.pw.toml"
-hash = "81006dc530e5aaeb55c00b6891f73cd9e2fc1f3f3b84819df3a00c4aae151c2d"
 metafile = true
 
 [[files]]
