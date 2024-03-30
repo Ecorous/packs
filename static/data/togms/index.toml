@@ -231,11 +231,6 @@ hash = "1eece46dbaa953c27cb398180534bc71bffc0fc40bced2718aeaeb929a402647"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "2f8c26de452ddf1fa8f754a3ffe1d01695c6c4ba1860b32d39f8e3b34965e338"
-metafile = true
-
-[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "d2964f35c1777c5357f56fc2ff2cce8a1506b3c490db43e5e155aedc97489172"
 metafile = true
@@ -522,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
+hash = "eede133dd250889ed521ba31ace80af20f71d47585a28de1184fe29fde83dad0"
 metafile = true
 
 [[files]]
