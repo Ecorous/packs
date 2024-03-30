@@ -19,6 +19,8 @@
 			return data.toml.versions.fabric;
 		} else if (data.toml.versions.forge != undefined) {
 			return data.toml.versions.forge;
+		} else if (data.toml.versions.neoforge != undefined) {
+			return data.toml.versions.neoforge;
 		}
 	}
 
@@ -29,6 +31,8 @@
 			return 'Fabric';
 		} else if (data.toml.versions.forge != undefined) {
 			return 'Forge';
+		} else if (data.toml.versions.neoforge != undefined) {
+			return 'NeoForge';
 		}
 	}
 	console.log(getModLoader(), getModLoaderVersion());
