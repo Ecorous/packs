@@ -201,6 +201,11 @@ hash = "4779a58dfed2d4daae42cfff25f07c177d70ec6307a346efb62f25329eb0d759"
 metafile = true
 
 [[files]]
+file = "mods/engineers-delight.pw.toml"
+hash = "8a361f7ec1dc47df4bc76d43145bd8494bba801c181757e34091822b18d120f2"
+metafile = true
+
+[[files]]
 file = "mods/enhancedvisuals.pw.toml"
 hash = "f352a8574eea2ef99a560621054d0359e57dbf965517facae7100fab191768d3"
 metafile = true
