@@ -256,6 +256,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "adb8a4df32e87b71c50ad245a2e0bf09e80fe9dd987241bbcfd82b4b90633e08"
+metafile = true
+
+[[files]]
 file = "mods/geckoanimfix.pw.toml"
 hash = "e5d14f6ff5314299881dbb51db12ea3e0613440b734c935335b951e0d6b6564d"
 metafile = true
