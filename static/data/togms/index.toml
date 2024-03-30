@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
-hash = "39ccc21f796e7daa6b464c411e9433ac9a5407235d9ca8e7e2390999c289cdc4"
+hash = "5df0cd4aac992db49d4a07bf569d5283e748a5406b14816ac78ad9dc7788cf71"
 metafile = true
 
 [[files]]
@@ -132,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "f99d86319f474bc75585c6cba1927f868846f91ab87ce8dcfe936b3462412296"
+hash = "d4768ef37900b4cc89d15e3fb12c59ad1b21818e247186b8ae1f491208b4abe8"
 metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
+hash = "80298b747a1905798731066e4d8344aa2bb3367fb8b7d7492780cac46e9047f7"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/engineered-compatibility.pw.toml"
-hash = "4779a58dfed2d4daae42cfff25f07c177d70ec6307a346efb62f25329eb0d759"
+hash = "106acef44fc2f94ac31f1e20b24d4556b8a2034d905dc7244a15eddf01684567"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-ecosphere.pw.toml"
-hash = "d2964f35c1777c5357f56fc2ff2cce8a1506b3c490db43e5e155aedc97489172"
+hash = "0cc233c469586aeba9217c2d4e83d229eb4ae4f39b3bfdaf8009a4c4d5fb81bf"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-structures.pw.toml"
-hash = "f085fada4c6433c9d178de70d6ef47f721298cd66d4cd2fa112bec0232d1d906"
+hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "b3319815b58da5ea01df59051daed685fe6da3f839a4a2c7b868ab59cadc1473"
+hash = "af9d3807b2ed2f127c9be685d07100a2860540fe8950afeb2676b9a23ce6e158"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "cd74d3de1cd246e509142cbee67c94b652aecb49927bf3c30f84081c54d41f5c"
+hash = "5041edf661d181e6b015bf06fd1ba194cf21ea3c431fe4e7f438b4ed6cd1e80c"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-forge.pw.toml"
-hash = "2d1c27606d06a2e46fc45b15ffe97e9acfe67674b43df3c366d326c5e3140d73"
+hash = "d0bfb0f9b101cb8180c69d330954423ea7c37ac981eaad9df0c3bfef92a5987e"
 metafile = true
 
 [[files]]
