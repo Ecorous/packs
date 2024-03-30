@@ -182,17 +182,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "5e3e6bd38266786f78f570307f54ab49bfc6337a0e6667d2635d3407c857ff86"
+hash = "362b9ed8f425595fc0da570edbdd6e706f07caba0b7bea15cfcde2c06c08193b"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "dd6a1bc770d0d32d11439457b8cf69a0fd3fb91316b9d01ce50daee672632b53"
+hash = "9642983064a3e7833bce67db6811f7a57cc653867c0346b455c404f8c57046e5"
 metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
-hash = "4d56498d822f43503545ce5f80318a61e1479403b5b2b178c50dd4afadd879c6"
+hash = "de4a79644cd23737c057209580ac536b483a878d971b52ffdfb8ec8d58dee9be"
 metafile = true
 
 [[files]]
@@ -261,6 +261,16 @@ hash = "adb8a4df32e87b71c50ad245a2e0bf09e80fe9dd987241bbcfd82b4b90633e08"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "0d2a80abab32de6a2094520dacb0fbca2d1a66f6c7f3c6f441c07320e2572856"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "dcab54200a705f5a74544011849f8d77e73776124e7b144a2d27d6117c949b84"
+metafile = true
+
+[[files]]
 file = "mods/geckoanimfix.pw.toml"
 hash = "e5d14f6ff5314299881dbb51db12ea3e0613440b734c935335b951e0d6b6564d"
 metafile = true
@@ -323,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "5041edf661d181e6b015bf06fd1ba194cf21ea3c431fe4e7f438b4ed6cd1e80c"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "e10bacddaa7815b0ec925be8e07405f5cc0ae170a2b17bc749928987f0a17f36"
 metafile = true
 
 [[files]]
@@ -423,6 +438,16 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
+metafile = true
+
+[[files]]
+file = "mods/plushed.pw.toml"
+hash = "546063efeb9edaea344f6d7b0de849d782e3ed8b6959bf77681dcc1c21e7c3f7"
+metafile = true
+
+[[files]]
+file = "mods/plushie.pw.toml"
+hash = "ffd04c420b2ecdaedf989925f215b6739a948d138278e4885a8f6fb7744e0cb4"
 metafile = true
 
 [[files]]
@@ -533,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "7ab7310d8e23e297e73fa93475c779c091ee1844738f233b20a5b05a4a2752a5"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "f836c2365476322130a2ae84481478206adfa576b4904cea93d26f7f22546d0d"
 metafile = true
 
 [[files]]

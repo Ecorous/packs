@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/j2HhbEE7/versions/LBT7pcVH/emitrades-forge-
 hash-format = "sha1"
 hash = "ea86eceb04978bc366fe022bbab5dd5ea0bd3ab4"
 
+[option]
+optional = true
+default = true
+description = "Use with EMI"
+
 [update]
 [update.modrinth]
 mod-id = "j2HhbEE7"
