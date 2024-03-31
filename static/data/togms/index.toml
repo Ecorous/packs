@@ -381,6 +381,11 @@ hash = "986020fce9df40c69d1e8f3102f3ead9fc538ab7452d7d141a92e6475cd5fbba"
 metafile = true
 
 [[files]]
+file = "mods/mc2discord.pw.toml"
+hash = "170979c837c5f71cf77539566281bab4bcd3c729ed179faabc9a5bd22982b72c"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "d4bbb1830a6368491f508961405f2f6a4523ffa0decaf7bca256be0d8de9f38f"
 metafile = true
