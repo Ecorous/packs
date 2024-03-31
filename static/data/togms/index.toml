@@ -231,6 +231,11 @@ hash = "0cc233c469586aeba9217c2d4e83d229eb4ae4f39b3bfdaf8009a4c4d5fb81bf"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "a1ac5b26263b133c2356048a03067e1767fec23bc85a9976444a673ddcc3efc0"
+metafile = true
+
+[[files]]
 file = "mods/extra-disks.pw.toml"
 hash = "d95b1f3369c96151b078a785f770cdae6a9e396563e278c7af40fff262462473"
 metafile = true
