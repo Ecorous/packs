@@ -106,11 +106,6 @@ hash = "0c7c61055551d9e018a1f25716151a0e5778ce5964394ce30508282d696ac91c"
 metafile = true
 
 [[files]]
-file = "mods/common-network.pw.toml"
-hash = "cc25d3864a3403cc2d6a376791e4e00d29b24863e6010273189f889bda9880c3"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -517,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "31b7f5371653df7c4f38580e0acefd1fd79a0bde7511d2e1d6997529b8b76a91"
+hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
 
 [[files]]
