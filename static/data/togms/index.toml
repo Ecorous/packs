@@ -106,6 +106,11 @@ hash = "0c7c61055551d9e018a1f25716151a0e5778ce5964394ce30508282d696ac91c"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "cc25d3864a3403cc2d6a376791e4e00d29b24863e6010273189f889bda9880c3"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -643,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "f836c2365476322130a2ae84481478206adfa576b4904cea93d26f7f22546d0d"
+metafile = true
+
+[[files]]
+file = "mods/useful-slime.pw.toml"
+hash = "5eb189df9d9ec1262dd30671a7763f0cfe5ded65ad54e630bd563a8c2b495e7c"
 metafile = true
 
 [[files]]
