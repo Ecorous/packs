@@ -646,11 +646,6 @@ hash = "f836c2365476322130a2ae84481478206adfa576b4904cea93d26f7f22546d0d"
 metafile = true
 
 [[files]]
-file = "mods/useful-slime.pw.toml"
-hash = "5eb189df9d9ec1262dd30671a7763f0cfe5ded65ad54e630bd563a8c2b495e7c"
-metafile = true
-
-[[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "9a417c6fc118cbb0938c118853b7016d674bd07cb170215f1b0d21a1683d974e"
 metafile = true
