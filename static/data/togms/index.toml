@@ -501,11 +501,6 @@ hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
 metafile = true
 
 [[files]]
-file = "mods/nostalgic-tweaks.pw.toml"
-hash = "ff24bbb0358d827675bd399dd46450e4911c9c22638a152e3dc6c2536da16650"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
