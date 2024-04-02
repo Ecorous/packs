@@ -351,6 +351,11 @@ hash = "e3980304e6363fb7188827c0ffa777cd315ce84a9b6e864133b3ddc9a8b172f4"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "466890884f695c1c058508c5c49e7717e666c7b17bc8a2fbffa450a5d9a9cbe4"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "26786535eea25820b346529635cb1ceae7901d5357c96f788ba444f0109b1206"
 metafile = true
