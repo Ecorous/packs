@@ -66,6 +66,7 @@
 </button>
 <a href={mmc_pack_url}>Direct Link</a>
 <br />
+<br />
 <details>
 	<summary>Mods (click to expand)</summary>
 	<div class="mods">
