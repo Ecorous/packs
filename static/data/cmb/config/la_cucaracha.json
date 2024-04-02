@@ -1,9 +1,0 @@
-{
-  "roachSpawnEnabledCarriers": true,
-  "roachSpawnEnabledStructures": true,
-  "roachSpawnIntervalStructures": 100,
-  "roachSpawnEnabledFood": true,
-  "roachSpawnIntervalFood": 100,
-  "roachMaxGroupSize": 2,
-  "roachAggressionGroupSize": 2
-}

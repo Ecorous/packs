@@ -1,4 +1,0 @@
-{
-	// Allows rolling while the player has its weapon on cooldown
-	"allow_rolling_while_weapon_cooldown": true
-}
