@@ -146,6 +146,11 @@ hash = "11181dee7fff9f174dfd2635c70d5422776be61119bb214dc8782076fb064138"
 metafile = true
 
 [[files]]
+file = "mods/creeper-no-break-blocks.pw.toml"
+hash = "c5b3a3941036b3cf8eab3a7b649d4d0663d1e53f31f56395bc45d69c9c46ebb3"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "d4768ef37900b4cc89d15e3fb12c59ad1b21818e247186b8ae1f491208b4abe8"
 metafile = true

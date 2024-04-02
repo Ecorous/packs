@@ -1,0 +1,13 @@
+name = "Creeper no Break Blocks"
+filename = "nocreeperexplosion-1.20.x-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ptis34fZ/versions/CORIhwsW/nocreeperexplosion-1.20.x-1.0.1.jar"
+hash-format = "sha1"
+hash = "41bf9505854c0933071ee7597318f513cffc4c95"
+
+[update]
+[update.modrinth]
+mod-id = "ptis34fZ"
+version = "CORIhwsW"
