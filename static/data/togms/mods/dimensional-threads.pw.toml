@@ -1,0 +1,13 @@
+name = "Dimensional Threads Reforked"
+filename = "dimthread-1.20.1-v1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/V92cR3aK/versions/4Pbba3Qs/dimthread-1.20.1-v1.0.0.jar"
+hash-format = "sha1"
+hash = "090bfc707e8543af429618691a562b6eb8cbd776"
+
+[update]
+[update.modrinth]
+mod-id = "V92cR3aK"
+version = "4Pbba3Qs"

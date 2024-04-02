@@ -21,6 +21,16 @@ hash = "8c4e8adf119e1cecee4ad94dec5a636846b73b7a45264e94434e90dff019eaf8"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "becc9f331f62d5c31b0e9abce703297f8a51d8a4baf4f2466552555bc5b15dd1"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "c04fd90b29363ba69b62d7aa71a15657343d6d0ecdd96b6f0ae2e912d70315ec"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5d03b477df607fc4fa5cde634a6e870413ab097ff9222d2f0a465ac0fbcdbea4"
 metafile = true
@@ -101,6 +111,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "974960749314aa138050edd717879be64c68cb07393e43ce2407773977309dc5"
 metafile = true
@@ -148,6 +163,16 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
+metafile = true
+
+[[files]]
+file = "mods/curtain.pw.toml"
+hash = "21951208b5a509fc773ace2e2d336557fc70c0144d96bc029596c6c1d8f62892"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-threads.pw.toml"
+hash = "87e3b63a3c7ca824946e03e0212c5ab9706c5632bfc7304759addb0e2b89529c"
 metafile = true
 
 [[files]]
@@ -327,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "26110905fde8948ed58d6ed0702cba0addafe61aeeb48a6319a728b0b56d6153"
+hash = "26786535eea25820b346529635cb1ceae7901d5357c96f788ba444f0109b1206"
 metafile = true
 
 [[files]]
@@ -431,6 +456,11 @@ hash = "86a82434eaea6987f956959b0fd0c351359d07d2a08bc5b0ccb669d35248b776"
 metafile = true
 
 [[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "a25c36602ae64b8e715109b21058d435eca4c95c1c39604b2e0c60a14dd7a55e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "91819e8cff5122b48bb26ee674a701264c9de18b73bcfb04f274662722f65e40"
 metafile = true
@@ -463,6 +493,21 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
+metafile = true
+
+[[files]]
+file = "mods/nostalgic-tweaks.pw.toml"
+hash = "ff24bbb0358d827675bd399dd46450e4911c9c22638a152e3dc6c2536da16650"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "31b7f5371653df7c4f38580e0acefd1fd79a0bde7511d2e1d6997529b8b76a91"
 metafile = true
 
 [[files]]
@@ -528,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "49e021e36597c5897050cb5fb75ca22a36283fbb410a3320035a0ffaf5a657af"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "2fa5ea494970356e540621e228ef4c717a7774ee12a6b0b5bf33a804cd1032b8"
 metafile = true
 
 [[files]]

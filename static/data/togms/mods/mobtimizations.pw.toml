@@ -1,0 +1,13 @@
+name = "Mobtimizations - Entity Performance Fixes"
+filename = "mobtimizations-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kbz7UydC/versions/mEhoYk0d/mobtimizations-forge-1.20.1-1.0.0.jar"
+hash-format = "sha1"
+hash = "1e7de73072e0adc9f09494cd79a79b1db030c293"
+
+[update]
+[update.modrinth]
+mod-id = "Kbz7UydC"
+version = "mEhoYk0d"
