@@ -6,7 +6,11 @@ import tomli
 import tomli_w
 import zipfile
 
-root_dir = os.path.abspath(sys.argv[0]).split("/build-scripts/mmc.py")[0]
+r = sys.argv[0]
+if os.name == "nt":
+    root_dir = os.path.abspath(r).split("\\build-scripts\\mmc.py")[0]
+else:
+    root_dir = os.path.abspath(sys.argv[0]).split("/build-scripts/mmc.py")[0]
 print("root_dir: " + str(root_dir))
 setup_persistent_dir = f"{root_dir}/.setup-persistent"
 print("setup_persistent_dir:", setup_persistent_dir)

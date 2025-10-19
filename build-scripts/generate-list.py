@@ -4,7 +4,12 @@ import sys
 import shutil
 import tomli
 
-root_dir = os.path.abspath(sys.argv[0]).split("/build-scripts/generate-list.py")[0]
+r = sys.argv[0]
+if os.name == "nt":
+    root_dir = os.path.abspath(r).split("\\build-scripts\\generate-list.py")[0]
+else:
+    root_dir = os.path.abspath(sys.argv[0]).split("/build-scripts/generate-list.py")[0]
+# root_dir = os.path.abspath(sys.argv[0]).split("/build-scripts/generate-list.py")[0]
 print("root_dir: " + str(root_dir))
 data_dir = root_dir + "/static/data"
 print("data_dir: " + data_dir)
@@ -20,12 +25,11 @@ os.mkdir(f"{data_dir}_mods")
 for x in files:
     mods_pack = []
     for m in os.listdir(f"{data_dir}/{x}/mods"):
-        
-        mod_toml_file = open(f"{data_dir}/{x}/mods/{m}", "rb")
-        mod_toml = tomli.load(mod_toml_file)
-        #print("adding: ", mod_toml["name"])
-        mods_pack.append(mod_toml["name"])
-        mod_toml_file.close()
+        if m.endswith("pw.toml"):
+            with open(f"{data_dir}/{x}/mods/{m}", "rb") as f:
+                mods_pack.append(tomli.load(f)["name"])
+        else:
+            mods_pack.append(m)
     output_file = open(f"{data_dir}_mods/{x}.json", "x")
     json.dump({"mods": mods_pack}, output_file, indent=4)
     
