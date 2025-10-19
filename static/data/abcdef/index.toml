@@ -315,6 +315,21 @@ hash = "dc1ec3c408ff563a7b887d02503475fd3935699fdcecd1182fac0c0c5d890a76"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-broadcast.pw.toml"
+hash = "9b445fae6ae0673476f38c4385de592575138d2894eb47d927d6a92396ab7435"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-groups.pw.toml"
+hash = "7a51b041979e7584c922ae8aefdb6de7b1a4d3ac443d16d594a4508ff6ac41a0"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88a224bb7ed128a523a0a27c42c571c2e049705e2d21227d1e9d18878835cda2"
 metafile = true
