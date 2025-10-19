@@ -1,0 +1,13 @@
+name = "pv-addon-groups"
+filename = "pv-addon-groups-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/g2HFPeCl/versions/IekmKjyq/pv-addon-groups-1.1.1.jar"
+hash-format = "sha512"
+hash = "814a1671cf2ca644aa3a71808db8d73ebe71b3d5ec5108da1f0fa6c00fc41518d4d8605a530546fb17afcec85ec63ff81ad829919e2c737ba897086b73bbca8f"
+
+[update]
+[update.modrinth]
+mod-id = "g2HFPeCl"
+version = "IekmKjyq"
