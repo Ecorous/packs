@@ -1,0 +1,16 @@
+filename = 'sophisticatedstoragecreateintegration-1.21.1-0.1.12.47.jar'
+name = 'Sophisticated Storage Create Integration'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'daf7d7db36a7e9136e933f862941554b2e836442a2cfe201eaafc2009edb734c2cd9ce045db31d3c4b320aef3aec7106b4db3f96cfce6cb00746ce96a580e9b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MJ0hdevs/versions/OCOCBDw2/sophisticatedstoragecreateintegration-1.21.1-0.1.12.47.jar'
+
+[update.modrinth]
+mod-id = 'MJ0hdevs'
+version = 'OCOCBDw2'

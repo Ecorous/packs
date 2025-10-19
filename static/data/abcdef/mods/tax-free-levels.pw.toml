@@ -1,0 +1,16 @@
+filename = 'TaxFreeLevels-1.4.7-neoforge-1.21.1.jar'
+name = 'Tax Free Levels'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f02e7c8ba0aacca9a04db0861fb61e3940cba767a77fea347f65f86fd9443a52cfee85d96678bdf2cb935970eb98c8573673d03b1263e0b6f6bcdfbd9ecc39b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jCBrrLTs/versions/eD8qmM43/TaxFreeLevels-1.4.7-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'jCBrrLTs'
+version = 'eD8qmM43'

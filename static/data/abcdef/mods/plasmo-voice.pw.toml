@@ -1,0 +1,16 @@
+filename = 'plasmovoice-neoforge-1.21-2.1.6.jar'
+name = 'Plasmo Voice'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f51eee7fa8916d899e002c87ddee3108abf2d5620a5a24a8b15cc6af34efa6ff9397df2be236311bbf176bf7e2158ee235b4942ba1d2cdd630a8ae3ee317b080'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bZhdhsH/versions/59VqRVbB/plasmovoice-neoforge-1.21-2.1.6.jar'
+
+[update.modrinth]
+mod-id = '1bZhdhsH'
+version = '59VqRVbB'

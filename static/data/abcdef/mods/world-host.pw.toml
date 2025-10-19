@@ -1,0 +1,16 @@
+filename = 'world-host-0.5.2+1.21.1-neoforge.jar'
+name = 'World Host'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8a5ab57e856be1a0d61e439d4f48c320d6482411e15e4c54646091c129b78d0f32b6f46d88b284e42ef9e219665510ae337aa903970ac21180129e5dbd3d2bfe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2AIZDfYo/versions/SGnkF0Pb/world-host-0.5.2%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = '2AIZDfYo'
+version = 'SGnkF0Pb'

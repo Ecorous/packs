@@ -1,0 +1,16 @@
+filename = 'Zoomify-2.14.6+1.21.1.jar'
+name = 'Zoomify'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ced6eac462c2dc33565d77bbf5b198860ce8afcb19a3e2b81d5548f35097fdaf1f4034fa1913eb6086baff70be00d27b62980784239c704346d36f14a0532b8f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/w7ThoJFB/versions/4IZeSKNU/Zoomify-2.14.6%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'w7ThoJFB'
+version = '4IZeSKNU'

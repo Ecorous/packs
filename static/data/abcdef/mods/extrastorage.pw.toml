@@ -1,0 +1,16 @@
+filename = 'ExtraStorage-1.21.1-5.0.7.jar'
+name = 'ExtraStorage'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71377c42f25e304984d6d9935b229bcf4a3c447ee4a4ee23ed888910ff4311e734b8e404eb04ba879a4b4c49931ef29e087f348236b20fa43ab36fa049c3888c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T34cBZKl/versions/xVf1Pr3H/ExtraStorage-1.21.1-5.0.7.jar'
+
+[update.modrinth]
+mod-id = 'T34cBZKl'
+version = 'xVf1Pr3H'

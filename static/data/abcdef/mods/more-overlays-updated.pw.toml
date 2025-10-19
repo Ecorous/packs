@@ -1,0 +1,16 @@
+filename = 'moreoverlays-1.23.2-mc1.21-neoforge.jar'
+name = 'More Overlays Updated'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2d69e998cfee7c5ac25a9851042912b215205b9eaabd8afa20988259f05a3d239ee8445ce61e396c6e951b0223e59b456691bb189ce4dd0e5c58efd44bf292f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Thy5Pqut/versions/W4urzLJ7/moreoverlays-1.23.2-mc1.21-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'Thy5Pqut'
+version = 'W4urzLJ7'

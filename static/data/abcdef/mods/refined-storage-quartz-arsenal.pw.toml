@@ -1,0 +1,16 @@
+filename = 'refinedstorage-quartz-arsenal-neoforge-1.0.6.jar'
+name = 'Refined Storage - Quartz Arsenal'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9777228b9c02b87f0c5d481e0994e9f8308327d2149716bc1211b0b8507a2e855da0a5fefd3d2b42589f6969f5aea03e357a6656a3fe3f701dde8b4b00a2a53d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gnwGOmBf/versions/h1u9fD0G/refinedstorage-quartz-arsenal-neoforge-1.0.6.jar'
+
+[update.modrinth]
+mod-id = 'gnwGOmBf'
+version = 'h1u9fD0G'

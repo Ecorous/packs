@@ -1,0 +1,13 @@
+name = "abcdef"
+author = "ecorous"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "27880a65a0b5a9c57d7483d4853165a50304b5ca287e1bf3ed5694acd3a98e98"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.211"
