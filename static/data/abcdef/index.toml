@@ -6,6 +6,16 @@ hash = "bc094a0eca2d09da3fab4caee7b639f7c4a4f17bb35c0100ccb21b0d1ec8277a"
 metafile = true
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "9f3abbba0805d021f4fec52693732de1c098ab6049f6065b9be494e9c339eeee"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5b786ab7a57e37ec4b8f888157f79608e871653fc4b6a8cba0296690fe863704"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "7bd3b15cd2ab8171abfb4a6014b08d32c01beab0ad302954e57e82170a1f3ea4"
 metafile = true
@@ -108,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "f6456bbc157f753270670aae2fd8b6591ab2790419165aa75623c1aa77af7d8d"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -287,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "3b78864913184ce5e28ba8a68a3b05bbf519f727e3a03fc7441ec698167a480f"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
