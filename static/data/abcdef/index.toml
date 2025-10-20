@@ -111,6 +111,11 @@ hash = "1c515d7cfe653e945c455bc0c164bd9486f068ad6771fddc1dd0be7b8779245c"
 metafile = true
 
 [[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "5de2bbab0826b5241e16746b0b739ca5169b0a9df38181d58e8519e6ea7f535f"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "45e724f3cae6fed0cd76360ac954910a66f1918d29aab14a72f9da15652e558f"
 metafile = true
