@@ -450,6 +450,11 @@ hash = "4380d418ea67d418e37f4cc48e0b2f5ca73d012dc58f124efc6abc78d5057851"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
+metafile = true
+
+[[files]]
 file = "mods/tweakerge.pw.toml"
 hash = "4bc5091848f900d3a3e7a5af6787050053292f63cbb940e3f238a5015152a97f"
 metafile = true
