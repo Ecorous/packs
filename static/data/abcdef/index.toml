@@ -61,8 +61,23 @@ hash = "a4e64d4fdbae0d2f11e5dc1fd01f8551f8449afff649cf7ad46c8fe5e7205e42"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/caxton.pw.toml"
 hash = "630b5713cf08c74361325996ce19046d25a758a33021f3889565335b52963e7a"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "88773a3eb40bdea95e454e38e9f8b8154d119997fbdd31c7c4bf8c24baaf4de4"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
 metafile = true
 
 [[files]]
@@ -146,6 +161,11 @@ hash = "00cdea4df136d1824fbea0d1312445337d86d191888d09c6435bded8bc8ec8b2"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "ac69412388c0505d5d3ef8ea8b1dcc02850b529d328466c13e60bf06656a5301"
 metafile = true
@@ -222,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/grind-enchantments.pw.toml"
 hash = "ff339d3fd9feb84ac21a980a5844359f51f3e8564ab4b7745958a1e494c02695"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "fe534103fe33ec364646a17fd9a597fa7a6003d4a4426a4305477770ce32192f"
 metafile = true
 
 [[files]]
