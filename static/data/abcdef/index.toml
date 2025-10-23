@@ -96,6 +96,11 @@ hash = "a17e9d14a3efb24b659673f58de17eacf700e46062d91b6a45359145dc220282"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "483eda7dbef2fbbc45741b08733918fdf72036047fcda3f1a5d22d4822db6f75"
 metafile = true
